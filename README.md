@@ -1,8 +1,4 @@
-# chapter-project-repository-template
-Use this Repository as a template for creating Local Chapter Repositories
-
-
-# [Chapter Challenge Name]
+# Developing a Data-Driven Model for Waste Management Optimization
 
 
 ## Contribution Guidelines
