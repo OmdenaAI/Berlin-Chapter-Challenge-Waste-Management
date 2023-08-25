@@ -1,8 +1,8 @@
-# Data Driven Waste Management Optimization
+# chapter-project-repository-template
 Use this Repository as a template for creating Local Chapter Repositories
 
 
-# [Berlin Chapter Challenge Waste Management]
+# Berlin Chapter Challenge Waste Management
 
 ## The Problem Statement:
 The local problem we are trying to solve is the suboptimal waste management practices and the lack of data-driven decision-making in our community. We aim to tackle issues such as inefficient waste treatment, limited recycling rates, and environmental impact caused by improper waste disposal. By harnessing the potential of data science, we can identify opportunities for improvement, optimize waste treatment methods, and ultimately enhance the sustainability of our local waste management system.
