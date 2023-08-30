@@ -11,9 +11,9 @@ Note : Please Follow the below guidelines to create task folders
 
 | Task No| Task Name | Details |
 |-|-|-|
-|1|         |Data Collection         |
-|2|         |Data Cleaning         |
-|3|         |Exploratory Data Analysis         |
-|4|         |Model Development and Evaluation         |
-|5|         |Deployment         |
+|1|Data Collection          |         |
+|2|Data Cleaning         |         |
+|3|Exploratory Data Analysis          |        |
+|4|Model Development and Evaluation          |        |
+|5|Deployment         |         |
 |6|Political Rationale| The entire basis of the political rationale is to create a document upon which we could use as a basis to know if the direction of our current application is viable or not|
