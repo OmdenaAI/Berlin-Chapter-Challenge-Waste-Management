@@ -1,0 +1,365 @@
+GENESIS table: 32121-0001
+Volume of household waste: Germany, years,;;;;;
+types of waste;;;;;
+Survey of the public Waste disposal;;;;;
+Germany as a whole: Germany;;;;;
+;;Amount of household waste;Amount of household waste per inhabitant;Household waste disposed of by the first recipient;Household waste recycled by the first recipient
+;;1000t;kg;1000t;1000t
+2004;household and bulky waste;17045.8;207;16049.6;996.2
+2004; Household waste, commercial waste similar to household waste;14452.4;175;14034.0;418.4
+2004; Bulky waste;2593.4;31;2015.6;577.8
+2004; Separately collected organic waste; 8411.4; 102; 43.8; 8367.6
+2004; Waste from the compost bin;4121.1;50;13.4;4107.8
+2004; Biodegradable waste (garden, park waste);4290.3;52;30.5;4259.8
+2004; Separately collected recyclable materials; 11570.6; 140; 47.4; 11523.1
+2004; Glass;2126.7;26;6.2;2120.4
+2004; Mixed valuables/packaging (incl. lightweight packaging), composites; 2376.1; 29; 27.5; 2348.5
+2004; Paper, Cardboard, Cardboard (PPK);5866.4;71;4.1;5862.3
+2004; metals;408.5;5;0.1;408.4
+2004; Wood;582.8;7;4.3;578.5
+2004; Plastics;127.7;2;3.5;124.2
+2004; Textiles;82.4;1;1.6;80.8
+2004;waste electrical appliances;302.6;4;1.8;294.9
+2004;Other waste;253.5;3;146.0;105.4
+2004; Other hazardous waste;44.3;1;23.4;19.0
+2004; Other non-hazardous waste;209.2;3;122.6;86.4
+2004;Total;37583.9;456;16288.7;21287.3
+2005;household and bulky waste;16777.4;204;15378.8;1398.6
+2005; Household waste, commercial waste similar to household waste;14327.7;174;13717.2;610.5
+2005; Bulky waste;2449.7;30;1661.6;788.1
+2005; Separately collected organic waste; 8337.1; 101; 35.4; 8301.6
+2005; Waste from the compost bin;4082.8;50;17.3;4065.5
+2005; Biodegradable waste (garden, park waste);4254.3;52;18.2;4236.1
+2005; Separately collected recyclable materials; 11665.7; 142; 62.5; 11603.3
+2005; Glass; 1995.4; 24; 1.0; 1994.4
+2005; Mixed valuables/packaging (incl. lightweight packaging), composites; 2462.1; 30; 51.0; 2411.2
+2005; Paper, Cardboard, Cardboard (PPK);5925.7;72;1.4;5924.3
+2005; metals;374.5;5;0.0;374.4
+2005; Wood;728.9;9;3.7;725.2
+2005; Plastics;83.1;1;4.0;79.2
+2005; Textiles;96.0;1;1.4;94.7
+2005;waste electrical appliances;306.8;4;5.1;301.7
+2005;Other waste;162.3;2;65.6;96.7
+2005; Other hazardous waste;40.6;0;22.5;18.1
+2005; Other non-hazardous waste;121.6;1;43.1;78.6
+2005;Total;37249.3;452;15547.4;21701.8
+2006; domestic and bulky waste; 16686.9; 203; 14986.5; 1700.3
+2006; Household waste, commercial waste similar to household waste;14238.1;173;13401.9;836.1
+2006; Bulky waste;2448.8;30;1584.6;864.2
+2006; Separately collected organic waste; 8449.8; 103; 71.6; 8378.2
+2006; Waste from the organic waste bin; 4150.0; 50; 9.2; 4140.8
+2006; Biodegradable waste (garden, park waste);4299.7;52;62.3;4237.4
+2006; Separately collected recyclable materials; 12037.1; 146; 469.6; 11567.5
+2006; Glass; 1998.1; 24; 3.9; 1994.2
+2006; Mixed valuables/packaging (incl. lightweight packaging), composites; 2515.0; 31; 340.0; 2175.0
+2006; Paper, Cardboard, Cardboard (PPK);6131.8;74;2.3;6129.4
+2006; Metals;312.7;4;1.1;311.6
+2006; Wood;879.6;11;81.2;798.5
+2006; Plastics;107.7;1;39.8;67.8
+2006; Textiles;92.3;1;1.3;91.0
+2006;Waste electrical equipment;.;.;.;.
+2006;Other waste;162.9;2;54.5;104.2
+2006; Other hazardous waste;43.2;1;22.4;16.6
+2006; Other non-hazardous waste;119.8;1;32.1;87.6
+2006;Total;37336.7;454;15582.2;21750.2
+2007; domestic and bulky waste; 16441.6; 200; 14895.0; 1546.6
+2007; Household waste, commercial waste similar to household waste;14086.8;171;13393.4;693.4
+2007; Bulky waste;2354.8;29;1501.7;853.1
+2007; Separately collected organic waste; 8780.2; 107; 4.4; 8775.8
+2007; Waste from the compost bin;4215.2;51;2.0;4213.2
+2007; Biodegradable waste (garden, park waste);4565.0;56;2.4;4562.6
+2007; Separately collected recyclable materials; 11973.3; 146; 432.0; 11541.3
+2007; Glass;1951.7;24;2.2;1949.6
+2007; Mixed valuables/packaging (incl. lightweight packaging), composites; 2454.8; 30; 311.0; 2143.7
+2007; Paper, Cardboard, Cardboard (PPK);6159.3;75;3.7;6155.6
+2007; Metals;280.1;3;0.6;279.5
+2007; Wood;933.4;11;78.4;855.0
+2007; Plastics;98.3;1;34.9;63.4
+2007; Textiles;95.7;1;1.3;94.5
+2007;Waste electrical equipment;.;.;.;.
+2007;Other waste;162.0;2;65.0;96.9
+2007; Other hazardous waste;42.2;1;26.0;16.2
+2007; Other non-hazardous waste;119.8;1;39.1;80.7
+2007;Total;37357.0;454;15396.4;21960.6
+2008;household and bulky waste;16096.5;196;14495.2;1601.3
+2008; Household waste, commercial waste similar to household waste;13796.8;168;13043.8;753.0
+2008; Bulky waste;2299.7;28;1451.4;848.3
+2008; Separately collected organic waste; 8743.0; 107; 12.5; 8730.5
+2008; Waste from the compost bin;4212.3;51;8.9;4203.4
+2008; Biodegradable waste (garden, park waste);4530.7;55;3.6;4527.1
+2008; Separately collected recyclable materials; 11721.0; 143; 411.4; 11309.6
+2008; Glass;1909.9;23;0.8;1909.1
+2008; Mixed valuables/packaging (incl. lightweight packaging), composites; 2463.4; 30; 317.1; 2146.3
+2008; Paper, Cardboard, Cardboard (PPK);6006.9;73;2.4;6004.5
+2008; metals;246.7;3;0.3;246.4
+2008; Wood;935.6;11;73.6;861.9
+2008; Plastics;58.5;1;15.7;42.8
+2008; Textiles;100.2;1;1.6;98.6
+2008;old electrical appliances;.;.;.;.
+2008;Other waste;162.3;2;66.9;95.4
+2008; Other hazardous waste;60.0;1;39.3;20.7
+2008; Other non-hazardous waste;102.3;1;27.6;74.7
+2008;Total;36722.8;448;14986.0;21736.7
+2009;household and bulky waste;16238.0;199;14130.6;2107.4
+2009; Household waste, commercial waste similar to household waste;13843.6;169;12612.4;1231.2
+2009; Bulky waste;2394.4;29;1518.2;876.2
+2009; Separately collected organic waste; 9096.5; 111; 12.0; 9084.4
+2009; Waste from the compost bin;4325.0;53;1.5;4323.4
+2009; Biodegradable waste (garden, park waste);4771.5;58;10.5;4761.0
+2009; Separately collected recyclable materials; 11690.1; 143; 389.7; 11300.3
+2009; Glass;1899.1;23;0.5;1898.6
+2009; Mixed valuables/packaging (incl. lightweight packaging), composites; 2479.7; 30; 352.2; 2127.5
+2009; Paper, Cardboard, Cardboard (PPK);5878.5;72;1.8;5876.6
+2009; metals;284.9;3;0.0;284.9
+2009; Wood;990.0;12;18.5;971.6
+2009; Plastics;58.4;1;15.8;42.6
+2009; Textiles;99.4;1;0.9;98.6
+2009;old electrical appliances;.;.;.;.
+2009;Other waste;195.6;2;72.6;123.0
+2009; Other hazardous waste;63.3;1;30.7;32.5
+2009; Other non-hazardous waste;132.3;2;41.8;90.4
+2009;Total;37220.1;455;14604.9;22615.2
+2010;household and bulky waste;16088.1;197;13970.9;2117.2
+2010; Household waste, commercial waste similar to household waste;13715.1;168;12436.4;1278.7
+2010; Bulky waste;2373.0;29;1534.5;838.5
+2010;Organic waste collected separately;8779.6;107;7.7;8771.9
+2010; Waste from the compost bin;4204.3;51;1.3;4203.0
+2010; Biodegradable waste (garden, park waste);4575.4;56;6.4;4569.0
+2010; Separately collected recyclable materials; 11724.7; 143; 380.9; 11343.8
+2010; Glass;1910.8;23;0.4;1910.5
+2010; Mixed valuables/packaging (incl. lightweight packaging), composites; 2525.7; 31; 333.1; 2192.6
+2010; Paper, Cardboard, Cardboard (PPK);5874.9;72;1.5;5873.4
+2010; metals;272.1;3;0.3;271.8
+2010; Wood;995.0;12;37.9;957.1
+2010; Plastics;45.9;1;7.3;38.6
+2010; Textiles;100.3;1;0.5;99.8
+2010;Waste electrical equipment;.;.;.;.
+2010;Other waste;189.0;2;61.1;127.9
+2010; Other hazardous waste;59.8;1;27.6;32.3
+2010; Other non-hazardous waste;129.2;2;33.5;95.7
+2010;Total;36781.5;450;14420.6;22360.9
+2011;household and bulky waste;16003.8;199;13512.6;2491.3
+2011; Household waste, commercial waste similar to household waste;13583.5;169;11988.6;1595.0
+2011; Bulky waste;2420.3;30;1524.0;896.3
+2011; Separately collected organic waste; 9083.2; 113; 45.8; 9037.3
+2011; Waste from the compost bin;4349.7;54;0.0;4349.7
+2011; Biodegradable waste (garden, park waste);4733.4;59;45.8;4687.6
+2011; Separately collected recyclable materials; 12011.3; 150; 361.0; 11650.3
+2011; Glass;1956.0;24;0.6;1955.4
+2011; Mixed valuables/packaging (incl. lightweight packaging), composites; 2596.8; 32; 320.6; 2276.3
+2011; Paper, Cardboard, Cardboard (PPK);5967.0;74;1.0;5966.0
+2011; metals;262.1;3;0.0;262.1
+2011; Wood;1064.3;13;23.9;1040.4
+2011; Plastics;61.7;1;14.5;47.2
+2011; Textiles;103.4;1;0.5;102.8
+2011;Waste electrical equipment;.;.;.;.
+2011;Other waste;97.7;1;52.0;45.7
+2011; Other hazardous waste;44.6;1;26.5;18.1
+2011; Other non-hazardous waste;53.2;1;25.5;27.7
+2011;Total;37196.0;463;13971.4;23224.6
+2012;household and bulky waste;15573.1;193;11314.6;4258.4
+2012; Household waste, commercial waste similar to household waste;13212.8;164;9990.9;3221.9
+2012; Bulky waste;2360.3;29;1323.8;1036.5
+2012;Separately collected organic waste;9095.5;113;12.4;9083.1
+2012; Waste from the compost bin;4358.5;54;0.1;4358.4
+2012; Biodegradable waste (garden, park waste);4737.0;59;12.3;4724.7
+2012; Separately collected recyclables; 11917.9; 148; 392.9; 11525.0
+2012; Glass;1908.8;24;0.6;1908.2
+2012; Mixed valuables/packaging (incl. lightweight packaging), composites; 2570.0; 32; 327.1; 2242.9
+2012; Paper, Cardboard, Cardboard (PPK);5837.8;72;9.2;5828.6
+2012; metals;253.3;3;0.0;253.3
+2012; Wood;1122.0;14;16.2;1105.8
+2012; Plastics;126.1;2;39.3;86.8
+2012; Textiles;100.0;1;0.4;99.5
+2012;Waste electrical equipment;.;.;.;.
+2012;Other waste;135.3;2;61.5;73.8
+2012; Other hazardous waste;48.5;1;27.7;20.8
+2012; Other non-hazardous waste;86.8;1;33.9;52.9
+2012;Total;36721.8;456;11781.5;24940.4
+2013;household and bulky waste;15465.4;191;9253.7;6211.7
+2013; Household waste, commercial waste similar to household waste; 13118.2; 162; 8112.9; 5005.4
+2013; Bulky waste;2347.2;29;1140.8;1206.4
+2013; Separately collected organic waste; 9056.4; 112; 10.0; 9046.4
+2013; Waste from the compost bin;4292.0;53;0.0;4292.0
+2013; Biodegradable waste (garden, park waste);4764.4;59;10.0;4754.4
+2013; Separately collected recyclable materials; 11950.8; 148; 378.4; 11572.4
+2013; Glass;1908.4;24;0.4;1908.0
+2013; Mixed valuables/packaging (incl. lightweight packaging), composites; 2619.1; 32; 332.3; 2286.8
+2013; Paper, Cardboard, Cardboard (PPK);5793.4;72;9.9;5783.5
+2013; metals;261.0;3;0.0;261.0
+2013; Wood;1156.6;14;19.2;1137.4
+2013; Plastics;99.6;1;16.3;83.3
+2013; Textiles;112.7;1;0.3;112.4
+2013;Waste electrical equipment;.;.;.;.
+2013;Other waste;151.3;2;55.2;96.1
+2013; Other hazardous waste;48.0;1;27.7;20.3
+2013; Other non-hazardous waste;103.3;1;27.5;75.7
+2013;Total;36623.9;453;9697.3;26926.6
+2014;household and bulky waste;15518.1;191;7851.6;7666.4
+2014; Household waste, commercial waste similar to household waste;13170.6;162;6810.2;6360.4
+2014; Bulky waste;2347.5;29;1041.4;1306.0
+2014;Separately collected organic waste;9831.5;121;14.1;9817.3
+2014; Waste from the compost bin;4602.9;57;1.2;4601.7
+2014; Biodegradable waste (garden, park waste);5228.6;64;12.9;5215.7
+2014; Separately collected recyclables; 12045.5; 148; 362.1; 11683.5
+2014; Glass;1877.9;23;0.7;1877.1
+2014; Mixed valuables/packaging (incl. lightweight packaging), composites; 2649.3; 33; 314.6; 2334.6
+2014; Paper, cardboard, cardboard (PPK);5809.0;72;1.7;5807.3
+2014; metals;261.4;3;0;261.4
+2014; Wood;1222.6;15;24.8;1197.8
+2014; Plastics;101.7;1;19.8;81.9
+2014; Textiles;123.7;2;0.4;123.3
+2014;Waste electrical equipment;.;.;.;.
+2014;Other waste;158.8;2;52.0;106.8
+2014; Other hazardous waste;51.6;1;26.9;24.7
+2014; Other non-hazardous waste;107.2;1;25.1;82.1
+2014;Total;37553.9;462;8279.8;29274.1
+2015;household and bulky waste;15461.8;188;7816.7;7645.1
+2015; Household waste, commercial waste similar to household waste;13123.9;160;6786.8;6337.0
+2015; Bulky waste;2338.0;28;1029.9;1308.1
+2015;Separately collected organic waste;9665.8;118;13.3;9652.5
+2015; Waste from the compost bin;4569.3;56;0.1;4569.2
+2015; Biodegradable waste (garden, park waste);5096.5;62;13.2;5083.3
+2015; Separately collected recyclables; 12089.7; 147; 378.8; 11710.8
+2015; Glass;1883.4;23;1.3;1882.1
+2015; Mixed valuables/packaging (incl. lightweight packaging), composites; 2687.0; 33; 317.6; 2369.4
+2015; Paper, Cardboard, Cardboard (PPK);5725.3;70;1.2;5724.1
+2015; metals;272.5;3;0.0;272.5
+2015; Wood;1263.3;15;33.5;1229.8
+2015; Plastics;118.7;1;24.8;94.0
+2015; Textiles;139.5;2;0.5;139.0
+2015;Waste electrical equipment;.;.;.;.
+2015;Other waste;158.4;2;54.6;103.8
+2015; Other hazardous waste;53.0;1;26.5;26.5
+2015; Other non-hazardous waste;105.4;1;28.0;77.4
+2015;Total;37375.7;455;8263.4;29112.3
+2016;household and bulky waste;15539.7;188;6449.4;9090.3
+2016; Household waste, commercial waste similar to household waste;13137.4;159;5515.4;7622.0
+2016; Bulky waste;2402.3;29;934.0;1468.3
+2016;Separately collected organic waste;10183.4;123;16.1;10167.3
+2016; Waste from the compost bin;4828.7;59;0.4;4828.3
+2016; Biodegradable waste (garden, park waste);5354.7;65;15.7;5339.0
+2016; Separately collected recyclables; 12211.6; 148; 406.6; 11805.0
+2016; Glass;1879.2;23;1.6;1877.5
+2016; Mixed valuables/packaging (incl. lightweight packaging), composites; 2754.3; 33; 345.6; 2408.7
+2016; Paper, cardboard, cardboard (PPK);5710.9;69;1.3;5709.7
+2016; Metals;302.5;4;0.0;302.5
+2016; Wood;1299.2;16;30.9;1268.3
+2016; Plastics;123.8;2;26.6;97.2
+2016; Textiles;141.7;2;0.5;141.1
+2016;Waste electrical equipment;.;.;.;.
+2016;Other waste;168.4;2;50.3;118.1
+2016; Other hazardous waste;58.1;1;25.9;32.2
+2016; Other non-hazardous waste;110.3;1;24.4;86.0
+2016;Total;38103.1;462;6922.4;31180.7
+2017;household and bulky waste;15558.6;188;2602.8;12955.8
+2017; Household waste, commercial waste similar to household waste;13092.6;158;2293.5;10799.1
+2017; Bulky waste;2466.0;30;309.3;2156.7
+2017; Separately collected organic waste; 10318.0; 125; 0.2; 10317.8
+2017; Waste from the compost bin;4903.5;59;0.1;4903.4
+2017; Biodegradable waste (garden, park waste);5414.5;65;0.1;5414.4
+2017; Separately collected recyclables; 12235.6; 148; 6.3; 12229.2
+2017; Glass;1887.4;23;2.2;1885.2
+2017; Mixed valuables/packaging (incl. lightweight packaging), composites; 2753.2; 33; 2.5; 2750.7
+2017; Paper, Cardboard, Cardboard (PPK);5675.6;69;0.0;5675.6
+2017; metals;314.6;4;0.0;314.6
+2017; Wood;1302.5;16;1.6;1300.9
+2017; Plastics;133.8;2;0.1;133.7
+2017; Textiles;168.5;2;0.0;168.5
+2017;Waste electrical equipment;.;.;.;.
+2017;Other waste;161.6;2;32.1;129.5
+2017; Other hazardous waste;62.1;1;24.9;37.2
+2017; Other non-hazardous waste;99.5;1;7.3;92.2
+2017;Total;38273.7;462;2641.4;35632.3
+2018;household and bulky waste;15551.2;187;2551.9;12999.3
+2018; Household waste, commercial waste similar to household waste;13011.9;157;2239.9;10772.0
+2018; Bulky waste;2539.3;31;312.0;2227.3
+2018;Separately collected organic waste;9930.9;120;-;9930.9
+2018; Waste from the compost bin;4811.9;58;-;4811.9
+2018; Biodegradable waste (garden, park waste);5119.1;62;-;5119.1
+2018; Separately collected recyclables; 12099.1; 146; 7.4; 12091.7
+2018; Glass;1876.7;23;2.1;1874.6
+2018; Mixed valuables/packaging (incl. lightweight packaging), composites; 2753.8; 33; 0.3; 2753.5
+2018; Paper, Cardboard, Cardboard (PPK);5581.7;67;3.4;5578.3
+2018; metals;318.4;4;-;318.4
+2018; Wood;1300.5;16;1.6;1298.9
+2018; Plastics;111.2;1;0.1;111.1
+2018; Textiles;156.7;2;0.0;156.7
+2018;Waste electrical appliances;.;.;.;.
+2018;Other waste;178.1;2;35.9;142.2
+2018; Other hazardous waste;71.1;1;25.5;45.6
+2018; Other non-hazardous waste;107.0;1;10.4;96.5
+2018;Total;37759.3;455;2595.2;35164.1
+2019;household and bulky waste;15551.0;187;2476.7;13074.4
+2019; Household waste, commercial waste similar to household waste;12943.2;156;2156.6;10786.6
+2019; Bulky waste;2607.8;31;320.1;2287.8
+2019;Separately collected organic waste;10168.4;122;0.4;10168.1
+2019; Waste from the compost bin;4974.0;60;-;4974.0
+2019; Biodegradable waste (garden, park waste);5194.4;62;0.4;5194.1
+2019; Separately collected recyclables; 12135.3; 146; 2.8; 12132.5
+2019; Glass;1901.6;23;1.0;1900.6
+2019; Mixed valuables/packaging (incl. lightweight packaging), composites; 2779.3; 33; 1.1; 2778.2
+2019; Paper, Cardboard, Cardboard (PPK);5501.7;66;0.0;5501.7
+2019; metals;325.6;4;0.0;325.6
+2019; Wood;1371.6;16;0.7;1370.8
+2019; Plastics;100.2;1;0.0;100.2
+2019; Textiles;155.2;2;0.0;155.2
+2019;Waste electrical and electronic equipment;.;.;.;.
+2019;Other waste;186.2;2;36.2;150.0
+2019; Other hazardous waste;78.2;1;25.4;52.8
+2019; Other non-hazardous waste;108.1;1;10.8;97.2
+2019;Total;38041.0;457;2516.0;35525.0
+2020;household and bulky waste;16135.8;194;734.3;15401.5
+2020; Household waste, commercial waste similar to household waste;13290.5;160;635.7;12654.8
+2020; Bulky waste;2845.2;34;98.5;2746.7
+2020;Separately collected organic waste;10634.2;128;0.5;10633.7
+2020; Waste from the compost bin;5300.6;64;0.0;5300.6
+2020; Biodegradable waste (garden, park waste);5333.6;64;0.5;5333.1
+2020; Separately collected recyclable materials; 12633.6; 152; 1.3; 12632.2
+2020; Glass;2063.4;25;0.7;2062.7
+2020; Mixed valuables/packaging (incl. lightweight packaging), composites; 2932.3; 35; 0.5; 2931.8
+2020; Paper, cardboard, cardboard (PPK);5511.9;66;-;5511.9
+2020; metals;440.9;5;-;440.9
+2020; Wood;1391.6;17;0.0;1391.6
+2020; Plastics;106.5;1;0.1;106.4
+2020; Textiles;187.0;2;0.0;187.0
+2020;Waste electrical appliances;.;.;.;.
+2020;Other waste;204.0;2;33.6;170.5
+2020; Other hazardous waste;86.3;1;23.3;63.0
+2020; Other non-hazardous waste;117.7;1;10.3;107.5
+2020;Total;39607.6;476;769.7;38837.9
+2021;household and bulky waste;16343.4;196;671.9;15671.6
+2021; Household waste, commercial waste similar to household waste;13253.0;159;585.9;12667.2
+2021; Bulky waste;3090.4;37;86.0;3004.4
+2021;Separately collected organic waste;11170.4;134;0.4;11170.0
+2021; Waste from the compost bin;5592.9;67;-;5592.9
+2021; Biodegradable waste (garden, park waste);5577.5;67;0.4;5577.1
+2021; Separately collected recyclable materials; 12467.4; 150; 2.6; 12464.8
+2021; Glass;2035.9;24;0.6;2035.3
+2021; Mixed valuables/packaging (incl. lightweight packaging), composites; 2917.1; 35; 0.8; 2916.2
+2021; Paper, Cardboard, Cardboard (PPK);5427.5;65;0.8;5426.6
+2021; metals;417.0;5;0.1;416.9
+2021; Wood;1360.0;16;-;1360.0
+2021; Plastics;133.8;2;0.2;133.6
+2021; Textiles;176.2;2;0.0;176.2
+2021;Waste electrical appliances;.;.;.;.
+2021;Other waste;274.8;3;101.1;173.7
+2021; Other hazardous waste;84.0;1;23.7;60.3
+2021; Other non-hazardous waste;190.9;2;77.4;113.4
+2021;Total;40256.1;484;776.0;39480.1
+__________
+"Amount of household waste:
+Due to the regionally different organization of the
+public waste disposal contain the
+Household waste to varying degrees similar to household waste
+Commercial waste (so-called business waste).
+
+Volume of household waste per inhabitant:
+Calculated with the population as of December 31st,
+from reporting year 2011 on the basis of the 2011 census.
+
+Old electrical appliances:
+Quantities of WEEE are only in the years 2004 and
+included in 2005."
+© Federal Statistical Office (Destatis), 2023
+Status: 08/30/2023 / 20:31:32
