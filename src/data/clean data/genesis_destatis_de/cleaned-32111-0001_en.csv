@@ -1,0 +1,6 @@
+Statistics_Code,Statistics_Label,time_code,time_label,Time,1_feature_code,1_feature_label,1_expression_code,1_expression_label,Waste_Disposal_Plants,Input_from_waste_disposal_plants,Waste_generated_in_own_operation,Waste_delivered_from_the_country,Waste_delivered_from_abroad
+32111,Collection of waste disposal,JAHR,Jahr,2017,DINSG,Germany as a whole,DG,Deutschland,14625,417337.7,56730.8,351899.4,8707.5
+32111,Collection of waste disposal,JAHR,Jahr,2018,DINSG,Germany as a whole,DG,Deutschland,14196,421391.0,54037.8,359142.8,8210.4
+32111,Collection of waste disposal,JAHR,Jahr,2019,DINSG,Germany as a whole,DG,Deutschland,13876,420258.0,50261.1,362098.7,7898.3
+32111,Collection of waste disposal,JAHR,Jahr,2020,DINSG,Germany as a whole,DG,Deutschland,13744,417093.4,49541.7,360038.3,7513.4
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,13660,414740.6,50852.9,356110.4,7777.2

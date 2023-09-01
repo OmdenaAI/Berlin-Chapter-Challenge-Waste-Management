@@ -1,0 +1,10 @@
+Statistics_Code,Statistics_Label,time_code,time_label,Time,1_feature_code,1_feature_label,1_expression_code,1_expression_label,2_feature_code,2_Feature_Label,2_expression_code,2_expression_label,Sales_packaging_after_sorting,Delivery_of_sales_package_n.d._sort._to_the_abroad
+32136,Survey of returned sales packaging,JAHR,Jahr,2020,DINSG,Germany as a whole,DG,Deutschland,MATAT2,Types of materials,MAT-GLAS,Glas,2040.8,11.4
+32136,Survey of returned sales packaging,JAHR,Jahr,2020,DINSG,Germany as a whole,DG,Deutschland,MATAT2,Types of materials,MAT-KST,plastics,1302.9,278.2
+32136,Survey of returned sales packaging,JAHR,Jahr,2020,DINSG,Germany as a whole,DG,Deutschland,MATAT2,Types of materials,MAT-PPK,"Paper, cardboard, cardboard",1872.3,214.3
+32136,Survey of returned sales packaging,JAHR,Jahr,2020,DINSG,Germany as a whole,DG,Deutschland,MATAT2,Types of materials,MAT-MET,metals,368.0,25.8
+32136,Survey of returned sales packaging,JAHR,Jahr,2020,DINSG,Germany as a whole,DG,Deutschland,MATAT2,Types of materials,MAT-MET-ALU,Aluminium,82.1,0.4
+32136,Survey of returned sales packaging,JAHR,Jahr,2020,DINSG,Germany as a whole,DG,Deutschland,MATAT2,Types of materials,MAT-MET-STWB,"Steel, tinplate",286.0,25.5
+32136,Survey of returned sales packaging,JAHR,Jahr,2020,DINSG,Germany as a whole,DG,Deutschland,MATAT2,Types of materials,MAT-SONST,Other materials,139.8,19.0
+32136,Survey of returned sales packaging,JAHR,Jahr,2020,DINSG,Germany as a whole,DG,Deutschland,MATAT2,Types of materials,MAT-REST,Non-packaging of the same material / sorting residue,712.1,19.7
+32136,Survey of returned sales packaging,JAHR,Jahr,2020,DINSG,Germany as a whole,DG,Deutschland,MATAT2,Types of materials,,In total,6436.0,568.5

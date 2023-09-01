@@ -1,0 +1,4 @@
+Statistics_Code,Statistics_Label,time_code,time_label,Time,1_feature_code,1_feature_label,1_expression_code,1_expression_label,2_feature_code,2_Feature_Label,2_expression_code,2_expression_label,Company_Number,Recorded_Sales_Packaging_From_Private_End_Users,Erf._Sales packaging_v._priv._final_burn._per_inv,Sales_packaging_after_sorting,Delivery_of_sales_package_n.d._sort._to_the_abroad
+32136,Survey of returned sales packaging,JAHR,Jahr,2020,DINSG,Germany as a whole,DG,Deutschland,VPKRN1,Return Types,VPK-RN-BRA,Industry Solutions,7,25.3,x,25.0,2.3
+32136,Survey of returned sales packaging,JAHR,Jahr,2020,DINSG,Germany as a whole,DG,Deutschland,VPKRN1,Return Types,VPK-RN-SYS,system operator,9,6477.7,x,6410.9,566.1
+32136,Survey of returned sales packaging,JAHR,Jahr,2020,DINSG,Germany as a whole,DG,Deutschland,VPKRN1,Return Types,,In total,16,6503.0,78,6436.0,568.5
