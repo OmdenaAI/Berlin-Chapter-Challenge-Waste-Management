@@ -9,7 +9,7 @@ Below are the **5 cleaned files of code 32151-xxxx (Hazardous Waste)**:
 
 **Cleaning Information:**
 
-Hazardous Waste-amounts of waste-amount of waste given to disposal companies-states
+**Hazardous Waste-amounts of waste-amount of waste given to disposal companies-states.csv**
 
 Table 32151-0005
 
@@ -20,7 +20,7 @@ Read Lines: 9 - 76
 To Translate: None
 
 
-Hazardous Waste-producers-amount of waste given to disposal companies-years
+**Hazardous Waste-producers-amount of waste given to disposal companies-years.csv**
 
 Table 32151-0004
 
@@ -30,7 +30,7 @@ Read Lines: 10 - 13
 
 To Translate: None
 
-Hazardous Waste-producers-amounts of waste-federal states-years.csv
+**Hazardous Waste-producers-amounts of waste-federal states-years.csv**
 
 Table 32151-0003
 
@@ -40,7 +40,7 @@ Read Lines: 7 - 278
 
 To Translate: None
 
-Hazardous Waste-producers-quantities-years-industry-types of waste(EAV 2).csv
+**Hazardous Waste-producers-quantities-years-industry-types of waste(EAV 2).csv**
 
 Table 32151-0001
 
@@ -51,7 +51,7 @@ Read Lines: 9 - 10298
 
 To Translate: Industry, Waste Description
 
-Hazardous Waste-producers-quantities-years-types of waste(EAV 2 and 6 digits).csv
+**Hazardous Waste-producers-quantities-years-types of waste(EAV 2 and 6 digits).csv**
 
 Table 32151-0002
 
