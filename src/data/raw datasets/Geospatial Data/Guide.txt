@@ -1,0 +1,88 @@
+# HELLO CONTRIBUTORS
+
+We have to collect geospatial data for each state in germany in the form of json files for  the following facilities : 
+1. waste transfer stations
+3. landfills 
+4. recycling centres.
+5. waste disposal sites 
+
+# STEPS.............................................................................................
+
+step 1 : go to overpass website :
+step 2 : Define Your Query: In the text editor on the left side, write your Overpass QL query to specify the type of facility and for what state you want to retrieve.
+
+step 3: Run the Query: Click the "Run" button to execute your query. Overpass Turbo will send your query to the Overpass API and retrieve the data accordingly.
+
+step 4: Inspect Data in the Data Panel: Below the map, you'll find a "Data" panel. This panel shows a list of all the elements (nodes, ways, or relations) that match your query. 
+
+step 5: Copy and paste the data from the data panel as a json file named as "facilitycentre_state.json" in the folder "facilitycentre"
+
+# QUERIES.............................................................................................
+Below I have given the queries that you can simply copy and edit for each facility. Make sure you change the area code for your query. The area codes of each state are given as well. 
+
+## Waste Transfer Station.............................................................................................
+
+[out:json][timeout:25];
+(
+  area["ISO3166-2"="DE-BY"]->.searchArea;  // Define the area for Bavaria (Bayern)
+  node["amenity"="waste_transfer_station"](area.searchArea);
+  way["amenity"="waste_transfer_station"](area.searchArea);
+);
+out body;
+>;
+out skel qt;
+
+## Waste Disposal.............................................................................................
+[out:json][timeout:25];
+(
+  area["ISO3166-2"="DE-BY"]->.searchArea;  // Define the area for Bavaria (Bayern)
+  node["amenity"="waste_disposal"](area.searchArea);
+  way["amenity"="waste_disposal"](area.searchArea);
+);
+out body;
+>;
+out skel qt;
+
+## Recycling centers.............................................................................................
+
+[out:json][timeout:25];
+(
+  area["ISO3166-2"="DE-BY"]->.searchArea;  // Define the area for Bavaria (Bayern)
+  node["amenity"="recycling_center"](area.searchArea);
+  way["amenity"="recycling_center"](area.searchArea);
+);
+out body;
+>;
+out center qt;
+
+## Landfills.............................................................................................
+[out:json][timeout:25];
+(
+  area["ISO3166-2"="DE-BY"]->.searchArea;  // Define the area for Bavaria (Bayern)
+  node["landuse"="landfill"](area.searchArea);
+  way["landuse"="landfill"](area.searchArea);
+);
+out body;
+>;
+out center qt;
+
+# Area Codes .............................................................................................
+
+Area codes for each state in germany :
+
+Baden-Württemberg: DE-BW
+Bavaria (Bayern): DE-BY
+Berlin: DE-BE
+Brandenburg: DE-BB
+Bremen: DE-HB
+Hamburg: DE-HH
+Hesse (Hessen): DE-HE
+Lower Saxony (Niedersachsen): DE-NI
+Mecklenburg-Vorpommern: DE-MV
+North Rhine-Westphalia (Nordrhein-Westfalen): DE-NW
+Rhineland-Palatinate (Rheinland-Pfalz): DE-RP
+Saarland: DE-SL
+Saxony (Sachsen): DE-SN
+Saxony-Anhalt (Sachsen-Anhalt): DE-ST
+Schleswig-Holstein: DE-SH
+Thuringia (Thüringen): DE-TH
