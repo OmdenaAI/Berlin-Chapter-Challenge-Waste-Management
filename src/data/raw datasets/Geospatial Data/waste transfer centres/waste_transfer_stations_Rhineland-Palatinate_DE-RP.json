@@ -1,0 +1,697 @@
+{
+    "version": 0.6,
+    "generator": "Overpass API 0.7.61.5 4133829e",
+    "osm3s": {
+      "timestamp_osm_base": "2023-09-05T10:08:59Z",
+      "timestamp_areas_base": "2023-09-05T07:12:05Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+  
+  {
+    "type": "node",
+    "id": 954569830,
+    "lat": 49.9727860,
+    "lon": 6.6818491,
+    "tags": {
+      "amenity": "waste_transfer_station"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4896086748,
+    "lat": 50.4396600,
+    "lon": 7.4213451,
+    "tags": {
+      "amenity": "waste_transfer_station",
+      "name": "Grünschnittsammelstelle"
+    }
+  },
+  {
+    "type": "node",
+    "id": 8808424102,
+    "lat": 50.6483863,
+    "lon": 7.7736770,
+    "tags": {
+      "amenity": "waste_transfer_station",
+      "waste": "organic"
+    }
+  },
+  {
+    "type": "way",
+    "id": 113244501,
+    "nodes": [
+      6938031760,
+      6938031761,
+      6938031762,
+      6938031763,
+      6938031764,
+      6938031812,
+      6938031765,
+      6938031707,
+      6938031766,
+      6938031767,
+      6938031768,
+      6938031785,
+      6938031784,
+      6938023683,
+      6938031783,
+      6938031782,
+      6938031781,
+      6938031777,
+      6938031780,
+      6938031779,
+      3390827311,
+      6938031727,
+      6938031728,
+      6938031729,
+      6938031730,
+      6938031731,
+      6938031732,
+      6938031733,
+      6938031734,
+      6938031735,
+      6938031736,
+      6938031737,
+      6938031738,
+      6938031758,
+      6938031759,
+      6938031760
+    ],
+    "tags": {
+      "amenity": "waste_transfer_station",
+      "barrier": "fence",
+      "contact:email": "info@artgmbh-trier.de",
+      "contact:fax": "+49 651 96810-90",
+      "contact:phone": "+49 651 96810-0",
+      "contact:website": "https://artgmbh-trier.de/",
+      "industrial": "factory",
+      "landuse": "industrial",
+      "name": "A.R.T. Abfallberatungs- und Verwertungsgesellschaft mbH",
+      "operator": "Zweckverband Abfallwirtschaft Region Trier",
+      "operator:short": "A.R.T.",
+      "operator:wikidata": "Q82980882",
+      "operator:wikipedia": "de:Zweckverband Abfallwirtschaft Region Trier"
+    }
+  },
+  {
+    "type": "way",
+    "id": 171506413,
+    "nodes": [
+      1825249753,
+      292635626,
+      797214719,
+      797214721,
+      797214720,
+      1825249753
+    ],
+    "tags": {
+      "amenity": "waste_transfer_station",
+      "building": "service",
+      "roof:shape": "gabled"
+    }
+  },
+  {
+    "type": "way",
+    "id": 233991471,
+    "nodes": [
+      2423001253,
+      2423001254,
+      2423001256,
+      2423001258,
+      2423001253
+    ],
+    "tags": {
+      "amenity": "waste_transfer_station",
+      "landuse": "industrial"
+    }
+  },
+  {
+    "type": "way",
+    "id": 267825883,
+    "nodes": [
+      2732284547,
+      2732284546,
+      2732284542,
+      2732284549,
+      2732284532,
+      2732284529,
+      2732284537,
+      2732284547
+    ],
+    "tags": {
+      "amenity": "waste_transfer_station",
+      "contact:email": "info@ruppenthal-entsorgung.de",
+      "contact:phone": "+49 6534 9478-0",
+      "contact:website": "https://www.ruppenthal-entsorgung.de",
+      "name": "Ruppenthal Entsorgung GmbH & Co. KG",
+      "operator": "Ruppenthal Entsorgung GmbH & Co. KG",
+      "recycling:hazardous_waste": "yes"
+    }
+  },
+  {
+    "type": "way",
+    "id": 374697623,
+    "nodes": [
+      3780780417,
+      3780780418,
+      3780780419,
+      3780780420,
+      3780780417
+    ],
+    "tags": {
+      "amenity": "waste_transfer_station",
+      "area": "yes"
+    }
+  },
+  {
+    "type": "way",
+    "id": 480256269,
+    "nodes": [
+      4732579653,
+      4732579654,
+      4732579655,
+      4732579653
+    ],
+    "tags": {
+      "amenity": "waste_transfer_station"
+    }
+  },
+  {
+    "type": "way",
+    "id": 987778887,
+    "nodes": [
+      9130213558,
+      11165681502,
+      11165681503,
+      9130213557,
+      1110743489,
+      9130213556,
+      9130213558
+    ],
+    "tags": {
+      "amenity": "waste_transfer_station",
+      "recycling:green_waste": "yes"
+    }
+  },
+  {
+    "type": "way",
+    "id": 1065393545,
+    "nodes": [
+      9784357001,
+      9784357009,
+      9784357002,
+      9784357003,
+      9784357004,
+      9784357005,
+      9784357006,
+      9784357001
+    ],
+    "tags": {
+      "amenity": "waste_transfer_station",
+      "area": "yes"
+    }
+  },
+  {
+    "type": "area",
+    "id": 3600062341,
+    "tags": {
+      "ISO3166-2": "DE-RP",
+      "TMC:cid_58:tabcd_1:Class": "Area",
+      "TMC:cid_58:tabcd_1:LCLversion": "12.0",
+      "TMC:cid_58:tabcd_1:LocationCode": "262",
+      "admin_level": "4",
+      "border_type": "state",
+      "boundary": "administrative",
+      "de:amtlicher_gemeindeschluessel": "07",
+      "de:regionalschluessel": "07",
+      "name": "Rheinland-Pfalz",
+      "name:ar": "راينلند بالاتينات",
+      "name:ca": "Renània-Palatinat",
+      "name:cs": "Porýní-Falc",
+      "name:de": "Rheinland-Pfalz",
+      "name:en": "Rhineland-Palatinate",
+      "name:eo": "Rejnlando-Palatinato",
+      "name:es": "Renania-Palatinado",
+      "name:fa": "راینلاند-فالتس",
+      "name:fr": "Rhénanie-Palatinat",
+      "name:ga": "Tír na Réine agus an Phalaitíneacht",
+      "name:hsb": "Porynsko-Pfalca",
+      "name:hu": "Rajna-vidék–Pfalz",
+      "name:ia": "Rhenania Palatina",
+      "name:io": "Rhenlando-Palatenio",
+      "name:is": "Rínarland-Pfalz",
+      "name:it": "Renania-Palatinato",
+      "name:lt": "Reino kraštas-Pfalcas",
+      "name:mk": "Рајнска област-Пфалц",
+      "name:nl": "Rijnland-Palts",
+      "name:pl": "Nadrenia-Palatynat",
+      "name:prefix": "Bundesland",
+      "name:pt": "Renânia-Palatinado",
+      "name:ru": "Рейнланд-Пфальц",
+      "name:sk": "Porýnie-Falcko",
+      "name:sl": "Porenje-Pfalška",
+      "name:sr": "Рајна-Палатинат",
+      "name:th": "รัฐไรน์ลันท์-ฟัลทซ์",
+      "name:uk": "Рейнланд-Пфальц",
+      "name:ur": "رائنلینڈ-پالاتینات",
+      "name:vo": "Rinän-Palzän",
+      "name:zh": "莱茵兰-普法尔茨",
+      "ref": "RLP",
+      "ref:nuts:1": "DEB",
+      "source": "http://wiki.openstreetmap.org/wiki/Import/Catalogue/Kreisgrenzen_Deutschland_2005",
+      "type": "boundary",
+      "wikidata": "Q1200",
+      "wikipedia": "de:Rheinland-Pfalz"
+    }
+  },
+  {
+    "type": "node",
+    "id": 292635626,
+    "lat": 49.7471231,
+    "lon": 6.6747369
+  },
+  {
+    "type": "node",
+    "id": 797214719,
+    "lat": 49.7469716,
+    "lon": 6.6748754
+  },
+  {
+    "type": "node",
+    "id": 797214720,
+    "lat": 49.7472234,
+    "lon": 6.6749997
+  },
+  {
+    "type": "node",
+    "id": 797214721,
+    "lat": 49.7470719,
+    "lon": 6.6751382
+  },
+  {
+    "type": "node",
+    "id": 1825249753,
+    "lat": 49.7471744,
+    "lon": 6.6748712
+  },
+  {
+    "type": "node",
+    "id": 3390827311,
+    "lat": 49.8014612,
+    "lon": 6.6924414
+  },
+  {
+    "type": "node",
+    "id": 6938023683,
+    "lat": 49.8004339,
+    "lon": 6.6929114
+  },
+  {
+    "type": "node",
+    "id": 6938031707,
+    "lat": 49.8005750,
+    "lon": 6.6944487
+  },
+  {
+    "type": "node",
+    "id": 6938031727,
+    "lat": 49.8019759,
+    "lon": 6.6924602
+  },
+  {
+    "type": "node",
+    "id": 6938031728,
+    "lat": 49.8019890,
+    "lon": 6.6928095
+  },
+  {
+    "type": "node",
+    "id": 6938031729,
+    "lat": 49.8018843,
+    "lon": 6.6934660
+  },
+  {
+    "type": "node",
+    "id": 6938031730,
+    "lat": 49.8015471,
+    "lon": 6.6934573
+  },
+  {
+    "type": "node",
+    "id": 6938031731,
+    "lat": 49.8015510,
+    "lon": 6.6936511
+  },
+  {
+    "type": "node",
+    "id": 6938031732,
+    "lat": 49.8015380,
+    "lon": 6.6939515
+  },
+  {
+    "type": "node",
+    "id": 6938031733,
+    "lat": 49.8015034,
+    "lon": 6.6941620
+  },
+  {
+    "type": "node",
+    "id": 6938031734,
+    "lat": 49.8014342,
+    "lon": 6.6944370
+  },
+  {
+    "type": "node",
+    "id": 6938031735,
+    "lat": 49.8013762,
+    "lon": 6.6945925
+  },
+  {
+    "type": "node",
+    "id": 6938031736,
+    "lat": 49.8014740,
+    "lon": 6.6946301
+  },
+  {
+    "type": "node",
+    "id": 6938031737,
+    "lat": 49.8016328,
+    "lon": 6.6946928
+  },
+  {
+    "type": "node",
+    "id": 6938031738,
+    "lat": 49.8017075,
+    "lon": 6.6947196
+  },
+  {
+    "type": "node",
+    "id": 6938031758,
+    "lat": 49.8013145,
+    "lon": 6.6977052
+  },
+  {
+    "type": "node",
+    "id": 6938031759,
+    "lat": 49.8003318,
+    "lon": 6.6974156
+  },
+  {
+    "type": "node",
+    "id": 6938031760,
+    "lat": 49.8005906,
+    "lon": 6.6954187
+  },
+  {
+    "type": "node",
+    "id": 6938031761,
+    "lat": 49.8006315,
+    "lon": 6.6952604
+  },
+  {
+    "type": "node",
+    "id": 6938031762,
+    "lat": 49.8006151,
+    "lon": 6.6952410
+  },
+  {
+    "type": "node",
+    "id": 6938031763,
+    "lat": 49.8005716,
+    "lon": 6.6950827
+  },
+  {
+    "type": "node",
+    "id": 6938031764,
+    "lat": 49.8005201,
+    "lon": 6.6950431
+  },
+  {
+    "type": "node",
+    "id": 6938031765,
+    "lat": 49.8005661,
+    "lon": 6.6948950
+  },
+  {
+    "type": "node",
+    "id": 6938031766,
+    "lat": 49.8005762,
+    "lon": 6.6943877
+  },
+  {
+    "type": "node",
+    "id": 6938031767,
+    "lat": 49.8004133,
+    "lon": 6.6943798
+  },
+  {
+    "type": "node",
+    "id": 6938031768,
+    "lat": 49.8004325,
+    "lon": 6.6934218
+  },
+  {
+    "type": "node",
+    "id": 6938031777,
+    "lat": 49.8004777,
+    "lon": 6.6928143
+  },
+  {
+    "type": "node",
+    "id": 6938031779,
+    "lat": 49.8005135,
+    "lon": 6.6924076
+  },
+  {
+    "type": "node",
+    "id": 6938031780,
+    "lat": 49.8004859,
+    "lon": 6.6924062
+  },
+  {
+    "type": "node",
+    "id": 6938031781,
+    "lat": 49.8004764,
+    "lon": 6.6928824
+  },
+  {
+    "type": "node",
+    "id": 6938031782,
+    "lat": 49.8005152,
+    "lon": 6.6928842
+  },
+  {
+    "type": "node",
+    "id": 6938031783,
+    "lat": 49.8005146,
+    "lon": 6.6929153
+  },
+  {
+    "type": "node",
+    "id": 6938031784,
+    "lat": 49.8004243,
+    "lon": 6.6929109
+  },
+  {
+    "type": "node",
+    "id": 6938031785,
+    "lat": 49.8004141,
+    "lon": 6.6934209
+  },
+  {
+    "type": "node",
+    "id": 6938031812,
+    "lat": 49.8005430,
+    "lon": 6.6949704
+  },
+  {
+    "type": "node",
+    "id": 2732284529,
+    "lat": 49.9114300,
+    "lon": 7.0295373
+  },
+  {
+    "type": "node",
+    "id": 2732284532,
+    "lat": 49.9111519,
+    "lon": 7.0294730
+  },
+  {
+    "type": "node",
+    "id": 2732284537,
+    "lat": 49.9114991,
+    "lon": 7.0290787
+  },
+  {
+    "type": "node",
+    "id": 2732284542,
+    "lat": 49.9105284,
+    "lon": 7.0277698
+  },
+  {
+    "type": "node",
+    "id": 2732284546,
+    "lat": 49.9115319,
+    "lon": 7.0282687
+  },
+  {
+    "type": "node",
+    "id": 2732284547,
+    "lat": 49.9114093,
+    "lon": 7.0289419
+  },
+  {
+    "type": "node",
+    "id": 2732284549,
+    "lat": 49.9102054,
+    "lon": 7.0289553
+  },
+  {
+    "type": "node",
+    "id": 1110743489,
+    "lat": 49.2053266,
+    "lon": 8.2158178
+  },
+  {
+    "type": "node",
+    "id": 9130213556,
+    "lat": 49.2053587,
+    "lon": 8.2152723
+  },
+  {
+    "type": "node",
+    "id": 9130213557,
+    "lat": 49.2057051,
+    "lon": 8.2157312
+  },
+  {
+    "type": "node",
+    "id": 9130213558,
+    "lat": 49.2056682,
+    "lon": 8.2153407
+  },
+  {
+    "type": "node",
+    "id": 11165681502,
+    "lat": 49.2057617,
+    "lon": 8.2154282
+  },
+  {
+    "type": "node",
+    "id": 11165681503,
+    "lat": 49.2057606,
+    "lon": 8.2156006
+  },
+  {
+    "type": "node",
+    "id": 4732579653,
+    "lat": 49.7869783,
+    "lon": 7.8327098
+  },
+  {
+    "type": "node",
+    "id": 4732579654,
+    "lat": 49.7869637,
+    "lon": 7.8326916
+  },
+  {
+    "type": "node",
+    "id": 4732579655,
+    "lat": 49.7869515,
+    "lon": 7.8327580
+  },
+  {
+    "type": "node",
+    "id": 3780780417,
+    "lat": 49.5098743,
+    "lon": 8.3758373
+  },
+  {
+    "type": "node",
+    "id": 3780780418,
+    "lat": 49.5098424,
+    "lon": 8.3759673
+  },
+  {
+    "type": "node",
+    "id": 3780780419,
+    "lat": 49.5097591,
+    "lon": 8.3759188
+  },
+  {
+    "type": "node",
+    "id": 3780780420,
+    "lat": 49.5097909,
+    "lon": 8.3757889
+  },
+  {
+    "type": "node",
+    "id": 9784357001,
+    "lat": 49.5092514,
+    "lon": 8.3769658
+  },
+  {
+    "type": "node",
+    "id": 9784357002,
+    "lat": 49.5092576,
+    "lon": 8.3770404
+  },
+  {
+    "type": "node",
+    "id": 9784357003,
+    "lat": 49.5092429,
+    "lon": 8.3770433
+  },
+  {
+    "type": "node",
+    "id": 9784357004,
+    "lat": 49.5092494,
+    "lon": 8.3771218
+  },
+  {
+    "type": "node",
+    "id": 9784357005,
+    "lat": 49.5092200,
+    "lon": 8.3771276
+  },
+  {
+    "type": "node",
+    "id": 9784357006,
+    "lat": 49.5092073,
+    "lon": 8.3769745
+  },
+  {
+    "type": "node",
+    "id": 9784357009,
+    "lat": 49.5092544,
+    "lon": 8.3770023
+  },
+  {
+    "type": "node",
+    "id": 2423001253,
+    "lat": 49.4302498,
+    "lon": 8.4605351
+  },
+  {
+    "type": "node",
+    "id": 2423001254,
+    "lat": 49.4304228,
+    "lon": 8.4604618
+  },
+  {
+    "type": "node",
+    "id": 2423001256,
+    "lat": 49.4304244,
+    "lon": 8.4607682
+  },
+  {
+    "type": "node",
+    "id": 2423001258,
+    "lat": 49.4303258,
+    "lon": 8.4607985
+  }
+  
+    ]
+  }
+  
