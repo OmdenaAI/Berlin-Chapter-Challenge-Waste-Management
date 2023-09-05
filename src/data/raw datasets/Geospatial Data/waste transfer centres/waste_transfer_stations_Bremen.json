@@ -1,0 +1,145 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.61.5 4133829e",
+  "osm3s": {
+    "timestamp_osm_base": "2023-09-05T18:18:30Z",
+    "timestamp_areas_base": "2023-09-05T16:51:15Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "way",
+  "id": 287503117,
+  "nodes": [
+    2911062251,
+    2911062244,
+    2911062247,
+    2911062253,
+    2911062251
+  ],
+  "tags": {
+    "addr:city": "Bremen",
+    "addr:country": "DE",
+    "addr:housenumber": "8",
+    "addr:postcode": "28309",
+    "addr:street": "Funkschneise",
+    "amenity": "waste_transfer_station",
+    "building": "yes",
+    "name": "Hirsch IO",
+    "website": "http://www.hirsch-gmbh.com/impressum/"
+  }
+},
+{
+  "type": "area",
+  "id": 3600062718,
+  "tags": {
+    "ISO3166-2": "DE-HB",
+    "TMC:cid_58:tabcd_1:Class": "Area",
+    "TMC:cid_58:tabcd_1:LCLversion": "12.0",
+    "TMC:cid_58:tabcd_1:LocationCode": "259",
+    "admin_level": "4",
+    "border_type": "state",
+    "boundary": "administrative",
+    "coat_of_arms": "File:Bremen greater coat of arms.svg",
+    "de:amtlicher_gemeindeschluessel": "04",
+    "de:regionalschluessel": "04",
+    "flag": "File:Flag of Bremen.svg",
+    "name": "Bremen",
+    "name:ar": "بريمن",
+    "name:eo": "Bremeno",
+    "name:fa": "برمن",
+    "name:fr": "Brême",
+    "name:hu": "Bréma",
+    "name:la": "Brema",
+    "name:mk": "Бремен",
+    "name:pl": "Brema",
+    "name:prefix": "Bundesland",
+    "name:pt": "Bremen",
+    "name:ru": "Бремен",
+    "name:uk": "Бремен",
+    "name:ur": "بریمین",
+    "nickname": "Freie Hansestadt",
+    "nickname:ar": "مدينة الحرة الهانزية",
+    "nickname:cs": "Svobodné hanzovní město",
+    "nickname:de": "Freie Hansestadt",
+    "nickname:en": "Free Hanseatic City",
+    "nickname:eo": "Libera hansa urbo",
+    "nickname:fr": "Ville hanséatique libre",
+    "nickname:fy": "Frije Hânzestêd",
+    "nickname:hsb": "Swobodne hansowe město",
+    "nickname:hu": "Szabad Hanzaváros",
+    "nickname:la": "Urbs Hanseatica",
+    "nickname:nds": "Friee Hansestadt",
+    "nickname:pl": "Wolne Hanzeatyckie Miasto",
+    "nickname:ru": "Вольный ганзейский город",
+    "official_name": "Freie Hansestadt Bremen",
+    "official_name:ar": "مدينة بريمن الحرة الهانزية",
+    "official_name:cs": "Svobodné hanzovní město Brémy",
+    "official_name:de": "Freie Hansestadt Bremen",
+    "official_name:en": "Free Hanseatic City of Bremen",
+    "official_name:eo": "Libera hansa urbo Bremeno",
+    "official_name:fr": "Ville hanséatique libre de Brême",
+    "official_name:fy": "Frije Hânzestêd Bremen",
+    "official_name:hsb": "Swobodne hansowe město Bremen",
+    "official_name:hu": "Bréma Szabad Hanzaváros",
+    "official_name:la": "Urbs Hanseatica Brema",
+    "official_name:nds": "Friee Hansestadt Bremen",
+    "official_name:pl": "Wolne Hanzeatyckie Miasto Brema",
+    "official_name:ru": "Вольный ганзейский город Бремен",
+    "ref": "HB",
+    "ref:nuts": "DE5;DE50",
+    "ref:nuts:1": "DE5",
+    "ref:nuts:2": "DE50",
+    "short_name": "HB",
+    "source": "http://wiki.openstreetmap.org/wiki/Import/Catalogue/Kreisgrenzen_Deutschland_2005",
+    "type": "boundary",
+    "wikidata": "Q1209",
+    "wikipedia": "de:Freie Hansestadt Bremen"
+  }
+},
+{
+  "type": "area",
+  "id": 3602833343,
+  "tags": {
+    "ISO3166-2": "DE-HB",
+    "admin_level": "4",
+    "boundary": "land_area",
+    "de:amtlicher_gemeindeschluessel": "04",
+    "de:regionalschluessel": "04",
+    "description": "Bremen (Landmasse)",
+    "land_area": "administrative",
+    "name": "Bremen",
+    "name:hu": "Bréma",
+    "name:prefix": "Freie Hansestadt",
+    "type": "boundary",
+    "wikidata": "Q1209"
+  }
+},
+{
+  "type": "node",
+  "id": 2911062244,
+  "lat": 53.0495874,
+  "lon": 8.9094969
+},
+{
+  "type": "node",
+  "id": 2911062247,
+  "lat": 53.0496589,
+  "lon": 8.9092545
+},
+{
+  "type": "node",
+  "id": 2911062251,
+  "lat": 53.0500209,
+  "lon": 8.9098505
+},
+{
+  "type": "node",
+  "id": 2911062253,
+  "lat": 53.0500923,
+  "lon": 8.9096081
+}
+
+  ]
+}
