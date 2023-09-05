@@ -1,9 +1,9 @@
-# chapter-project-repository-template
+# Berlin-Chapter-Challenge-Waste-Management
 Use this Repository as a template for creating Local Chapter Repositories
 
 
-# [Chapter Challenge Name]
-
+# [Berlin-Chapter-Challenge-Waste-Management]
+![Alt text](%E2%80%8Eproject_architecure.%E2%80%8E001.jpeg)
 
 ## Contribution Guidelines
 - Have a Look at the [project structure](#project-structure) and [folder overview](#folder-overview) below to understand where to store/upload your contribution
