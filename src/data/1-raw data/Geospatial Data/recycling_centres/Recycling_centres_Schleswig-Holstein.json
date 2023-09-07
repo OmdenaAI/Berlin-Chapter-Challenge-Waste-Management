@@ -1,0 +1,87 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.61.5 4133829e",
+  "osm3s": {
+    "timestamp_osm_base": "2023-09-06T04:54:29Z",
+    "timestamp_areas_base": "2023-09-06T03:26:31Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "area",
+  "id": 3600051529,
+  "tags": {
+    "ISO3166-2": "DE-SH",
+    "TMC:cid_58:tabcd_1:Class": "Area",
+    "TMC:cid_58:tabcd_1:LCLversion": "12.0",
+    "TMC:cid_58:tabcd_1:LocationCode": "256",
+    "admin_level": "4",
+    "alt_name:pt": "Schleswig-Holstein",
+    "border_type": "state",
+    "boundary": "administrative",
+    "de:amtlicher_gemeindeschluessel": "01",
+    "de:regionalschluessel": "01",
+    "name": "Schleswig-Holstein",
+    "name:ar": "شليسفيغ هولشتاين",
+    "name:ca": "Slesvig-Holstein",
+    "name:cs": "Šlesvicko-Holštýnsko",
+    "name:en": "Schleswig-Holstein",
+    "name:eo": "Ŝlesvigo-Holstinio",
+    "name:fa": "اشلسویگ-هولشتاین",
+    "name:hsb": "Šleswigsko-Holšteinska",
+    "name:hu": "Schleswig-Holstein",
+    "name:is": "Slésvík-Holtsetaland",
+    "name:lv": "Šlēsviga-Holšteina",
+    "name:mk": "Шлезвиг-Холштајн",
+    "name:nds": "Sleeswig-Holsteen",
+    "name:nl": "Sleeswijk-Holstein",
+    "name:pl": "Szlezwik-Holsztyn",
+    "name:prefix": "Bundesland",
+    "name:pt": "Eslésvico-Holsácia",
+    "name:ru": "Шлезвиг-Гольштейн",
+    "name:sk": "Šlezvicko-Holštajnsko",
+    "name:sr": "Шлезвиг-Холштајн",
+    "name:th": "รัฐชเลสวิช-ฮ็อลชไตน์",
+    "name:uk": "Шлезвіґ-Гольштейн",
+    "name:ur": "شلسویگ-ہولشتائن",
+    "name:vo": "Jlesvigän-Holstän",
+    "name:zh": "石勒苏益格—荷尔斯泰因州",
+    "name:zh-Hans": "石勒苏益格—荷尔斯泰因州",
+    "name:zh-Hant": "什勒斯維希—霍爾斯坦邦",
+    "ref": "SH",
+    "ref:nuts:1": "DEF",
+    "ref:nuts:2": "DEF0",
+    "type": "boundary",
+    "wikidata": "Q1194",
+    "wikipedia": "de:Schleswig-Holstein"
+  }
+},
+{
+  "type": "area",
+  "id": 3600062775,
+  "tags": {
+    "ISO3166-2": "DE-SH",
+    "admin_level": "4",
+    "boundary": "land_area",
+    "de:amtlicher_gemeindeschluessel": "01",
+    "de:regionalschluessel": "01",
+    "description": "Schleswig-Holstein (Landmasse)",
+    "description:de": "Schleswig-Holstein (Landmasse)",
+    "description:fr": "Schleswig-Holstein (terres)",
+    "description:lv": "Šlēsviga-Holšteina",
+    "description:pl": "Szlezwik-Holsztyn (ląd)",
+    "description:sk": "Šlezvicko-Holštajnsko",
+    "description:sr": "Шлезвиг-Холштајн",
+    "land_area": "administrative",
+    "name": "Schleswig-Holstein",
+    "name:hu": "Schleswig-Holstein",
+    "note": "Schleswig-Holstein (Landmasse)",
+    "note:TMC": "Grenze am damm geschlossen, damit der ring geschlossen ist.",
+    "type": "boundary",
+    "wikidata": "Q1194"
+  }
+}
+
+  ]
+}
