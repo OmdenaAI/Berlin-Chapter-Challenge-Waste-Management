@@ -1,0 +1,241 @@
+Statistics_Code,Statistics_Label,time_code,time_label,Time,1_feature_code,1_feature_label,1_expression_code,1_expression_label,2_feature_code,2_Feature_Label,2_expression_code,2_expression_label,Waste_Disposal_Plants,Input_from_waste_disposal_plants,Waste_generated_in_own_operation,Waste_delivered_from_the_country,Waste_delivered_from_abroad,Waste_disposal_plants_with_output,Output_from_waste_disposal_plants,Waste_for_disposal,Waste_for_recycling,Waste_to_Preparation_Processes,Feed_to_Other
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,8,Baden-Wuerttemberg,ANLAT1,Plant type,ANL-DEPO-01,landfills,,,,,,,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,8,Baden-Wuerttemberg,ANLAT1,Plant type,ANL-THERM-01,Thermal waste treatment plants,,,,,,,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,8,Baden-Wuerttemberg,ANLAT1,Plant type,ANL-FEUER-01,combustion plants,,,,,,,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,8,Baden-Wuerttemberg,ANLAT1,Plant type,ANL-CHEM-01,Chemical-physical treatment plants,38.0,351.7,17.4,329.2,5.2,x,154.5,14.4,98.5,24.7,17.0
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,8,Baden-Wuerttemberg,ANLAT1,Plant type,ANL-BODEN-01,soil treatment plants,,,,,,,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,8,Baden-Wuerttemberg,ANLAT1,Plant type,ANL-BIO-01,Biological treatment facilities,,,,,,,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,8,Baden-Wuerttemberg,ANLAT1,Plant type,ANL-MECH-01,Mechanical-biological waste treatment plants,,,,,,,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,8,Baden-Wuerttemberg,ANLAT1,Plant type,ANL-DEM-01,Dismantling companies for old vehicles,141.0,83.7,,83.3,0.4,x,87.0,0.0,55.0,27.8,4.2
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,8,Baden-Wuerttemberg,ANLAT1,Plant type,ANL-SCHR-01,Shredder systems and scrap shears,122.0,2227.8,57.8,2053.6,116.4,x,2217.6,0.3,747.2,140.2,1330.0
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,8,Baden-Wuerttemberg,ANLAT1,Plant type,ANL-SORT-01,sorting plants,68.0,2663.0,43.6,2358.9,260.5,x,2681.3,13.6,1462.4,36.5,1168.8
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,8,Baden-Wuerttemberg,ANLAT1,Plant type,ANL-ZERL-01,cutting facilities,,,,,,,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,8,Baden-Wuerttemberg,ANLAT1,Plant type,ANL-SONST-01,Other treatment facilities,,,,,,,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,8,Baden-Wuerttemberg,ANLAT1,Plant type,ANL-BERGB-01,Natural materials in mining,,,,,,,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,8,Baden-Wuerttemberg,ANLAT1,Plant type,ANL-LAG-01,Waste in underground mining sites,,,,,,,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,8,Baden-Wuerttemberg,ANLAT1,Plant type,ANL-LAG-02,Waste in surface quarries,273.0,20131.6,118.8,19331.1,681.8,,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,9,Bayern,ANLAT1,Plant type,ANL-DEPO-01,landfills,,,,,,,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,9,Bayern,ANLAT1,Plant type,ANL-THERM-01,Thermal waste treatment plants,,,,,,,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,9,Bayern,ANLAT1,Plant type,ANL-FEUER-01,combustion plants,,,,,,,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,9,Bayern,ANLAT1,Plant type,ANL-CHEM-01,Chemical-physical treatment plants,90.0,1027.2,709.4,297.5,20.4,x,142.6,35.4,48.6,1.4,57.2
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,9,Bayern,ANLAT1,Plant type,ANL-BODEN-01,Soil treatment plants,,,,,,,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,9,Bayern,ANLAT1,Plant type,ANL-BIO-01,Biological treatment facilities,,,,,,,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,9,Bayern,ANLAT1,Plant type,ANL-MECH-01,Mechanical-biological waste treatment plants,,,,,,,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,9,Bayern,ANLAT1,Plant type,ANL-DEM-01,Dismantling companies for old vehicles,180.0,98.3,,97.4,0.9,x,97.6,0.0,15.1,81.3,1.2
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,9,Bayern,ANLAT1,Plant type,ANL-SCHR-01,Shredder systems and scrap shears,181.0,3467.2,148.4,3262.3,56.5,x,3543.8,48.2,2246.0,57.3,1192.3
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,9,Bayern,ANLAT1,Plant type,ANL-SORT-01,sorting plants,127.0,3104.8,69.8,2997.5,37.5,x,3076.0,14.3,2115.9,69.2,876.6
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,9,Bayern,ANLAT1,Plant type,ANL-ZERL-01,cutting facilities,,,,,,,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,9,Bayern,ANLAT1,Plant type,ANL-SONST-01,Other treatment facilities,,,,,,,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,9,Bayern,ANLAT1,Plant type,ANL-BERGB-01,Natural materials in mining,,,,,,,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,9,Bayern,ANLAT1,Plant type,ANL-LAG-01,Waste in underground mining sites,,,,,,,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,9,Bayern,ANLAT1,Plant type,ANL-LAG-02,Waste in surface quarries,1176.0,26509.4,526.0,25945.6,37.8,,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,11,Berlin,ANLAT1,Plant type,ANL-DEPO-01,landfills,,,,,,,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,11,Berlin,ANLAT1,Plant type,ANL-THERM-01,Thermal waste treatment plants,,,,,,,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,11,Berlin,ANLAT1,Plant type,ANL-FEUER-01,combustion plants,,,,,,,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,11,Berlin,ANLAT1,Plant type,ANL-CHEM-01,Chemical-physical treatment plants,4.0,53.3,,53.3,,x,6.6,6.1,0.4,0.1,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,11,Berlin,ANLAT1,Plant type,ANL-BODEN-01,soil treatment plants,,,,,,,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,11,Berlin,ANLAT1,Plant type,ANL-BIO-01,Biological treatment plants,,,,,,,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,11,Berlin,ANLAT1,Plant type,ANL-MECH-01,Mechanical-biological waste treatment plants,,,,,,,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,11,Berlin,ANLAT1,Plant type,ANL-DEM-01,Dismantling companies for old vehicles,11.0,1.9,,1.9,0.0,x,2.4,,2.4,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,11,Berlin,ANLAT1,Plant type,ANL-SCHR-01,Shredder systems and scrap shears,5.0,232.8,0.2,226.2,6.5,x,244.7,0.0,202.5,0.6,41.6
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,11,Berlin,ANLAT1,Plant type,ANL-SORT-01,sorting plants,19.0,779.8,0.0,779.8,,x,767.6,85.0,416.8,6.8,259.0
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,11,Berlin,ANLAT1,Plant type,ANL-ZERL-01,Disassembly facilities,,,,,,,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,11,Berlin,ANLAT1,Plant type,ANL-SONST-01,Other treatment plants,,,,,,,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,11,Berlin,ANLAT1,Plant type,ANL-BERGB-01,Natural materials in mining,,,,,,,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,11,Berlin,ANLAT1,Plant type,ANL-LAG-01,Waste in underground mining sites,,,,,,,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,11,Berlin,ANLAT1,Plant type,ANL-LAG-02,Waste in surface mining sites,,,,,,,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,12,Brandenburg,ANLAT1,Plant type,ANL-DEPO-01,landfills,,,,,,,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,12,Brandenburg,ANLAT1,Plant type,ANL-THERM-01,Thermal waste treatment plants,,,,,,,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,12,Brandenburg,ANLAT1,Plant type,ANL-FEUER-01,combustion plants,,,,,,,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,12,Brandenburg,ANLAT1,Plant type,ANL-CHEM-01,Chemical-physical treatment plants,14.0,277.5,37.4,240.0,0.0,x,178.5,18.9,124.5,1.5,33.7
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,12,Brandenburg,ANLAT1,Plant type,ANL-BODEN-01,Soil treatment plants,,,,,,,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,12,Brandenburg,ANLAT1,Plant type,ANL-BIO-01,Biological treatment facilities,,,,,,,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,12,Brandenburg,ANLAT1,Plant type,ANL-MECH-01,Mechanical-biological waste treatment plants,,,,,,,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,12,Brandenburg,ANLAT1,Plant type,ANL-DEM-01,Dismantling companies for old vehicles,63.0,14.9,,14.6,0.3,x,16.6,0.0,16.3,0.0,0.2
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,12,Brandenburg,ANLAT1,Plant type,ANL-SCHR-01,Shredder systems and scrap shears,26.0,794.1,197.5,477.9,118.7,x,804.7,14.4,397.2,22.1,371.1
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,12,Brandenburg,ANLAT1,Plant type,ANL-SORT-01,sorting plants,45.0,454.7,0.8,454.0,,x,447.1,36.0,231.0,23.7,156.4
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,12,Brandenburg,ANLAT1,Plant type,ANL-ZERL-01,cutting facilities,,,,,,,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,12,Brandenburg,ANLAT1,Plant type,ANL-SONST-01,Other treatment facilities,,,,,,,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,12,Brandenburg,ANLAT1,Plant type,ANL-BERGB-01,Natural materials in mining,,,,,,,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,12,Brandenburg,ANLAT1,Plant type,ANL-LAG-01,Waste in underground mining sites,,,,,,,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,12,Brandenburg,ANLAT1,Plant type,ANL-LAG-02,Waste in surface mining sites,37.0,854.5,4.5,850.0,,,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,4,Bremen,ANLAT1,Plant type,ANL-DEPO-01,landfills,,,,,,,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,4,Bremen,ANLAT1,Plant type,ANL-THERM-01,Thermal waste treatment plants,,,,,,,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,4,Bremen,ANLAT1,Plant type,ANL-FEUER-01,combustion plants,,,,,,,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,4,Bremen,ANLAT1,Plant type,ANL-CHEM-01,Chemical-physical treatment plants,5.0,65.8,0.0,65.8,,x,18.4,1.2,16.0,1.2,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,4,Bremen,ANLAT1,Plant type,ANL-BODEN-01,soil treatment plants,,,,,,,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,4,Bremen,ANLAT1,Plant type,ANL-BIO-01,Biological treatment facilities,,,,,,,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,4,Bremen,ANLAT1,Plant type,ANL-MECH-01,Mechanical-biological waste treatment plants,,,,,,,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,4,Bremen,ANLAT1,Plant type,ANL-DEM-01,Dismantling companies for end-of-life vehicles,7.0,3.3,,3.3,0.0,x,3.0,0.0,2.4,0.6,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,4,Bremen,ANLAT1,Plant type,ANL-SCHR-01,Shredder systems and scrap shears,4.0,188.8,,188.8,0.0,x,176.3,7.2,160.0,,9.1
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,4,Bremen,ANLAT1,Plant type,ANL-SORT-01,sorting plants,8.0,346.1,,338.6,7.5,x,344.1,58.5,222.3,0.2,63.0
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,4,Bremen,ANLAT1,Plant type,ANL-ZERL-01,Disassembly facilities,,,,,,,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,4,Bremen,ANLAT1,Plant type,ANL-SONST-01,Other treatment plants,,,,,,,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,4,Bremen,ANLAT1,Plant type,ANL-BERGB-01,Natural materials in mining,,,,,,,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,4,Bremen,ANLAT1,Plant type,ANL-LAG-01,Waste in underground mining sites,,,,,,,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,4,Bremen,ANLAT1,Plant type,ANL-LAG-02,Waste in surface mining sites,,,,,,,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,2,Hamburg,ANLAT1,Plant type,ANL-DEPO-01,landfills,,,,,,,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,2,Hamburg,ANLAT1,Plant type,ANL-THERM-01,Thermal waste treatment plants,,,,,,,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,2,Hamburg,ANLAT1,Plant type,ANL-FEUER-01,combustion plants,,,,,,,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,2,Hamburg,ANLAT1,Plant type,ANL-CHEM-01,Chemical-physical treatment plants,10.0,1465.1,1357.0,108.1,0.1,x,383.6,282.4,99.0,1.0,1.1
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,2,Hamburg,ANLAT1,Plant type,ANL-BODEN-01,Soil treatment plants,,,,,,,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,2,Hamburg,ANLAT1,Plant type,ANL-BIO-01,Biological treatment facilities,,,,,,,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,2,Hamburg,ANLAT1,Plant type,ANL-MECH-01,Mechanical-biological waste treatment plants,,,,,,,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,2,Hamburg,ANLAT1,Plant type,ANL-DEM-01,Dismantling companies for end-of-life vehicles,9.0,3.6,,3.4,0.2,x,3.3,,0.2,3.1,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,2,Hamburg,ANLAT1,Plant type,ANL-SCHR-01,Shredder systems and scrap shears,7.0,581.6,8.1,571.2,2.4,x,588.6,4.1,584.5,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,2,Hamburg,ANLAT1,Plant type,ANL-SORT-01,sorting plants,17.0,718.6,1.3,714.5,2.8,x,678.7,22.4,612.3,39.3,4.8
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,2,Hamburg,ANLAT1,Plant type,ANL-ZERL-01,Disassembly facilities,,,,,,,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,2,Hamburg,ANLAT1,Plant type,ANL-SONST-01,Other treatment plants,,,,,,,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,2,Hamburg,ANLAT1,Plant type,ANL-BERGB-01,Natural materials in mining,,,,,,,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,2,Hamburg,ANLAT1,Plant type,ANL-LAG-01,Waste in underground mining sites,,,,,,,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,2,Hamburg,ANLAT1,Plant type,ANL-LAG-02,Waste in surface quarries,,,,,,,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,6,Hesse,ANLAT1,Plant type,ANL-DEPO-01,landfills,,,,,,,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,6,Hesse,ANLAT1,Plant type,ANL-THERM-01,Thermal waste treatment plants,,,,,,,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,6,Hesse,ANLAT1,Plant type,ANL-FEUER-01,combustion plants,,,,,,,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,6,Hesse,ANLAT1,Plant type,ANL-CHEM-01,Chemical-physical treatment plants,3.0,102.1,,101.8,0.3,x,19.4,16.1,3.3,0.0,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,6,Hesse,ANLAT1,Plant type,ANL-BODEN-01,soil treatment plants,,,,,,,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,6,Hesse,ANLAT1,Plant type,ANL-BIO-01,Biological treatment plants,,,,,,,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,6,Hesse,ANLAT1,Plant type,ANL-MECH-01,Mechanical-biological waste treatment plants,,,,,,,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,6,Hesse,ANLAT1,Plant type,ANL-DEM-01,Dismantling companies for end-of-life vehicles,70.0,38.7,,38.6,0.1,x,39.4,0.0,38.9,0.1,0.4
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,6,Hesse,ANLAT1,Plant type,ANL-SCHR-01,Shredder systems and scrap shears,41.0,637.6,35.5,598.2,4.0,x,621.1,5.9,286.4,0.7,328.1
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,6,Hesse,ANLAT1,Plant type,ANL-SORT-01,sorting plants,44.0,1169.2,0.1,1166.7,2.4,x,1163.2,68.6,1025.4,51.1,18.1
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,6,Hesse,ANLAT1,Plant type,ANL-ZERL-01,Disassembly facilities,,,,,,,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,6,Hesse,ANLAT1,Plant type,ANL-SONST-01,Other treatment plants,,,,,,,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,6,Hesse,ANLAT1,Plant type,ANL-BERGB-01,Natural materials in mining,,,,,,,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,6,Hesse,ANLAT1,Plant type,ANL-LAG-01,Waste in underground mining sites,,,,,,,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,6,Hesse,ANLAT1,Plant type,ANL-LAG-02,Waste in surface mining sites,180.0,9062.1,,9062.1,,,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,13,Mecklenburg-Vorpommern,ANLAT1,Plant type,ANL-DEPO-01,landfills,,,,,,,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,13,Mecklenburg-Vorpommern,ANLAT1,Plant type,ANL-THERM-01,Thermal waste treatment plants,,,,,,,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,13,Mecklenburg-Vorpommern,ANLAT1,Plant type,ANL-FEUER-01,combustion plants,,,,,,,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,13,Mecklenburg-Vorpommern,ANLAT1,Plant type,ANL-CHEM-01,Chemical-physical treatment plants,6.0,127.3,102.3,24.7,0.3,x,13.3,2.6,10.7,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,13,Mecklenburg-Vorpommern,ANLAT1,Plant type,ANL-BODEN-01,soil treatment plants,,,,,,,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,13,Mecklenburg-Vorpommern,ANLAT1,Plant type,ANL-BIO-01,Biological treatment plants,,,,,,,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,13,Mecklenburg-Vorpommern,ANLAT1,Plant type,ANL-MECH-01,Mechanical-biological waste treatment plants,,,,,,,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,13,Mecklenburg-Vorpommern,ANLAT1,Plant type,ANL-DEM-01,Dismantling companies for old vehicles,20.0,4.3,,4.3,,x,5.7,0.0,5.6,0.0,0.1
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,13,Mecklenburg-Vorpommern,ANLAT1,Plant type,ANL-SCHR-01,Shredder systems and scrap shears,25.0,252.0,1.3,232.1,18.5,x,257.9,0.4,142.1,1.3,114.1
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,13,Mecklenburg-Vorpommern,ANLAT1,Plant type,ANL-SORT-01,sorting plants,26.0,483.8,,480.8,3.0,x,520.6,19.2,413.5,21.3,66.6
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,13,Mecklenburg-Vorpommern,ANLAT1,Plant type,ANL-ZERL-01,cutting facilities,,,,,,,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,13,Mecklenburg-Vorpommern,ANLAT1,Plant type,ANL-SONST-01,Other treatment plants,,,,,,,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,13,Mecklenburg-Vorpommern,ANLAT1,Plant type,ANL-BERGB-01,Natural materials in mining,,,,,,,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,13,Mecklenburg-Vorpommern,ANLAT1,Plant type,ANL-LAG-01,Waste in underground mining sites,,,,,,,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,13,Mecklenburg-Vorpommern,ANLAT1,Plant type,ANL-LAG-02,Waste in surface quarries,58.0,2960.0,7.2,2952.8,,,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,3,Lower Saxony,ANLAT1,Plant type,ANL-DEPO-01,landfills,,,,,,,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,3,Lower Saxony,ANLAT1,Plant type,ANL-THERM-01,Thermal waste treatment plants,,,,,,,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,3,Lower Saxony,ANLAT1,Plant type,ANL-FEUER-01,combustion plants,,,,,,,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,3,Lower Saxony,ANLAT1,Plant type,ANL-CHEM-01,Chemical-physical treatment plants,34.0,753.0,11.9,555.2,185.9,x,719.9,99.8,122.8,2.3,495.0
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,3,Lower Saxony,ANLAT1,Plant type,ANL-BODEN-01,Soil treatment plants,,,,,,,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,3,Lower Saxony,ANLAT1,Plant type,ANL-BIO-01,Biological treatment facilities,,,,,,,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,3,Lower Saxony,ANLAT1,Plant type,ANL-MECH-01,Mechanical-biological waste treatment plants,,,,,,,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,3,Lower Saxony,ANLAT1,Plant type,ANL-DEM-01,Dismantling companies for end-of-life vehicles,135.0,49.3,,49.2,0.1,x,56.5,0.0,11.6,40.7,4.1
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,3,Lower Saxony,ANLAT1,Plant type,ANL-SCHR-01,Shredder systems and scrap shears,67.0,1660.9,62.2,1557.2,41.5,x,1685.4,124.5,1307.8,134.8,118.2
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,3,Lower Saxony,ANLAT1,Plant type,ANL-SORT-01,sorting plants,70.0,1373.7,14.7,1268.2,90.8,x,1386.7,76.3,1086.0,38.3,186.1
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,3,Lower Saxony,ANLAT1,Plant type,ANL-ZERL-01,cutting facilities,,,,,,,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,3,Lower Saxony,ANLAT1,Plant type,ANL-SONST-01,Other treatment facilities,,,,,,,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,3,Lower Saxony,ANLAT1,Plant type,ANL-BERGB-01,Natural materials in mining,,,,,,,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,3,Lower Saxony,ANLAT1,Plant type,ANL-LAG-01,Waste in underground mining sites,,,,,,,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,3,Lower Saxony,ANLAT1,Plant type,ANL-LAG-02,Waste in surface mining sites,286.0,6924.1,22.1,6902.0,,,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,5,North Rhine-Westphalia,ANLAT1,Plant type,ANL-DEPO-01,landfills,,,,,,,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,5,North Rhine-Westphalia,ANLAT1,Plant type,ANL-THERM-01,Thermal waste treatment plants,,,,,,,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,5,North Rhine-Westphalia,ANLAT1,Plant type,ANL-FEUER-01,combustion plants,,,,,,,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,5,North Rhine-Westphalia,ANLAT1,Plant type,ANL-CHEM-01,Chemical-physical treatment plants,86.0,1765.1,171.9,1386.3,206.9,x,959.7,224.4,497.0,56.0,182.4
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,5,North Rhine-Westphalia,ANLAT1,Plant type,ANL-BODEN-01,soil treatment plants,,,,,,,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,5,North Rhine-Westphalia,ANLAT1,Plant type,ANL-BIO-01,Biological treatment plants,,,,,,,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,5,North Rhine-Westphalia,ANLAT1,Plant type,ANL-MECH-01,Mechanical-biological waste treatment plants,,,,,,,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,5,North Rhine-Westphalia,ANLAT1,Plant type,ANL-DEM-01,Dismantling companies for old vehicles,202.0,67.1,,67.0,0.2,x,75.4,0.3,74.2,0.7,0.2
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,5,North Rhine-Westphalia,ANLAT1,Plant type,ANL-SCHR-01,Shredder systems and scrap shears,103.0,2775.8,1.9,2584.5,189.3,x,3318.6,9.2,2615.1,88.8,605.6
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,5,North Rhine-Westphalia,ANLAT1,Plant type,ANL-SORT-01,sorting plants,298.0,8723.9,254.7,8228.6,240.7,x,8444.2,643.0,6708.5,490.7,602.0
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,5,North Rhine-Westphalia,ANLAT1,Plant type,ANL-ZERL-01,cutting facilities,,,,,,,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,5,North Rhine-Westphalia,ANLAT1,Plant type,ANL-SONST-01,Other treatment facilities,,,,,,,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,5,North Rhine-Westphalia,ANLAT1,Plant type,ANL-BERGB-01,Natural materials in mining,,,,,,,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,5,North Rhine-Westphalia,ANLAT1,Plant type,ANL-LAG-01,Waste in underground mining sites,,,,,,,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,5,North Rhine-Westphalia,ANLAT1,Plant type,ANL-LAG-02,Waste in surface mining sites,79.0,6669.9,320.2,6320.0,29.8,,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,7,Rhineland-Palatinate,ANLAT1,Plant type,ANL-DEPO-01,landfills,,,,,,,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,7,Rhineland-Palatinate,ANLAT1,Plant type,ANL-THERM-01,Thermal waste treatment plants,,,,,,,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,7,Rhineland-Palatinate,ANLAT1,Plant type,ANL-FEUER-01,combustion plants,,,,,,,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,7,Rhineland-Palatinate,ANLAT1,Plant type,ANL-CHEM-01,Chemical-physical treatment plants,12.0,59.4,14.4,42.3,2.8,x,23.5,15.8,6.6,1.2,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,7,Rhineland-Palatinate,ANLAT1,Plant type,ANL-BODEN-01,soil treatment plants,,,,,,,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,7,Rhineland-Palatinate,ANLAT1,Plant type,ANL-BIO-01,Biological treatment facilities,,,,,,,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,7,Rhineland-Palatinate,ANLAT1,Plant type,ANL-MECH-01,Mechanical-biological waste treatment plants,,,,,,,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,7,Rhineland-Palatinate,ANLAT1,Plant type,ANL-DEM-01,Dismantling companies for end-of-life vehicles,68.0,30.9,,29.4,1.5,x,33.1,0.0,31.0,1.9,0.2
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,7,Rhineland-Palatinate,ANLAT1,Plant type,ANL-SCHR-01,Shredder systems and scrap shears,45.0,1037.4,52.3,954.8,30.3,x,1041.3,18.1,637.8,7.0,378.4
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,7,Rhineland-Palatinate,ANLAT1,Plant type,ANL-SORT-01,sorting plants,42.0,1329.6,28.5,1242.6,58.5,x,1325.1,57.1,929.1,121.9,217.0
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,7,Rhineland-Palatinate,ANLAT1,Plant type,ANL-ZERL-01,cutting facilities,,,,,,,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,7,Rhineland-Palatinate,ANLAT1,Plant type,ANL-SONST-01,Other treatment plants,,,,,,,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,7,Rhineland-Palatinate,ANLAT1,Plant type,ANL-BERGB-01,Natural materials in mining,,,,,,,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,7,Rhineland-Palatinate,ANLAT1,Plant type,ANL-LAG-01,Waste in underground mining sites,,,,,,,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,7,Rhineland-Palatinate,ANLAT1,Plant type,ANL-LAG-02,Waste in surface mining sites,180.0,4485.8,151.4,4332.6,1.8,,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,10,Saarland,ANLAT1,Plant type,ANL-DEPO-01,landfills,,,,,,,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,10,Saarland,ANLAT1,Plant type,ANL-THERM-01,Thermal waste treatment plants,,,,,,,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,10,Saarland,ANLAT1,Plant type,ANL-FEUER-01,combustion plants,,,,,,,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,10,Saarland,ANLAT1,Plant type,ANL-CHEM-01,Chemical-physical treatment plants,7.0,64.4,0.0,62.1,2.2,x,31.4,1.0,17.1,0.0,13.3
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,10,Saarland,ANLAT1,Plant type,ANL-BODEN-01,soil treatment plants,,,,,,,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,10,Saarland,ANLAT1,Plant type,ANL-BIO-01,Biological treatment facilities,,,,,,,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,10,Saarland,ANLAT1,Plant type,ANL-MECH-01,Mechanical-biological waste treatment plants,,,,,,,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,10,Saarland,ANLAT1,Plant type,ANL-DEM-01,Dismantling companies for end-of-life vehicles,12.0,2.2,,2.2,0.0,x,2.8,,2.8,,0.0
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,10,Saarland,ANLAT1,Plant type,ANL-SCHR-01,Shredder systems and scrap shears,23.0,287.0,4.2,253.0,29.8,x,300.8,0.3,78.8,0.0,221.6
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,10,Saarland,ANLAT1,Plant type,ANL-SORT-01,sorting plants,28.0,271.7,1.4,234.8,35.4,x,280.6,4.3,225.8,6.0,44.6
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,10,Saarland,ANLAT1,Plant type,ANL-ZERL-01,Disassembly facilities,,,,,,,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,10,Saarland,ANLAT1,Plant type,ANL-SONST-01,Other treatment plants,,,,,,,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,10,Saarland,ANLAT1,Plant type,ANL-BERGB-01,Natural materials in mining,,,,,,,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,10,Saarland,ANLAT1,Plant type,ANL-LAG-01,Waste in underground mining sites,,,,,,,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,10,Saarland,ANLAT1,Plant type,ANL-LAG-02,Waste in surface mining sites,29.0,486.5,134.3,352.2,,,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,14,Saxony,ANLAT1,Plant type,ANL-DEPO-01,landfills,,,,,,,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,14,Saxony,ANLAT1,Plant type,ANL-THERM-01,Thermal waste treatment plants,,,,,,,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,14,Saxony,ANLAT1,Plant type,ANL-FEUER-01,combustion plants,,,,,,,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,14,Saxony,ANLAT1,Plant type,ANL-CHEM-01,Chemical-physical treatment plants,25.0,231.0,47.1,172.3,11.6,x,92.2,26.9,23.2,3.0,39.0
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,14,Saxony,ANLAT1,Plant type,ANL-BODEN-01,soil treatment plants,,,,,,,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,14,Saxony,ANLAT1,Plant type,ANL-BIO-01,Biological treatment plants,,,,,,,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,14,Saxony,ANLAT1,Plant type,ANL-MECH-01,Mechanical-biological waste treatment plants,,,,,,,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,14,Saxony,ANLAT1,Plant type,ANL-DEM-01,Dismantling companies for end-of-life vehicles,66.0,17.5,,17.3,0.1,x,21.6,0.0,3.5,17.4,0.7
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,14,Saxony,ANLAT1,Plant type,ANL-SCHR-01,Shredder systems and scrap shears,29.0,656.9,0.6,653.9,2.5,x,520.3,0.0,195.8,10.2,314.3
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,14,Saxony,ANLAT1,Plant type,ANL-SORT-01,sorting plants,45.0,681.8,0.2,681.6,,x,677.8,19.5,429.0,76.8,152.5
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,14,Saxony,ANLAT1,Plant type,ANL-ZERL-01,cutting facilities,,,,,,,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,14,Saxony,ANLAT1,Plant type,ANL-SONST-01,Other treatment plants,,,,,,,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,14,Saxony,ANLAT1,Plant type,ANL-BERGB-01,Natural materials in mining,,,,,,,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,14,Saxony,ANLAT1,Plant type,ANL-LAG-01,Waste in underground mining sites,,,,,,,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,14,Saxony,ANLAT1,Plant type,ANL-LAG-02,Waste in surface mining sites,163.0,6115.0,117.2,5997.8,,,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,15,Saxony-Anhalt,ANLAT1,Plant type,ANL-DEPO-01,landfills,,,,,,,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,15,Saxony-Anhalt,ANLAT1,Plant type,ANL-THERM-01,Thermal waste treatment plants,,,,,,,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,15,Saxony-Anhalt,ANLAT1,Plant type,ANL-FEUER-01,combustion plants,,,,,,,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,15,Saxony-Anhalt,ANLAT1,Plant type,ANL-CHEM-01,Chemical-physical treatment plants,28.0,902.7,46.8,847.9,8.0,x,576.4,94.8,467.9,1.0,12.6
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,15,Saxony-Anhalt,ANLAT1,Plant type,ANL-BODEN-01,Soil treatment plants,,,,,,,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,15,Saxony-Anhalt,ANLAT1,Plant type,ANL-BIO-01,Biological treatment facilities,,,,,,,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,15,Saxony-Anhalt,ANLAT1,Plant type,ANL-MECH-01,Mechanical-biological waste treatment plants,,,,,,,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,15,Saxony-Anhalt,ANLAT1,Plant type,ANL-DEM-01,Dismantling companies for end-of-life vehicles,52.0,9.8,,9.8,0.0,x,12.8,0.0,12.8,,0.0
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,15,Saxony-Anhalt,ANLAT1,Plant type,ANL-SCHR-01,Shredder systems and scrap shears,31.0,709.7,6.4,652.7,50.6,x,478.2,6.4,387.2,0.4,84.2
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,15,Saxony-Anhalt,ANLAT1,Plant type,ANL-SORT-01,sorting plants,40.0,1038.4,4.1,999.5,34.8,x,1028.3,57.2,682.9,22.5,265.7
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,15,Saxony-Anhalt,ANLAT1,Plant type,ANL-ZERL-01,Disassembly facilities,,,,,,,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,15,Saxony-Anhalt,ANLAT1,Plant type,ANL-SONST-01,Other treatment plants,,,,,,,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,15,Saxony-Anhalt,ANLAT1,Plant type,ANL-BERGB-01,Natural materials in mining,,,,,,,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,15,Saxony-Anhalt,ANLAT1,Plant type,ANL-LAG-01,Waste in underground mining sites,,,,,,,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,15,Saxony-Anhalt,ANLAT1,Plant type,ANL-LAG-02,Waste in surface quarries,67.0,3852.4,146.4,3706.0,,,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,1,Schleswig-Holstein,ANLAT1,Plant type,ANL-DEPO-01,landfills,,,,,,,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,1,Schleswig-Holstein,ANLAT1,Plant type,ANL-THERM-01,Thermal waste treatment plants,,,,,,,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,1,Schleswig-Holstein,ANLAT1,Plant type,ANL-FEUER-01,combustion plants,,,,,,,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,1,Schleswig-Holstein,ANLAT1,Plant type,ANL-CHEM-01,Chemical-physical treatment plants,13.0,96.7,28.7,67.7,0.3,x,18.0,9.7,5.8,0.6,1.8
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,1,Schleswig-Holstein,ANLAT1,Plant type,ANL-BODEN-01,Soil treatment plants,,,,,,,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,1,Schleswig-Holstein,ANLAT1,Plant type,ANL-BIO-01,Biological treatment plants,,,,,,,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,1,Schleswig-Holstein,ANLAT1,Plant type,ANL-MECH-01,Mechanical-biological waste treatment plants,,,,,,,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,1,Schleswig-Holstein,ANLAT1,Plant type,ANL-DEM-01,Dismantling companies for old vehicles,35.0,17.4,,17.4,0.0,x,19.2,0.0,1.5,17.6,0.1
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,1,Schleswig-Holstein,ANLAT1,Plant type,ANL-SCHR-01,Shredder systems and scrap shears,37.0,544.0,70.1,468.1,5.8,x,515.0,2.7,337.6,69.3,105.5
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,1,Schleswig-Holstein,ANLAT1,Plant type,ANL-SORT-01,sorting plants,44.0,1172.7,2.0,1116.2,54.5,x,1051.1,72.8,811.7,87.0,79.6
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,1,Schleswig-Holstein,ANLAT1,Plant type,ANL-ZERL-01,cutting facilities,,,,,,,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,1,Schleswig-Holstein,ANLAT1,Plant type,ANL-SONST-01,Other treatment plants,,,,,,,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,1,Schleswig-Holstein,ANLAT1,Plant type,ANL-BERGB-01,Natural materials in mining,,,,,,,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,1,Schleswig-Holstein,ANLAT1,Plant type,ANL-LAG-01,Waste in underground mining sites,,,,,,,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,1,Schleswig-Holstein,ANLAT1,Plant type,ANL-LAG-02,Waste in surface mining sites,40.0,1062.9,187.1,875.7,,,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,16,Thuringia,ANLAT1,Plant type,ANL-DEPO-01,landfills,,,,,,,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,16,Thuringia,ANLAT1,Plant type,ANL-THERM-01,Thermal waste treatment plants,,,,,,,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,16,Thuringia,ANLAT1,Plant type,ANL-FEUER-01,combustion plants,,,,,,,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,16,Thuringia,ANLAT1,Plant type,ANL-CHEM-01,Chemical-physical treatment plants,15.0,369.3,13.9,355.4,,x,347.4,29.0,266.5,5.1,46.9
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,16,Thuringia,ANLAT1,Plant type,ANL-BODEN-01,Soil treatment plants,,,,,,,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,16,Thuringia,ANLAT1,Plant type,ANL-BIO-01,Biological treatment plants,,,,,,,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,16,Thuringia,ANLAT1,Plant type,ANL-MECH-01,Mechanical-biological waste treatment plants,,,,,,,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,16,Thuringia,ANLAT1,Plant type,ANL-DEM-01,Dismantling companies for end-of-life vehicles,54.0,9.8,,9.7,0.1,x,11.3,0.0,9.4,1.9,0.0
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,16,Thuringia,ANLAT1,Plant type,ANL-SCHR-01,Shredder systems and scrap shears,12.0,249.8,0.1,248.6,1.0,x,271.3,1.6,185.6,4.7,79.5
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,16,Thuringia,ANLAT1,Plant type,ANL-SORT-01,sorting plants,36.0,661.9,54.9,606.6,0.4,x,647.0,5.9,391.6,14.9,234.5
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,16,Thuringia,ANLAT1,Plant type,ANL-ZERL-01,Disassembly facilities,,,,,,,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,16,Thuringia,ANLAT1,Plant type,ANL-SONST-01,Other treatment plants,,,,,,,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,16,Thuringia,ANLAT1,Plant type,ANL-BERGB-01,Natural materials in mining,,,,,,,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,16,Thuringia,ANLAT1,Plant type,ANL-LAG-01,Waste in underground mining sites,,,,,,,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DLAND,Federal states,16,Thuringia,ANLAT1,Plant type,ANL-LAG-02,Waste in surface quarries,95.0,4561.7,1.9,4559.8,,,,,,,

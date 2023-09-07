@@ -1,0 +1,893 @@
+Statistics_Code,Statistics_Label,time_code,time_label,Time,1_feature_code,1_feature_label,1_expression_code,1_expression_label,2_feature_code,2_Feature_Label,2_expression_code,2_expression_label,Waste_Disposal_Plants,Input_from_waste_disposal_plants,Waste_generated_in_own_operation,Waste_delivered_from_the_country,Waste_delivered_from_abroad
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-010101-U,Waste from mining v. metal-containing mineral resources,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-010102-U,Waste from mining v. non-metal Mineral resources,12.0,17273.2,17266.8,6.4,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-010304-G,Acid-forming tailings a. sul. ore,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-010305-G,Other processing residues containing hazardous substances,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-010306-U,Processing residues (without 010304 and 010305),8.0,3.3,,3.3,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-010307-G,Waste from processing metal-bearing mineral resources,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-010308-U,Dusty and powdery waste (without 010307),,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-010309-U,Red mud from aluminum oxide production (oh.010310),,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-010310-G,Red mud with dangerous substances (without 010307),,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-010399-U,processing from metallh. Natural resources: waste n.e.c.,3.0,1.1,0.0,1.1,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-010407-G,Waste for further processing nonmetallic Mineral resources,9.0,39.4,,38.9,0.5
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-010408-U,Gravel and rock quarry waste (without 010407),17.0,31.4,24.8,6.5,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-010409-U,Sand and clay waste,12.0,7.9,6.4,1.4,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-010410-U,Dusty and powdery waste (without 010407),22.0,11.0,4.4,6.6,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-010411-U,Waste from processing v.potash and rock salt (oh.010407),12.0,10541.0,10497.2,43.8,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-010412-U,"reprocessing including waste (oh.010407,010411)",,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-010413-U,Waste from stonemasonry and sawing work (excluding 010407),35.0,36.5,31.5,5.1,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-010499-U,processing v. non-metal Soil waste: waste n.e.c.,3.0,0.0,0.0,0.0,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-010504-U,Sludge and waste from freshwater drilling,35.0,73.7,0.1,73.6,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-010505-G,Oily drilling muds and wastes,12.0,4.1,,4.1,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-010506-G,Drilling muds and other drilling waste with hazardous substances,5.0,13.7,,13.7,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-010507-U,"Drilling cuttings and waste containing barite (oh.010505,010506)",,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-010508-U,"Chloride content. Drilling tubing waste (oh.010505,010506)",17.0,56.2,,56.2,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-010599-U,drilling muds and. other construction waste: waste not otherwise specified,3.0,0.8,,0.8,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-020101-U,"Agriculture, among other things: sludge from washing and cleaning processes.",9.0,0.5,,0.5,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-020102-U,Agriculture i.a.: Waste from animal tissue,13.0,53.3,,53.3,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-020103-U,"Agriculture, among other things: waste from plant tissue",273.0,744.0,94.4,649.5,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-020104-U,"Agricultural, etc.: plastic waste (without packaging)",64.0,30.0,,27.5,2.5
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-020106-U,"Animal excreta, manure/manure/stable manure",197.0,610.6,136.5,467.6,6.4
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-020107-U,Waste from forestry,59.0,242.2,32.7,209.5,0.0
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-020108-G,Agricultural chemical waste,20.0,1.7,0.0,1.4,0.3
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-020109-U,waste v. chemistry. f.d. Agriculture(oh.020108),6.0,0.1,,0.1,0.0
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-020110-U,Agriculture e.g.: metal waste,14.0,1.3,,1.3,0.0
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-020199-U,Agriculture and others: waste not otherwise specified,15.0,3.0,,3.0,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-020201-U,Meat and others: sludges from washing and cleaning processes,11.0,24.9,17.8,7.1,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-020202-U,"Meat, among other things: waste from animal tissue",24.0,107.5,1.3,105.3,0.8
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-020203-U,Meat and others: For consumption/processing. unsuitable substances,123.0,423.7,5.7,394.7,23.3
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-020204-U,Meat and others: sludge (company waste water tank),200.0,872.0,46.0,819.4,6.6
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-020299-U,"processing of meat, fish, etc.: waste not otherwise specified",27.0,75.8,0.0,75.5,0.3
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-020301-U,"Fruit and others: sludge from washing, cleaning proc. i.a.",34.0,41.0,,41.0,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-020302-U,"Fruit, among other things: Waste preservatives",,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-020303-U,"Fruit, among other things: waste from extraction with solvents",6.0,1.7,,1.7,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-020304-U,Fruit and others: For consumption/processing. unsuitable substances,233.0,452.5,98.5,347.5,6.5
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-020305-U,"Fruit, among other things: sludge (in-house waste water tank)",31.0,52.0,,43.8,8.2
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-020399-U,"Processing of fruit, vegetables, etc.: waste n.e.c.",30.0,55.7,,47.3,8.4
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-020401-U,Sugar production: beet soil,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-020402-U,Sugar manufacturer: Not specific. calcium carbonate sludge,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-020403-U,Sugar production: sludge (in-house waste water tank),,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-020499-U,Sugar production: waste n.e.c.,4.0,117.5,116.8,0.7,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-020501-U,Milk processing: For consumption/processing. unsuitable,44.0,57.7,,55.6,2.1
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-020502-U,Milk processing: sludge (in-house waste water tank),31.0,57.7,,57.7,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-020599-U,Dairy processing: wastes not otherwise specified,5.0,18.1,,18.1,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-020601-U,Bakery and confectionery: For consumption/processing. unsuitable st,83.0,293.5,2.2,256.9,34.4
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-020602-U,"Baked goods, confectionery: waste from preservatives",,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-020603-U,"Baked goods, confectionery: sludge (own waste water treatment)",7.0,7.1,,7.1,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-020699-U,Manufacture of bakery and confectionery products: waste n.e.c.,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-020701-U,"Beverages: Waste from laundry, cleaning, etc.",4.0,1.1,,1.1,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-020702-U,Beverages: Waste from alcohol distillation,24.0,822.0,796.9,25.1,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-020703-U,Beverages: Waste from chemical treatment,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-020704-U,Beverages: For consumption/processing unsuitable substances,56.0,76.5,,75.6,0.9
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-020705-U,Beverages: sludge (in-house waste water treatment),12.0,6.3,,6.3,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-020799-U,Manufacture of beverages: waste n.e.c.,16.0,4.1,,4.1,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-030101-U,"Wood processing, etc.: bark and cork waste",28.0,349.9,269.1,80.8,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-030104-G,"Sawdust, shavings, cuttings, wood, chipboard",7.0,6.5,,1.0,5.5
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-030105-U,"Sawdust, shavings, trimmings, wood, chipboard. (oh.030104)",404.0,2015.6,1281.9,607.4,126.4
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-030199-U,"Woodworking, among others: waste not otherwise specified",4.0,25.1,25.0,0.1,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-030201-G,Halogen-free organic wood preservatives,5.0,0.0,,0.0,0.0
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-030202-G,Organochlorine wood preservatives,3.0,0.0,,0.0,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-030203-G,Metallo-organic wood preservatives,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-030204-G,Inorganic wood preservatives,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-030205-G,Other wood preservatives containing dangerous substances,3.0,0.0,,0.0,0.0
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-030299-U,wood preservatives n.e.c.,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-030301-U,Paper manufacture i.a.: bark and wood waste,28.0,265.5,112.9,152.6,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-030302-U,Sulphite sludge (from reclamation of cooking liquors),,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-030305-U,Deinking sludge from paper recycling,9.0,282.5,213.0,43.9,25.7
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-030307-U,Mechanically separated waste (paper waste),93.0,836.4,181.9,640.8,13.7
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-030308-U,Waste from sorting v. paper for recycling,10.0,18.5,,18.5,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-030309-U,Lime sludge waste,7.0,17.2,0.2,17.1,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-030310-U,"Fiber waste, fiber, filler and coating sludge",68.0,1393.6,422.3,962.8,8.5
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-030311-U,Sludge a. operational wastewater treatment (oh.030310),37.0,145.5,32.9,112.6,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-030399-U,"Paper manufacture, etc.: Waste not otherwise specified",16.0,29.1,11.4,16.2,1.5
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-040101-U,Flesh scrapings and skin scraps,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-040102-U,Limed glue leather,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-040103-G,"Degreasing waste, solvent-free, non-liquid phase",,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-040104-U,Chromium-containing tannery broth,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-040105-U,Chromium-free tannery broth,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-040106-U,Slurries containing chromium,10.0,96.0,81.2,14.7,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-040107-U,Chromium-free sludges,3.0,0.8,,0.8,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-040108-U,Chrome waste from tanned leather,9.0,4.8,0.4,3.1,1.3
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-040109-U,Waste from preparation and finishing,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-040199-U,Leather and fur industry: wastes not otherwise specified,5.0,0.2,,0.2,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-040209-U,"Waste from composite materials (elastomer, etc.)",36.0,26.9,,18.9,8.1
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-040210-U,Organic substances from natural substances (e.g. fats),3.0,0.2,,0.2,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-040214-G,Waste from the finish with organ. solvent,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-040215-U,Waste from the finish (without 040214),7.0,0.5,0.1,0.4,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-040216-G,Dyes and pigments with hazardous substances,7.0,0.6,,0.2,0.4
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-040217-U,Dyes and pigments (without 040216),3.0,0.0,,0.0,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-040219-G,Textile industry: sludge (own waste water treatment),,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-040220-U,sludge from on-site Waste water tank (oh.040219),13.0,1.7,,1.7,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-040221-U,Waste from untreated textile fibers,11.0,13.2,0.9,3.3,9.0
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-040222-U,Waste from processed textile fibers,56.0,25.9,0.6,24.7,0.6
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-040299-U,Textile industry: waste n.e.c.,4.0,4.8,,0.1,4.7
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-050102-G,Petroleum refining: desalination sludges,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-050103-G,Petroleum refining: bottom sludge from tanks,25.0,12.3,1.3,10.6,0.4
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-050104-G,Petroleum refining: Acid alkyl sludges,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-050105-G,Petroleum Refining: Oil Spills,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-050106-G,Petroleum refining: oil holding.sludges a.operation process.,24.0,13.8,1.4,12.4,0.0
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-050107-G,Petroleum refining: acid tars,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-050108-G,Petroleum refining: Other teas,4.0,0.2,,0.2,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-050109-G,Petroleum refining: sludge (company wastewater tank),12.0,7.4,4.1,2.7,0.6
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-050110-U,sludge a. company owned Sewage treatment (oh.050109),4.0,3.2,,3.2,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-050111-G,Petroleum refinery: Waste from fuel purification. with bases,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-050112-G,Petroleum Refining: Acidic Oils,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-050113-U,Petroleum refining: sludges from boiler feed water treatment.,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-050114-U,Petroleum refining: waste from cooling columns,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-050115-G,Petroleum Refining: Used filter clays,7.0,0.6,0.1,0.5,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-050116-U,Petroleum Ref.:Sulphur. Waste from oil desulfurization,7.0,0.3,,0.3,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-050117-U,Petroleum refining: bitumen,5.0,0.2,,0.2,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-050199-U,Petroleum refining: wastes n.e.c.,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-050601-G,Coal pyrolysis: acid tars,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-050603-G,Kohlepyrolyse: Andere Teere,20.0,2.8,0.0,2.8,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-050604-U,Coal pyrolysis: waste from cooling columns,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-050699-U,Coal pyrolysis: wastes not otherwise specified,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-050701-G,"Natural gas cleaning, transport: mercury h. waste",4.0,0.2,,0.2,0.0
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-050702-U,"Natural gas purification, transport: waste containing sulfur",3.0,0.1,,0.1,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-050799-U,"Natural gas purification, transport: waste n.e.c.",,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-060101-G,sulfuric acid and sulphurous acid,43.0,197.1,32.9,107.7,56.6
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-060102-G,hydrochloric acid,21.0,6.3,1.0,5.2,0.0
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-060103-G,Hydrofluoric acid,10.0,2.3,2.2,0.1,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-060104-G,Phosphoric acid and phosphorous acid,18.0,1.4,,1.4,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-060105-G,Nitric acid and nitrous acid,18.0,1.2,0.0,1.1,0.0
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-060106-G,Other acids,57.0,13.8,0.3,13.4,0.2
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-060199-U,Acids: waste not otherwise specified,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-060201-G,Calciumhydroxid,9.0,0.7,,0.5,0.2
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-060203-G,Ammoniumhydroxid,15.0,1.5,0.0,1.5,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-060204-G,Sodium and potassium hydroxide,33.0,9.6,0.0,8.9,0.6
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-060205-G,Other Bases,58.0,15.6,0.3,12.1,3.2
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-060299-U,Bases: wastes n.e.c.,7.0,0.2,,0.2,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-060311-G,Solid salts and solutions containing cyanide,10.0,0.4,,0.4,0.0
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-060313-G,Solid salts and solutions containing heavy metals,59.0,14.9,6.1,8.3,0.5
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-060314-U,Solid salts and solutions (excluding 060311 and 060313),69.0,143.8,4.1,138.5,1.2
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-060315-G,Metal oxides containing heavy metals,25.0,3.2,0.2,2.7,0.3
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-060316-U,Metal oxides (without 060315),44.0,45.1,2.9,42.2,0.0
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-060399-U,"Salts, salt solutions, metal oxides: wastes n.e.c.",9.0,0.7,,0.7,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-060403-G,Waste containing arsenic,11.0,0.7,,0.4,0.4
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-060404-G,Waste containing mercury,23.0,2.6,0.0,1.9,0.7
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-060405-G,Waste containing other heavy metals,33.0,66.1,0.1,65.6,0.5
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-060499-U,Metal-containing wastes n.e.c.,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-060502-G,Sludge from in-house wastewater treatment,55.0,67.3,1.4,52.3,13.6
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-060503-U,sludge from on-site Waste water tank (oh.060502),59.0,81.7,5.5,76.1,0.1
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-060602-G,Waste containing hazardous sulphides,9.0,0.8,0.0,0.8,0.0
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-060603-U,Waste containing sulfide (without 060602),,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-060699-U,Chemicals containing sulfur: wastes n.e.c.,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-060701-G,Asbestos-containing waste from electrolysis,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-060702-G,Activated carbon from chlorine production,3.0,0.1,,0.1,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-060703-G,Mercurial barium sulfate sludges,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-060704-G,"Solutions and acids, e.g. contact acid",,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-060799-U,Halogens: wastes not otherwise specified,4.0,1.3,0.0,1.3,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-060802-G,Hazardous waste containing chlorosilanes,6.0,10.4,10.3,0.0,0.1
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-060899-U,"Silicon, silicon compounds: waste not otherwise specified",21.0,15.6,1.0,14.4,0.2
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-060902-U,Phosphorous slag,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-060903-G,Calcium-based reaction wastes,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-060904-U,Calcium-based reaction waste (without 060903),,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-060999-U,Chemicals containing phosphorus: wastes n.e.c.,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-061002-G,Nitrogen.Chemie.: Waste with hazardous fabrics,4.0,0.1,0.0,0.0,0.1
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-061099-U,Nitrogen-containing chemicals: wastes n.e.s.,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-061101-U,Calcium based reaction wastes a. titanium dioxide.,6.0,16.0,,15.6,0.3
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-061199-U,"Inorganic pigments, colourants: waste not otherwise specified",4.0,0.8,,0.8,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-061301-G,"Inorganic pesticides, wood preservatives",10.0,0.1,0.0,0.1,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-061302-G,Used activated carbon (without 060702),32.0,4.4,0.0,4.2,0.2
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-061303-U,Carbon black,17.0,2.4,,2.3,0.1
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-061304-G,Waste from asbestos processing,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-061305-G,Oven and chimney soot,3.0,0.0,,0.0,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-061399-U,Inorganic chemical processes: wastes not otherwise specified,7.0,0.3,0.3,0.0,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-070101-G,"Organic basic chemicals: Aqueous wash bottles, mother liquors",71.0,96.1,34.7,58.6,2.8
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-070103-G,"Organic basic chemicals: halogen organic solvents, wash bottle",33.0,37.0,10.0,26.6,0.4
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-070104-G,"Organic basic chemicals: solvents, washing liquids",81.0,192.5,94.0,95.9,2.7
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-070107-G,"Org.basic chemistry: halog.reaction, distillation residue.",27.0,88.4,59.3,25.8,3.3
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-070108-G,Org.Basic chemistry: reaction and distillation residues.,72.0,148.3,49.2,75.2,23.9
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-070109-G,"Org.Basic chemistry: Halog.filter cake, absorbent mat.",11.0,0.6,0.0,0.4,0.1
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-070110-G,"Org.Grundchemik.: And. filter cake, absorbent mat.",29.0,16.4,0.0,15.6,0.7
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-070111-G,Org. basic chemistry: sludge (company waste water tank),23.0,12.8,0.2,3.6,9.0
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-070112-U,sludge from on-site Sewage treatment (oh.070111),18.0,13.4,0.0,13.4,0.0
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-070199-U,Bulk organic chemicals: wastes not otherwise specified,34.0,19.7,0.0,19.7,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-070201-G,"Plastics: Aqueous detergents, mother liquors",51.0,20.9,0.3,19.7,0.8
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-070203-G,"Plastics: halogen organic solvents, washing liquid.",23.0,1.9,0.3,1.5,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-070204-G,"Plastics: organic. Solvents, washing liquids",53.0,27.1,4.8,21.1,1.1
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-070207-G,Plastics: Halog. Reaction and distillation residues,21.0,4.7,1.6,2.9,0.2
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-070208-G,Plastics: reaction and distillation residues,80.0,94.1,22.8,70.8,0.5
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-070209-G,"Plastics: Halog. Filter cake, absorbent mat.",5.0,0.2,,0.2,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-070210-G,"Plastics: And. filter cakes, absorbent materials",26.0,6.3,0.9,5.4,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-070211-G,Plastics: sludge (company wastewater tank),16.0,1.8,0.0,1.8,0.0
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-070212-U,sludge from on-site Waste water tank (oh.070211),38.0,17.0,3.0,14.0,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-070213-U,Plastic waste,267.0,424.5,20.2,375.9,28.4
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-070214-G,Plastics: Waste from additives with dangerous St.,19.0,2.6,0.3,2.3,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-070215-U,Waste additives (excluding 070214),24.0,1.1,0.1,1.0,0.1
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-070216-G,Plastics: Danger. Waste containing silicone,8.0,1.0,0.7,0.3,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-070217-U,Waste containing silicone (excluding 070216),6.0,0.5,0.2,0.4,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-070299-U,"Plastics, fibers, synthetic rubber: waste not otherwise specified",53.0,55.3,13.5,34.7,7.0
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-070301-G,"Organic dyes: Aqueous wash bottles, mother liquors",14.0,4.6,0.0,3.7,0.9
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-070303-G,"Organic dyes: halogen org. Solvents, detergents",9.0,1.6,,1.6,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-070304-G,"Organic dyes: solvents, washing liquids",40.0,22.5,0.4,20.9,1.2
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-070307-G,Organic dyes: halogen. Reaction and distillation reset.,11.0,1.5,0.6,1.0,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-070308-G,Organic dyes: reaction and distillation residues,16.0,4.7,0.0,4.6,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-070309-G,"Organic dyes: halogen. filter cake, absorbent mat.",5.0,0.1,0.0,0.1,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-070310-G,"Organic dyes: Other filter cakes, absorption mat.",6.0,0.4,0.0,0.4,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-070311-G,Org. dyes: sludge (in-house waste water tank),,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-070312-U,sludge from on-site Waste water tank (oh.070311),7.0,0.5,0.0,0.5,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-070399-U,"Organic dyes, pigments: wastes not otherwise specified",5.0,0.2,,0.2,0.0
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-070401-G,"Pesticides: Aqueous wash, mother liquor.",24.0,28.2,4.8,22.5,0.9
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-070403-G,"Plant protection with: halogen organic solvents, washing fl.",17.0,63.2,12.8,50.4,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-070404-G,"Pesticides: Organ. solvent, washbottle",22.0,37.7,19.6,18.1,0.1
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-070407-G,"Crop Protection With.: Halogen.Reaction, Distill.reset",10.0,24.6,2.6,22.0,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-070408-G,"Pesticides: reaction, distillation residue",12.0,5.9,0.5,4.8,0.6
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-070409-G,"Pesticides: halogen filter cake, absorbent mat",6.0,0.2,0.0,0.2,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-070410-G,"Pesticides: filter cake, absorbent mat.",9.0,0.8,0.0,0.8,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-070411-G,Plant protection: sludge (company wastewater tank),6.0,0.2,0.1,0.2,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-070412-U,sludge from on-site Waste water tank (oh.070411),,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-070413-G,Pesticides: solid waste with dangerous goods,13.0,0.9,0.2,0.7,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-070499-U,"Pesticides, etc.: Waste not otherwise specified",4.0,2.7,,0.1,2.6
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-070501-G,"Pharmaceuticals: Aqueous washes, mother liquors",32.0,45.7,10.2,28.9,6.5
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-070503-G,"Pharmaceuticals: halogen organic solvents, washing fl.",26.0,41.6,24.7,8.8,8.0
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-070504-G,"Pharmaceuticals: organ. Solvents, washing liquids.",41.0,90.7,16.6,68.3,5.8
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-070507-G,"Pharmaceuticals: halogen.reaction, distill.residue",10.0,2.3,0.2,2.0,0.0
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-070508-G,Pharmaceuticals: reaction and distillation residues,18.0,5.7,0.0,5.6,0.1
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-070509-G,"Pharmaceuticals: Halogen filter cake, absorbent mat.",9.0,0.6,0.3,0.1,0.3
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-070510-G,"Pharmaceuticals: filter cake, absorbent materials",12.0,2.2,0.1,2.0,0.1
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-070511-G,Pharmaceuticals: sludge (in-house waste water treatment),3.0,0.1,,0.1,0.0
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-070512-U,sludge from on-site Waste water tank (oh.070511),4.0,1.4,,0.5,0.9
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-070513-G,Pharmaceuticals: Solid waste with hazardous fabrics,17.0,3.0,,1.6,1.4
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-070514-U,Solid waste (excluding 070513),30.0,9.4,,9.4,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-070599-U,Pharmaceuticals: wastes not otherwise specified,43.0,24.0,10.4,13.5,0.0
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-070601-G,"Greases, soaps: aqueous detergents, mother liquors",55.0,21.3,0.1,21.0,0.1
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-070603-G,"Fats, soaps: halogen organic solvents, washing fl.",10.0,0.3,0.0,0.3,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-070604-G,"Fats, soaps: organ. Solvents, washing liquids.",39.0,7.7,0.8,6.9,0.1
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-070607-G,"Fats, soaps: Halogen.reaction, distill.residue.",7.0,0.2,,0.2,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-070608-G,"Fats, soaps: reaction, distillation residues",47.0,41.2,2.8,38.3,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-070609-G,"Fats, soaps: halogen filter cake, absorbent mat.",3.0,0.2,,0.2,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-070610-G,"Fats, soaps: filter cakes, absorbent materials",18.0,1.4,0.0,1.4,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-070611-G,"Fats, soaps: sludge (in-house waste water treatment)",12.0,1.9,,1.8,0.1
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-070612-U,sludge from on-site Waste water tank (oh.070611),18.0,11.0,0.3,10.6,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-070699-U,"Grease, soap, lubricants, etc.: waste not otherwise specified",59.0,28.4,0.1,28.0,0.3
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-070701-G,"Fine chemicals: Aqueous detergents, mother liquors",56.0,73.9,20.3,53.6,0.0
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-070703-G,"Fine chemicals: halogen organic solvents, washing fl.",26.0,19.2,9.8,8.8,0.5
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-070704-G,"Fine chemicals: organ. Solvents, washing liquids.",48.0,45.5,10.1,35.0,0.4
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-070707-G,"Fine chemicals: halogen reaction, distillation residue.",15.0,23.3,15.5,7.7,0.2
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-070708-G,Fine chemicals: reaction and distillation residues.,42.0,100.6,66.7,32.9,1.0
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-070709-G,"Fine chemicals: halogen filter cake, absorption mat.",12.0,0.4,0.0,0.4,0.0
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-070710-G,"Fine chemicals: filter cake, absorbent materials",22.0,3.5,0.4,3.1,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-070711-G,Fine chemicals: sludge (company wastewater tank),12.0,2.4,0.3,2.0,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-070712-U,sludge from on-site Sewage treatment (oh.070711),9.0,1.6,0.1,1.5,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-070799-U,Fine chemicals: wastes n.e.c.,7.0,0.9,0.0,0.9,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-080111-G,Paint and varnish waste with hazardous substances,78.0,44.8,3.6,34.5,6.8
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-080112-U,Paint and varnish waste (without 080111),118.0,26.0,0.1,25.5,0.5
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-080113-G,Paint and varnish sludges containing dangerous substances,52.0,26.7,4.2,22.1,0.4
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-080114-U,Paint and varnish sludge (without 080113),19.0,6.1,,6.1,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-080115-G,"Paints, varnishes: Aqueous sludges with dangerous st",40.0,23.8,4.9,18.4,0.5
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-080116-U,Aqueous sludge (without 080115),70.0,41.9,0.6,41.2,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-080117-G,Waste from paint or varnish removal,54.0,19.3,0.1,19.0,0.2
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-080118-U,Waste from paint or varnish removal (oh. 080117),27.0,3.4,,3.4,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-080119-G,Aqueous suspensions containing paints or varnishes,30.0,11.3,0.1,11.0,0.2
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-080120-U,Aqueous suspensions (without 080119),44.0,10.4,0.2,10.2,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-080121-G,Paint or varnish remover waste,6.0,0.5,0.0,0.5,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-080199-U,"Paints, varnishes: waste not otherwise specified",4.0,0.2,,0.2,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-080201-U,Coating powder waste,32.0,3.7,0.0,3.7,0.0
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-080202-U,Aqueous sludges containing ceramic materials,17.0,1.0,,1.0,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-080203-U,"Aqueous suspensions, ceramic. materials containing",10.0,1.0,,1.0,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-080299-U,Other coatings: wastes not otherwise specified,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-080307-U,Aqueous sludges containing printing inks,6.0,0.3,,0.3,0.0
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-080308-U,"Aqueous liquid waste, i.e. Printing inks included",30.0,7.5,0.0,7.5,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-080312-G,Waste printing ink containing hazardous substances,27.0,3.5,0.2,3.3,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-080313-U,Waste printing ink (without 080312),34.0,1.7,0.1,1.6,0.1
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-080314-G,Printing ink sludge containing dangerous substances,15.0,2.2,0.1,2.1,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-080315-U,Printing ink sludge (without 080314),8.0,0.3,,0.3,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-080316-G,Waste from etching solutions,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-080317-G,Waste toner containing hazardous substances,6.0,0.0,,0.0,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-080318-U,Toner waste (without 080317),42.0,2.1,0.0,1.6,0.6
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-080319-G,Dispersion beer,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-080399-U,Printing inks: waste n.e.c.,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-080409-G,Adhesive and sealant waste with hazardous st,52.0,17.5,0.8,15.1,1.6
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-080410-U,Adhesive and sealant waste (without 080409),70.0,10.8,1.2,9.4,0.2
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-080411-G,Slurries containing adhesives and sealants,4.0,0.1,,0.1,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-080412-U,Adhesive and sealant hold. Sludge(oh.080411),8.0,0.9,0.0,0.9,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-080413-G,"Adhesives, sealants: Aqueous sludges with dangerous substances.",8.0,0.4,0.0,0.3,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-080414-U,Aqueous sludge (without 080413),27.0,3.6,0.1,3.5,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-080415-G,"Adhesive, sealant: Aqueous liquid waste with dangerous items",9.0,0.3,0.0,0.2,0.1
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-080416-U,Aqueous liquid waste (excluding 080415),28.0,16.4,10.9,5.5,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-080417-G,"Adhesives, sealants: resin oils",,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-080499-U,"Adhesives, sealants: waste not otherwise specified",,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-080501-G,isocyanate waste,17.0,1.7,0.1,0.9,0.6
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-090101-G,Water-based developer and activator solutions,26.0,1.6,0.0,1.4,0.2
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-090102-G,Offset printing plate developer solutions,27.0,3.1,0.0,3.0,0.1
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-090103-G,Solvent-based developer solutions,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-090104-G,fixing baths,20.0,1.3,0.0,1.1,0.2
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-090105-G,Bleaching solutions and bleach-fix baths,8.0,1.1,,0.8,0.3
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-090106-G,Waste containing silver from tank photographer. waste,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-090107-U,Films and photographic papers with silver,10.0,2.3,,1.6,0.8
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-090108-U,Films and photographic papers without silver,20.0,0.4,,0.4,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-090110-U,Disposable cameras without batteries,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-090111-G,Disposable cameras with batteries (160601-160603),,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-090112-U,Disposable cameras with batteries (without 090111),,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-090113-G,Waste from silver recovery (excluding 090106),,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-090199-U,Photographic industry: waste n.e.c.,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-100101-U,"rust and. Boiler ash, slag, boiler (oh.100104)",213.0,3436.1,3044.6,391.5,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-100102-U,Filter dust from coal firing,42.0,685.5,48.7,636.8,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-100103-U,Filter dust from peat firing and combustion,43.0,49.2,,46.5,2.7
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-100104-G,Filter dust and boiler dust from oil firing,10.0,3.0,0.1,2.5,0.4
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-100105-U,Calcium based reaction wastes in solid form,40.0,617.6,260.6,349.8,7.1
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-100107-U,Calcium-based reaction wastes (sludges),15.0,10.0,0.1,9.9,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-100109-G,sulfuric acid,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-100113-G,Filter dust from emulsified hydrocarbons,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-100114-G,"Rust and boiler ash, slag, boiler dust",35.0,82.1,,79.2,2.8
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-100115-U,"Rust and Boiler ash, slag, boiler stone (oh.100114)",55.0,773.0,1.1,768.8,3.1
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-100116-G,Filter dust from co-incineration of waste,24.0,29.7,,29.3,0.4
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-100117-U,fly ash from waste co-incineration (oh.100116),39.0,3022.6,180.8,2834.5,7.3
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-100118-G,Waste from exhaust gas treatment with hazardous st,41.0,85.4,2.7,76.9,5.8
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-100119-U,"waste a. Exhaust gas treatment (without 100105,100107,100118)",26.0,9.2,0.0,7.8,1.3
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-100120-G,"Power plants, among others: sludge (company wastewater tank)",9.0,1.8,,1.8,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-100121-U,sludge a. operational wastewater treatment (oh.100120),15.0,7.4,0.1,7.3,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-100122-G,"Power plants, etc.: Aqueous sludge a. boiler cleaning",7.0,2.0,0.9,1.1,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-100123-U,Aqueous sludge from boiler cleaning (oh.100122),7.0,0.4,,0.4,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-100124-U,"Power plants, among others: sands from fluidized bed combustion",4.0,7.2,,7.2,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-100125-U,Waste from storage and preparation of fuel.,8.0,11.3,,11.3,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-100126-U,Waste from cooling water treatment,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-100199-U,Power plants and other incineration plants: waste not otherwise specified,4.0,4.4,4.4,0.0,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-100201-U,"Iron, steel ind.: Waste from slag processing",20.0,555.9,290.9,229.0,36.1
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-100202-U,"Iron, steel ind.: unprocessed slag",62.0,1474.7,747.8,725.5,1.3
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-100207-G,Iron and steel industry: Solid waste from exhaust gas treatment.,45.0,518.5,0.2,370.1,148.1
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-100208-U,Waste from flue gas treatment (excl. 100207),34.0,199.3,58.5,140.8,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-100210-U,"Iron, steel ind.: mill scale",44.0,394.3,24.8,323.5,45.9
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-100211-G,"Iron, steel ind.: oil hold. Drain from cooling water tank.",6.0,7.6,,5.8,1.8
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-100212-U,Waste from cooling water treatment (excluding 100211),,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-100213-G,"Iron, steel ind.: sludge, filter c. from exhaust gas tank",10.0,147.5,73.3,70.2,4.0
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-100214-U,sludges and. Filter cake from exhaust gas treatment. (oh.100213),4.0,141.5,131.6,9.9,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-100215-U,Iron and steel ind.: Other sludges and filter cakes,15.0,144.5,9.5,135.0,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-100299-U,Iron and steel industry: wastes not otherwise specified,10.0,31.7,4.5,12.5,14.8
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-100302-U,Aluminum metallurgy: anode scrap,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-100304-G,Aluminum metallurgy: slags from initial melting,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-100305-U,Aluminum metallurgy: alumina waste,8.0,2.9,,2.5,0.4
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-100308-G,Aluminum metallurgy: salt slag a.Zzweischmel.,5.0,394.6,25.0,245.0,124.6
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-100309-G,Aluminum metallurgy: Black dross a.Zweitsch.,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-100315-G,Aluminum Metallurgy: Scum (Flammable),5.0,18.4,,15.5,2.9
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-100316-U,Scum (without 100315),7.0,177.4,,121.1,56.3
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-100317-G,Aluminum Metallurgy:Tarh. From anode manuf.,6.0,0.3,,0.3,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-100318-U,Waste from anode production (without 100317),,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-100319-G,Aluminum metallurgy: filter dust with hazardous St.,10.0,4.1,,2.5,1.5
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-100320-U,Filter dust (without 100319),,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-100321-G,Aluminum Metallurgy: Other particles and dust,10.0,2.9,0.4,2.4,0.1
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-100322-U,Other particles and dust (without 100321),,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-100323-G,Aluminum metallurgy: Solid waste a. flue gas treatment,13.0,19.0,,18.4,0.6
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-100324-U,Solid waste from exhaust gas treatment (oh. 100323),,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-100325-G,"Aluminum metallurgy: sludges, filters, etc. exhaust gas tanks.",,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-100326-U,muds and. Filter cake from exhaust gas treatment. (oh.100325),,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-100327-G,Aluminum Metallurgy: Oil H.Abf. from cooling water tank.,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-100328-U,Waste from cooling water treatment (without 100327),,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-100329-G,Aluminum Metallurgy: Abf.a. tank v.salt slag,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-100330-U,Waste from treatment of salt slag (oh.100329),,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-100399-U,Aluminum metallurgy: wastes n.e.c.,3.0,1.3,,1.3,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-100401-G,Lead metallurgy: slags (primary and secondary smelting),13.0,146.6,12.9,133.0,0.7
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-100402-G,"Lead Metal.: Scabies,Scum (First,Second.)",10.0,7.3,,7.3,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-100403-G,Bleimetallurgie: Calciumarsenat,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-100404-G,Lead metallurgy: filter dust,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-100405-G,Lead Metallurgy: Other Particles and Dust,6.0,8.6,1.9,6.7,0.0
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-100406-G,Lead metallurgy: Solid waste from flue gas treatment,3.0,1.0,0.8,0.2,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-100407-G,"Lead Metallurgy: Slurries, Filterk. from exhaust gas tank",3.0,0.5,,0.5,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-100409-G,Lead Metallurgy: Oil H. Waste from cooling water tank.,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-100410-U,Waste from cooling water treatment (without 100409),,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-100499-U,Lead metallurgy: wastes not otherwise specified,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-100501-U,"Zinc metallurgy: slags (first, second melting)",10.0,187.4,,186.8,0.6
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-100503-G,Zinc metallurgy: filter dust,4.0,0.1,,0.1,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-100504-U,Zinc Metallurgy: Other Particles and Dust,5.0,0.4,0.0,0.3,0.0
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-100505-G,Zinc Metallurgy: Solid waste from waste gas treatment,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-100506-G,"Zinc Metallurgy: Slurries, Filterk. from exhaust gas tank.",,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-100508-G,Zinc metallurgy: Ölh. Waste from cooling water tank.,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-100509-U,Waste from cooling water treatment (excluding 100508),,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-100510-G,"Zinc metallurgy: dross, scum (flammable)",,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-100511-U,"Scabies, scum (without 100510)",3.0,0.1,,0.1,0.0
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-100599-U,Zinc metallurgy: wastes not otherwise specified,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-100601-U,"Copper metallurgy: slags (first, second melting)",14.0,104.3,4.0,87.2,13.2
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-100602-U,"Coppermetal.: Scabbers, Scum (first, second sm.)",4.0,18.9,0.2,11.2,7.4
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-100603-G,Copper metallurgy: filter dust,5.0,2.6,0.0,1.1,1.6
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-100604-U,Copper Metallurgy: Other Particles and Dust,4.0,8.4,,6.3,2.1
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-100606-G,Copper Metallurgy: Solid Waste a.Flue Gas Treatment,3.0,4.4,,1.9,2.5
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-100607-G,"Copper metallurgy: slurries, filter c. a.Exhaust tank",,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-100609-G,Copper Metallurgy: Oil H.Abf. from cooling water tank.,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-100610-U,Waste from cooling water treatment (excluding 100609),,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-100699-U,Copper metallurgy: wastes n.e.c.,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-100701-U,"Silver metal etc.: slag (first, second melt)",7.0,3.0,,0.7,2.3
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-100702-U,"Silver metal, among others: dross, scum (first, second smear)",5.0,0.2,,0.1,0.1
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-100703-U,Silbermet.a.o.: Solid waste from flue gas treatment,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-100704-U,Silver metal among others: Other particles and dust,12.0,1.7,0.0,0.2,1.5
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-100705-U,"Silver metal, among other things: sludges, filter cakes in exhaust gas containers.",,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-100707-G,"Silver metal, among other things: oil-containing waste from cooling water tanks.",,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-100708-U,Waste from cooling water treatment (excluding 100707),,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-100799-U,"Silver, gold, platinum metallurgy: wastes n.e.c",7.0,1.5,,0.1,1.4
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-100804-U,Non-ferrous metallurgy: particles and dust,10.0,1.2,0.2,0.9,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-100808-G,"Non-ferrous metals: salt slag (first, second smelting)",3.0,0.2,,0.1,0.0
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-100809-U,Non-ferrous metallurgy: Other slags,7.0,19.1,,19.1,0.0
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-100810-G,"Non-ferrous metallurgy: dross, scum (flammable)",4.0,0.2,,0.2,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-100811-U,"Scabies, scum (without 100810)",9.0,4.1,0.0,3.2,0.9
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-100812-G,Non-ferrous metal: tar. Waste from anode manufacturing,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-100813-U,Carbonaceous waste (excluding 100812),,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-100814-U,Non-ferrous metallurgy: anode scrap,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-100815-G,Non-ferrous metallurgy: filter dust with dangerous substances,18.0,4.5,0.0,4.1,0.3
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-100816-U,Filter dust (without 100815),12.0,0.8,0.5,0.3,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-100817-G,"Non-ferrous metallurgy: sludges, filters, etc., exhaust gas tanks.",3.0,0.0,,0.0,0.0
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-100818-U,Sludge and filter cake from exhaust gas tank (oh.100817),,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-100819-G,Nonferrous Metallurgy: Oil H.Abf. from cooling water tank.,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-100820-U,Waste from cooling water treatment (excluding 100819),,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-100899-U,Non-ferrous metallurgy: wastes n.e.c,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-100903-U,"Iron,steel: furnace slag",81.0,193.1,9.0,183.9,0.2
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-100905-G,"Iron, steel: casting molds and sand before casting",,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-100906-U,Casting molds and sand before casting (oh.100905),47.0,110.5,,110.5,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-100907-G,"Iron, steel: casting molds and sands after casting",8.0,3.1,,3.1,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-100908-U,Casting molds and sand after casting (without 100907),159.0,1416.2,86.4,1329.1,0.7
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-100909-G,"Iron, steel: filter dust containing dangerous substances",27.0,8.0,0.0,8.0,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-100910-U,Filter dust (without 100909),55.0,67.2,6.2,61.0,0.1
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-100911-G,"Iron, steel: other particles with hazardous fabrics",,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-100912-U,Other particles (without 100911),3.0,2.8,,2.2,0.6
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-100913-G,"Iron, steel: Abf. v. Binders with dangerous st",,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-100914-U,Waste binders (excluding 100913),,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-100915-G,"Iron,steel: waste from crack-indicating substances",,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-100916-U,Waste from crack-indicating substances (oh.100915),,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-100999-U,Casting of iron and steel: wastes n.e.c.,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-101003-U,Non-ferrous metals: furnace slag,7.0,22.1,,19.3,2.8
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-101005-G,"Non-ferrous metal: casting molds, sand before casting",,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-101006-U,Casting molds and sand before casting (without 101005),10.0,2.5,,2.5,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-101007-G,"Non-ferrous metal: casting molds, sand after casting",5.0,2.2,,1.0,1.1
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-101008-U,Casting molds and sands after casting (without 101007),74.0,189.0,28.8,159.5,0.7
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-101009-G,Non-ferrous metals: filter dust with hazardous substances,9.0,4.6,,4.6,0.0
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-101010-U,Filter dust (without 101009),13.0,1.4,0.0,1.4,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-101011-G,Non-ferrous metal: And. Particles with dangerous substances,4.0,1.9,0.0,0.0,1.9
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-101012-U,Other particles (without 101011),,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-101013-G,Non-ferrous metal:Abf.v. Binding agents with hazardous St.,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-101014-U,Waste binders (excluding 101013),,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-101015-G,Non-ferrous metals: waste from crack-indicating subst.,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-101016-U,Waste from crack-indicating substances (oh.101015),,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-101099-U,Casting of non-ferrous metals: wastes n.e.c.,4.0,8.8,,8.2,0.6
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-101103-U,Fiberglass waste,37.0,39.5,27.6,11.8,0.0
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-101105-U,Glass production: particles and dust,10.0,3.5,2.3,1.1,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-101109-G,Mixture waste with hazardous materials v. i.e. Melt,7.0,0.5,0.0,0.4,0.1
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-101110-U,Batch waste before melting (without 101109),10.0,2.0,,2.0,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-101111-G,Glass waste in small particles and glass dust,9.0,6.8,,6.8,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-101112-U,Glass waste (excluding 101111),60.0,323.3,89.3,207.1,26.9
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-101113-G,Glass polishing and glass grinding slurries,17.0,1.8,,1.8,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-101114-U,Glass polishing and glass grinding slurry (without 101113),39.0,4.1,,4.0,0.1
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-101115-G,Glass manufacture: Solid waste from flue gas treatment,19.0,3.9,0.0,3.1,0.8
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-101116-U,Solid waste from exhaust gas treatment (oh. 101115),8.0,3.9,,3.9,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-101117-G,"Glass production: sludge, filter k. from exhaust gas tank.",3.0,0.1,,0.1,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-101118-U,Sludge and filter cake from exhaust gas tank (oh.101117),,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-101119-G,Glass manuf.: Solid waste a. own waste water tank,8.0,0.9,,0.9,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-101120-U,solid waste a. operational Sewage treatment (oh.101119),5.0,0.5,,0.5,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-101199-U,Glass manufacture: wastes not otherwise specified,3.0,0.0,,0.0,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-101201-U,Ceramic products: raw mixtures before firing,28.0,35.9,12.8,23.2,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-101203-U,Ceramic products: particles and dust,22.0,7.0,,6.4,0.6
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-101205-U,"Ceramic products: sludges, filters. a.Exhaust tank",,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-101206-U,Ceramic Products: Discarded Forms,10.0,2.9,,2.9,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-101208-U,"Waste from ceramic products, bricks, etc.",45.0,24.5,10.0,13.9,0.6
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-101209-G,Ceramic products: solid waste a. flue gas treatment,12.0,4.4,,4.4,0.1
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-101210-U,Solid waste from exhaust gas treatment (oh. 101209),26.0,7.2,,7.2,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-101211-G,Ceramic products: Glaze waste with heavy metals,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-101212-U,Glaze waste (without 101211),,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-101213-U,Ceramic products: sludge (in-house waste water treatment),17.0,16.1,0.8,15.3,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-101299-U,"Ceramic products, ceramic building materials: waste not otherwise specified",6.0,1.3,,1.3,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-101301-U,Cement and others: waste from raw mixtures before firing,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-101304-U,"Waste from calcination, hydration from quicklime",20.0,58.5,55.2,3.2,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-101306-U,"Cement etc.: particles, dust (except 101312,101313)",29.0,24.8,6.1,18.8,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-101307-U,"Cement etc.: sludge, filter cake from waste gas treatment.",,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-101309-G,Asbestos-containing waste a. Manufacture. v. asbestos cement,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-101310-U,Waste from manufacturing v. Asbestos cement (oh.101309),,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-101311-U,"Composite waste (excluding 101309, 101310)",26.0,17.2,,17.2,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-101312-G,Cement among others: Solid waste from exhaust gas treatment,11.0,13.4,,13.4,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-101313-U,Solid waste from flue gas treatment (excluding 101312),5.0,13.4,0.3,13.0,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-101314-U,Concrete waste and concrete sludge,67.0,55.5,1.0,54.6,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-101399-U,"Cement, gypsum, quicklime: waste n.e.s.",9.0,1.2,,1.2,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-101401-G,Crematoriums:Mercury h. Waste from gas cleaning,12.0,0.5,,0.4,0.1
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-110105-G,Surface treatment: Acid pickling solutions,71.0,165.3,5.7,126.4,33.2
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-110106-G,Surface treatment: Acids n.e.c.,43.0,11.5,5.2,5.9,0.3
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-110107-G,Surface treatment: Alkaline pickling solutions,71.0,83.8,3.9,66.6,13.3
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-110108-G,Surface treatment: phosphating sludge,49.0,6.7,0.3,6.4,0.0
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-110109-G,"Surface treatment: sludge, filter cake with gef.St.",97.0,284.8,206.9,67.1,10.9
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-110110-U,Sludge and filter cake (without 110109),78.0,97.8,47.1,49.1,1.6
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-110111-G,Surface treatment: Aqueous flushing liquid. m.f.st.,90.0,220.5,137.3,80.9,2.4
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-110112-U,Aqueous rinsing liquids (without 110111),51.0,106.5,68.9,37.6,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-110113-G,Surface treatment: Waste from degreasing with,43.0,16.4,0.0,16.2,0.1
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-110114-U,Waste from degreasing (excluding 110113),17.0,0.5,0.0,0.5,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-110115-G,"Surface treatment: eluate, sludge a. membrane system",,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-110116-G,Surface treatment: ion exchange resins,13.0,0.0,0.0,0.0,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-110198-G,Surface treatment: Other waste with hazardous st,59.0,19.8,1.1,17.4,1.3
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-110199-U,Surface treatment: waste not otherwise specified,18.0,0.1,0.0,0.1,0.0
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-110202-G,Sludge from zinc hydrometallurgy,10.0,181.2,176.3,1.6,3.3
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-110203-U,Waste from the production of anodes,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-110205-G,Waste from copper hydrometallurgy processes,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-110206-U,Waste from process. d.Kupfer-Hydromet.(oh.110205),3.0,0.4,,0.1,0.3
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-110207-G,Non-ferrous hydrometallurgy:And.Abf. with dangerous tax,5.0,14.7,,14.7,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-110299-U,Non-ferrous hydrometallurgy: wastes not otherwise specified,6.0,19.0,,19.0,0.0
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-110301-G,"Slurries, solids from hardening processes: Cyanidh. waste",10.0,0.5,0.0,0.3,0.2
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-110302-G,"Sludges, solids from hardening processes: Other wastes",10.0,1.6,0.0,1.2,0.4
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-110501-U,Galvanization: Hartzink,5.0,0.5,,0.4,0.1
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-110502-U,Galvanizing: zinc ash,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-110503-G,Galvanizing: Solid waste from exhaust gas treatment,7.0,0.2,,0.2,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-110504-G,Galvanizing: Used flux,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-110599-U,Galvanizing: waste n.e.c.,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-120101-U,Iron filings and turnings,118.0,560.2,2.8,535.6,21.8
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-120102-U,Iron dust and particles,189.0,1064.6,12.5,1018.0,34.2
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-120103-U,Non-ferrous metal filings and turnings,106.0,123.8,0.6,104.7,18.5
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-120104-U,Non-ferrous metal dust and particles,98.0,138.3,8.1,114.7,15.5
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-120105-U,plastic shavings and turnings,96.0,29.7,0.4,26.5,2.9
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-120106-G,Halogen-containing mineral oil-based machining oils,10.0,0.1,,0.1,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-120107-G,"Halogen-free, mineral oil-based machining oils",32.0,67.0,0.1,66.8,0.1
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-120108-G,Halogenated machining emulsions and. -solutions,15.0,1.5,,1.5,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-120109-G,Halogen-free machining emulsions and solutions,124.0,582.0,66.5,514.1,1.4
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-120110-G,Synthetic machining oils,14.0,0.4,,0.4,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-120112-G,Used waxes and fats,45.0,5.3,0.3,4.7,0.3
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-120113-U,Welding waste,37.0,4.1,0.0,4.1,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-120114-G,Processing sludge with dangerous substances,64.0,16.8,1.1,15.3,0.4
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-120115-U,Processing sludge (without 120114),68.0,10.8,0.0,9.2,1.6
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-120116-G,Abrasive waste (with hazardous substances),106.0,27.1,0.3,24.7,2.1
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-120117-U,Abrasive waste (excluding 120116),261.0,101.8,1.5,97.9,2.4
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-120118-G,"Oily metal sludge (grinding sludge, etc.)",55.0,45.1,0.1,44.0,1.0
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-120119-G,Easily biodegradable machining oils,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-120120-G,Used honing and abrasives with hazardous substances,36.0,4.4,0.0,4.4,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-120121-U,Used honing and abrasives (without 120120),81.0,8.1,0.1,7.9,0.1
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-120199-U,"Surface treatment Metals, plastics: waste not otherwise specified",39.0,11.9,0.0,9.8,2.1
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-120301-G,Aqueous washing liquids,63.0,37.3,5.3,31.7,0.4
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-120302-G,Vapor degreasing waste,6.0,0.1,0.0,0.1,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-130101-G,Hydraulic oils containing PCBs,5.0,0.3,,0.2,0.1
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-130104-G,Hydraulic oils: Chlorinated emulsions,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-130105-G,Hydraulic oils: Non-chlorinated emulsions,21.0,6.3,0.0,6.2,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-130109-G,Chlorinated hydraulic oils based on mineral oil,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-130110-G,Non-chlorinated mineral oil based hydraulic oils,19.0,0.9,0.0,0.9,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-130111-G,Synthetic hydraulic oils,6.0,0.1,,0.1,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-130112-G,Easily biodegradable hydraulic oils,3.0,0.0,0.0,0.0,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-130113-G,Other hydraulic oils,7.0,0.1,,0.1,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-130204-G,"Chlorinated machine, gear and lubricating oils",23.0,0.9,0.0,0.8,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-130205-G,"Non-chlorinated machines, gears and. lubricating oils",88.0,439.0,1.3,338.3,99.4
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-130206-G,"Synthetic machine, gear and lubricating oils",12.0,0.4,0.0,0.3,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-130207-G,Easily biodegradable. Machine and gear oils,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-130208-G,"Other machine, gear and lubricating oils",30.0,64.0,0.0,23.1,40.9
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-130301-G,Insulating and heat transfer oils with PCB,20.0,1.1,0.0,0.8,0.3
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-130306-G,Chlorine. Insulating and heat transfer oils(oh.130301),,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-130307-G,Non-chlorinated insulating and heat transfer oils,26.0,14.5,0.1,10.9,3.4
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-130308-G,Synthetic insulating and heat transfer oils,21.0,1.0,0.0,1.0,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-130309-G,biologist easily degradable insulating u. heat transfer oils,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-130310-G,Other insulating and heat transfer oils,7.0,0.7,0.0,0.1,0.6
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-130401-G,Bilge oils from inland shipping,5.0,4.3,,4.3,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-130402-G,Bilge oils from pier drains,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-130403-G,Bilge oils from other shipping,9.0,113.7,,113.7,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-130501-G,Solid waste from sand traps and oil/water separation.,73.0,56.6,15.0,41.3,0.3
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-130502-G,Sludge from oil/water separators,115.0,134.1,15.9,117.2,0.9
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-130503-G,Sludge from intake shafts,82.0,78.8,2.5,76.0,0.3
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-130506-G,Oils from oil/water separators,14.0,5.5,0.8,4.8,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-130507-G,Oily water from oil/water separators,78.0,67.3,15.1,52.2,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-130508-G,"Waste mixtures from sand traps, oil/water separation.",103.0,179.5,2.1,176.9,0.5
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-130701-G,heating oil and diesel,45.0,13.8,4.1,9.7,0.1
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-130702-G,Petrol,15.0,1.0,,1.0,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-130703-G,Other fuels (including mixtures),45.0,19.1,3.0,16.0,0.2
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-130801-G,Oil waste: sludges or emulsions from desalters,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-130802-G,Oil waste: Other emulsions,61.0,39.0,13.8,24.8,0.4
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-130899-G,Oil waste: wastes not otherwise specified,49.0,24.5,0.3,24.2,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-140601-G,"Chlorofluorocarbons, HCFC, HFC",10.0,1.9,,1.3,0.6
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-140602-G,Other halogenated solvents and solvent-based,33.0,6.8,0.0,3.2,3.6
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-140603-G,Other solvents and solvent mixtures,77.0,73.5,3.9,57.9,11.7
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-140604-G,"Sludge, solid waste (halogenated solvents)",14.0,2.4,1.7,0.5,0.2
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-140605-G,"Sludges, solid waste (other solvents)",21.0,4.3,0.7,3.7,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-150101-U,Paper and cardboard packaging,518.0,2832.5,34.5,2770.7,27.2
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-150102-U,Plastic packaging,592.0,896.0,17.8,781.3,96.9
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-150103-U,wooden packaging,413.0,772.7,6.2,758.9,7.6
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-150104-U,Metal packaging,128.0,43.8,0.1,37.4,6.3
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-150105-U,composite packaging,82.0,45.0,,41.8,3.3
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-15010600-U,Mixed packaging not differentiable,519.0,2479.9,4.1,2350.4,125.4
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-15010601-U,Lightweight packaging (LVP),70.0,1737.6,0.1,1676.2,61.2
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-15010602-U,Mixed recyclables plus lightweight packaging,33.0,328.9,,326.3,2.6
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-150107-U,Glass packaging,134.0,2678.2,0.0,2433.6,244.6
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-150109-U,Textile packaging,5.0,0.3,,0.3,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-150110-G,Packaging with residues of dangerous substances,127.0,43.3,1.2,39.0,3.1
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-150111-G,Metal packaging,3.0,2.8,,1.0,1.8
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-150202-G,"Absorbent and filter materials, wipes",153.0,140.0,3.7,130.8,5.6
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-150203-U,Absorbent and filter materials (without 150202),198.0,34.3,0.5,32.6,1.3
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-160103-U,old tires,206.0,664.6,0.2,599.3,65.1
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-160104-G,end-of-life vehicles,1032.0,448.9,0.0,445.0,3.9
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-160106-U,End-of-life vehicles without dangerous components,65.0,345.6,20.8,309.2,15.6
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-160107-G,Old vehicles: oil filter,27.0,6.1,0.0,6.1,0.0
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-160108-G,Old vehicles: components containing mercury,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-160109-G,End-of-life vehicles: Components containing PCBs,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-160110-G,End-of-life vehicles: Explosive components (e.g. from airbags),6.0,3.1,,3.0,0.1
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-160111-G,End-of-life vehicles: Brake pads containing asbestos,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-160112-U,Brake pads (without 160111),4.0,2.8,,2.8,0.0
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-160113-G,Old vehicles: brake fluids,33.0,10.8,,9.8,1.1
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-160114-G,End-of-life vehicles: antifreeze m.dangerous. fabrics,42.0,16.2,0.0,14.3,1.9
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-160115-U,Antifreeze (without 160114),6.0,0.1,,0.1,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-160116-U,End-of-life vehicles: LPG containers,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-160117-U,End-of-life vehicles: ferrous metals,95.0,233.7,3.1,220.2,10.5
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-160118-U,End-of-life vehicles: non-ferrous metals,77.0,52.5,2.5,47.8,2.2
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-160119-U,End-of-life vehicles: plastics,61.0,14.0,,12.1,1.9
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-160120-U,End-of-life vehicles: glass,36.0,54.8,,35.9,18.9
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-16012100-G,"dangerous Components (oh.160107-160111,160113-160114)",18.0,2.8,0.0,2.8,0.0
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-16012101-G,"dangerous metal components (without 160107-11,160113-14)",4.0,2.4,0.1,2.3,0.0
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-16012102-G,"dangerous n.metal.components(oh.160107-11,160113-14)",,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-16012200-U,Components not differentiable,8.0,2.8,,1.6,1.1
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-16012201-U,metallic components,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-16012202-U,Non-metallic components,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-16012203-U,Vehicle electrics and electronics components,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-160199-U,End-of-life vehicles: waste not otherwise specified,6.0,2.7,,2.6,0.1
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-160209-G,transformers and Capacitors containing PCB.,35.0,1.3,0.0,1.2,0.1
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-160210-G,Used devices containing PCB (oh.160209),3.0,0.5,,0.4,0.1
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-160211-G,Used equipment,45.0,19.1,0.0,19.0,0.2
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-160212-G,Used equipment containing free asbestos,20.0,8.0,,8.0,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-160213-G,Used devices with dangerous components (oh.160209-12),165.0,101.7,0.1,99.1,2.5
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-160214-U,Used devices (without 160209 to 160213),228.0,257.5,85.1,162.5,9.9
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-16021500-G,Dangerous components removed from used devices,46.0,36.4,1.9,16.5,18.0
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-16021501-G,Waste containing mercury,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-16021502-G,Circuit boards,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-16021503-G,Toner cartridges,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-16021504-G,Plastics with brominated flame retardant,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-16021505-G,Components containing asbestos,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-16021506-G,cathode ray tubes,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-16021507-G,Gas discharge lamps,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-16021508-G,liquid crystal displays,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-16021509-G,External electrical lines,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-16021510-G,Components containing refractory ceramic fibers,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-16021511-G,Electrolyte capacitors,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-16021512-G,Photoconductor drums containing cadmium or selenium,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-16021600-U,Remove from used devices. Components (oh.160215),149.0,132.5,1.2,89.4,41.9
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-16021601-U,External electrical lines (including cables),,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-160303-G,Bad batches: Inorganic waste with hazardous substances,47.0,6.7,0.4,4.2,2.1
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-160304-U,Inorganic waste (excluding 160303),66.0,11.9,0.0,9.7,2.2
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-160305-G,Bad batches: Organic waste is hazardous. substances,38.0,18.5,3.1,12.0,3.4
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-160306-U,Organic waste (without 160305),54.0,12.0,0.1,11.8,0.0
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-160307-G,Metallic mercury,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-160401-G,Ammunition waste,4.0,0.9,0.3,0.6,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-160402-G,Fireworks waste,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-160403-G,Other explosive waste,9.0,0.6,0.1,0.5,0.1
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-160504-G,Gases containing dangerous substances in pressure vessels.,44.0,7.7,0.1,6.2,1.4
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-160505-U,Gases in pressure vessels (without 160504),7.0,3.7,,3.5,0.1
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-160506-G,Laboratory chemicals from hazardous substances,45.0,6.1,0.7,3.8,1.6
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-160507-G,Used inorganic chemicals,61.0,4.5,0.1,3.8,0.7
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-160508-G,Used organic chemicals,51.0,5.8,0.6,4.4,0.8
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-160509-U,Used chemicals (excluding 160506-160508),28.0,5.6,0.2,2.3,3.0
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-160601-G,Lead batteries,103.0,276.1,0.4,223.3,52.4
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-160602-G,Ni~Cd-Battery Garden,15.0,2.0,,0.8,1.2
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-160603-G,Batteries containing mercury,6.0,0.4,0.0,0.3,0.0
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-160604-U,Alkaline batteries (except 160603),12.0,18.0,4.8,4.4,8.8
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-160605-U,Other batteries and accumulators,39.0,12.3,0.0,8.4,3.9
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-160606-G,"Separately collected electrolytes a. batteries, rechargeable battery.",17.0,4.5,,4.5,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-160708-G,"Tanks, barrels: waste containing oil",121.0,116.9,3.9,112.7,0.3
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-160709-G,"Tanks, barrels: waste containing other hazardous substances. st",63.0,32.7,8.9,23.1,0.8
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-160799-U,"Tanks, barrels: waste n.o.s.",16.0,6.4,3.5,2.9,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-160801-U,Used catalytic converters (without 160807),22.0,12.1,0.0,3.5,8.6
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-160802-G,Used catalyst. with.dangerous.transition-metals,32.0,17.3,0.6,10.4,6.3
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-160803-U,Used catalysts with transition metals,28.0,5.6,0.0,1.0,4.5
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-160804-U,Used catalysts v. Crack proc.(without 160807),8.0,13.1,,9.0,4.1
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-160805-G,Used catalysts with phosphoric acid,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-160806-G,Used fluids (catalysts),6.0,0.3,0.0,0.3,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-160807-G,Used catalysts with hazardous substances,50.0,12.0,0.6,5.8,5.6
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-160901-G,"Permanganate, z.B. Potassium permanganate",,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-160902-G,"Chromates (potassium chromate, potassium or sodium dichromate)",,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-160903-G,"Peroxides, e.g. hydrogen peroxide",10.0,0.1,0.0,0.0,0.0
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-160904-G,Oxidizing substances n.e.c.,10.0,0.3,0.0,0.2,0.1
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-161001-G,Aqueous liquid waste containing hazardous substances,92.0,152.3,1.8,140.9,9.7
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-161002-U,Aqueous liquid waste (excluding 161001),97.0,218.3,0.0,218.3,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-161003-G,Aqueous concentrates with dangerous substances,22.0,7.9,0.0,6.0,1.9
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-161004-U,Aqueous concentrates (without 161003),12.0,30.3,0.0,30.3,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-161101-G,Refractory materials from metallurgy. processes,13.0,14.4,,11.6,2.8
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-161102-U,Fireproof material made of metallurgical material. percent (oh.161101),14.0,1.1,,1.1,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-161103-G,Other linings and refractory materials,33.0,66.2,,66.1,0.1
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-161104-U,Fireproof material made of metallurgical material. Proc. (oh.161103),133.0,468.6,74.2,381.3,13.1
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-161105-G,Non-metallurgical refractory materials. percent,45.0,17.9,0.6,16.6,0.8
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-161106-U,Fireproof material a. non-metallurgical process (oh.161105),91.0,50.3,4.5,45.1,0.7
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-170101-U,Concrete,2658.0,25209.5,39.8,25169.5,0.2
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-170102-U,brick,1322.0,4486.9,7.1,4479.8,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-170103-U,tiles and ceramics,522.0,500.0,0.1,499.9,0.0
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-170106-G,"Mixtures of o. separate fractions v. concrete, etc.",202.0,845.3,9.6,820.0,15.7
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-170107-U,"Mixtures of concrete, bricks, etc. (oh.170106)",2653.0,28599.2,102.1,28496.8,0.3
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-170201-U,Holz,653.0,2947.9,21.5,2898.9,27.5
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-170202-U,Glas,261.0,297.3,0.3,269.6,27.4
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-170203-U,plastic,264.0,118.2,0.2,105.1,12.9
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-170204-G,"Glass, plastic and wood containing dangerous substances",295.0,900.4,3.0,796.3,101.1
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-170301-G,Bitumen mixtures containing coal tar,363.0,2900.6,1.3,2841.3,58.0
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-170302-U,Bitumen mixtures (without 170301),1803.0,16801.8,14.4,16787.3,0.1
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-170303-G,Coal tar and tar-containing products,121.0,162.9,0.1,162.8,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-170401-U,"copper, bronze, brass",152.0,114.4,2.0,73.6,38.8
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-170402-U,Aluminium,196.0,249.3,1.4,215.6,32.3
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-170403-U,Nappy,100.0,20.4,0.2,15.1,5.0
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-170404-U,Zink,110.0,6.2,0.4,5.2,0.6
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-170405-U,iron and Steel,480.0,6681.3,184.6,6227.3,269.4
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-170406-U,Zinn,35.0,0.5,0.0,0.4,0.1
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-170407-U,mixed metals,228.0,195.3,0.8,175.0,19.4
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-170409-G,Metal waste containing hazardous substances,40.0,4.6,0.0,4.0,0.6
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-170410-G,"Cables that contain oil, coal tar, etc. are dangerous. Substances included",34.0,5.3,0.0,3.7,1.5
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-170411-U,Cable (without 170410),195.0,179.9,2.9,137.3,39.7
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-170503-G,Soil and stones containing hazardous substances,282.0,2413.2,104.0,2120.8,188.4
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-170504-U,soil and stones (without 170503),3915.0,118750.6,2130.3,115884.6,735.7
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-170505-G,Dredged material containing dangerous substances,28.0,17.6,1.2,16.4,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-170506-U,Dredged material (without 170505),103.0,1854.8,1369.6,485.2,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-170507-G,Track ballast containing dangerous substances,39.0,261.8,6.6,98.1,157.1
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-170508-U,Track ballast (without 170507),199.0,2385.1,4.9,2380.1,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-170601-G,Insulating material that contains asbestos,44.0,13.6,0.4,11.9,1.3
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-170603-G,other insulation material,290.0,208.0,1.9,191.2,14.9
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-170604-U,Insulation material (without 170601 and 170603),269.0,58.5,22.1,36.1,0.3
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-170605-G,Building materials containing asbestos,293.0,572.7,3.0,559.1,10.5
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-170801-G,Contaminated gypsum-based building materials,8.0,0.7,0.0,0.7,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-170802-U,Gypsum-based building materials (without 170801),374.0,676.3,90.3,561.3,24.7
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-170901-G,Construction and demolition waste containing mercury,4.0,1.8,,0.1,1.7
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-170902-G,Construction and demolition waste containing PCBs,27.0,6.5,0.0,6.3,0.1
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-170903-G,Other construction and demolition waste,102.0,72.7,0.1,72.4,0.2
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-170904-U,Mixed construction and demolition waste (oh.170901-170903),844.0,3699.4,25.3,3673.4,0.7
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-180101-U,Pointed or sharp objects (except 180103),31.0,0.8,0.0,0.8,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-180102-U,"Body parts, organs, blood products (except 180103)",16.0,3.0,,3.0,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-180103-G,Waste (especially requirements from the point of view of preventing infection),22.0,12.2,0.0,11.4,0.8
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-180104-U,"Wounds, plaster casts, laundry, disposable clothing, diapers",119.0,397.5,0.0,397.0,0.4
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-180106-G,Chemicals consisting of dangerous substances,11.0,0.2,0.0,0.2,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-180107-U,Chemicals (excluding 180106),10.0,1.8,,1.8,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-180108-G,Cytotox. and cytostatic drugs for humans,21.0,2.5,,2.3,0.2
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-180109-U,Medicines (without 180108),53.0,8.9,,8.7,0.2
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-180110-G,Amalgam waste from dentistry,8.0,0.3,,0.1,0.2
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-180201-U,Pointed or sharp objects (excluding 180202),,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-180202-G,Waste (especially requirements from the point of view of preventing infection),13.0,0.7,,0.7,0.1
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-180203-U,Waste (without special requirement for an infection prevention view),24.0,1.8,0.0,1.8,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-180205-G,Chemicals composed of hazardous substances,3.0,0.0,0.0,0.0,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-180206-U,Chemicals (without 180205),,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-180207-G,Cytotoxic and. cytostatic drugs for.animals,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-180208-U,Medicines (without 180207),5.0,0.1,,0.0,0.1
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-190102-U,"Combustion, pyrolysis: iron parts, rust and boiler ash",28.0,37.6,5.2,32.1,0.4
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-190105-G,"Combustion, pyrolysis: filter cake from exhaust gas treatment.",28.0,108.1,14.5,41.9,51.7
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-190106-G,"Combustion, pyrolysis: Aqueous liquid waste from flue gas tank",22.0,72.8,13.3,59.5,0.1
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-190107-G,"Incineration, pyrolysis: solid waste a. Exhaust gas treatment",39.0,795.2,20.3,672.4,102.5
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-190110-G,"Combustion, pyrolysis: Used activated carbon a. Exhaust gas tank",16.0,13.3,0.3,12.6,0.4
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-190111-G,"Combustion, pyrolysis: rust, boiler ash, slag",68.0,550.0,8.0,540.6,1.4
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-190112-U,Grate and boiler ash as well as slag (oh.190111),203.0,9578.9,228.2,9287.5,63.2
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-190113-G,"Combustion.,Pyrolysis: Filter dust with haz. st",44.0,798.6,38.1,608.7,151.8
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-190114-U,Filter dust (without 190113),10.0,43.8,,1.4,42.4
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-190115-G,"Combustion, pyrolysis: boiler dust is dangerous. substances",22.0,85.8,2.7,69.7,13.4
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-190116-U,Boiler dust (without 190115),11.0,71.0,37.2,33.8,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-190117-G,Pyrolysis Wastes containing dangerous substances,10.0,5.0,0.0,0.4,4.5
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-190118-U,Pyrolysis waste (excluding 190117),,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-190119-U,"Combustion.,Pyrolysis:Sands from fluidized bed combustion",10.0,35.9,0.2,35.8,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-190199-U,"Incineration, pyrolysis of waste: wastes not otherwise specified",12.0,12.1,0.6,9.8,1.8
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-190203-U,Premixed waste from non-hazardous waste,23.0,256.9,159.8,94.7,2.3
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-190204-G,Premixed waste with at least one hazardous waste,67.0,929.4,189.2,674.4,65.7
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-190205-G,Sludges from physico-chemical treatment,120.0,666.6,16.5,555.3,94.8
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-190206-U,sludge a. physical-chemical treatment (oh.190205),55.0,137.6,0.2,137.3,0.2
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-190207-G,Oil and concentrates from separation processes,64.0,174.4,3.7,142.7,28.0
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-190208-G,Liquid combustible waste with hazardous substances,35.0,123.2,11.4,110.8,1.0
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-190209-G,Solid combustible waste containing hazardous substances,10.0,2.7,0.0,2.3,0.3
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-190210-U,Combustible waste (excluding 190208 and 190209),8.0,86.3,,86.3,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-190211-G,Other wastes containing dangerous substances,33.0,22.3,,18.6,3.8
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-19029900-U,physics.-chem. Waste treatment: Waste n.e.c,4.0,6.2,,5.4,0.8
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-19029950-U,Products resulting from waste treatment,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-190304-G,as dangerous classified partially stabilized waste,14.0,154.8,0.6,110.7,43.5
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-190305-U,Stabilized waste (without 190304),11.0,46.9,43.9,3.0,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-190306-G,Solid waste classified as hazardous,15.0,499.3,0.0,497.7,1.6
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-190307-U,Solidified waste (without 190306),25.0,297.6,0.5,297.1,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-190308-G,Partially stabilized mercury,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-190401-U,Vitrified waste,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-190402-G,Filter dust and other waste from exhaust gas treatment,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-190403-G,Non-vitrified solid phase,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-190404-U,Aqueous liquid waste from tempering,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-190501-U,Non-composted fraction of municipal waste,89.0,310.8,32.5,274.9,3.5
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-190502-U,Non-composted fraction v. animal and plant waste,35.0,88.3,24.5,59.0,4.9
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-190503-U,Out of specification compost,33.0,145.3,79.9,65.4,0.0
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-19059900-U,Waste n.e.c. not differentiable,14.0,299.4,51.8,247.6,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-19059901-U,Compost (to specification),,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-190603-U,Liquids from municipal waste treatment,3.0,7.1,4.8,2.3,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-190604-U,Fermentation residue/sludge from container v.municipal waste,26.0,157.8,106.5,51.3,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-190605-U,liquids from container v. animal and plant waste,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-190606-U,Fermentation residue/sludge a. Storage of animal and plant waste,14.0,29.0,22.7,6.2,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-190699-U,Anaerobic treatment of waste: wastes not otherwise specified,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-190702-G,"Landfill leachate, which is dangerous. contains substances",36.0,306.1,189.8,116.3,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-190703-U,Landfill leachate (without 190702),31.0,260.4,154.8,105.3,0.2
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-190801-U,Sieve and rake residues,167.0,164.0,5.7,158.2,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-190802-U,Sand trap residue,240.0,154.3,20.5,133.8,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-190805-U,Sludge from the treatment of v. municipal wastewater,246.0,7432.3,2885.5,4427.7,119.0
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-190806-G,Saturated or spent ion exchange resins,20.0,0.4,0.0,0.3,0.1
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-190807-G,Solutions and sludges from regeneration of ion exchange.,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-190808-G,Waste containing heavy metals from membrane systems,3.0,1.9,0.0,1.9,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-190809-U,Fat and oil mixtures from oil separators (edible oils),43.0,52.0,1.9,50.1,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-190810-G,Grease and oil mixtures from oil separators (oh.190809),9.0,0.4,,0.4,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-190811-G,Sludges from biological treatment of industrial waste water,29.0,376.4,341.1,35.3,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-190812-U,sludge a. biol.beh.v.industr.wastewater (oh.190811),74.0,356.9,15.9,338.9,2.0
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-190813-G,Slurries with hazardous Substances from industrial wastewater,105.0,156.2,46.6,107.3,2.3
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-190814-U,Sludge from industrial wastewater (excluding 190813),146.0,286.0,108.6,177.4,0.0
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-190899-U,Wastewater treatment plants: wastes n.e.c.,13.0,1.5,0.1,1.4,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-190901-U,Solid waste from primary filtration and screening residue,57.0,17.4,0.5,17.0,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-190902-U,Sludge from water purification,135.0,206.7,145.4,61.0,0.3
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-190903-U,Sludge from decarbonatization,30.0,27.5,5.3,22.2,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-190904-U,Used activated carbon,52.0,11.5,0.1,9.5,2.0
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-190905-U,Saturated or used ion exchange resins,59.0,2.1,0.1,2.0,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-190906-U,Solutions and sludges from regeneration of ion exchange.,6.0,11.8,,11.8,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-190999-U,Industrial water: waste n.e.c.,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-191001-U,Iron and steel waste,45.0,175.4,4.5,164.8,6.2
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-191002-U,Non-ferrous metal waste,42.0,83.9,0.0,52.1,31.8
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-191003-G,Shredder light fractions and dust,13.0,26.8,,20.0,6.8
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-191004-U,Shredder light fractions and dust (without 191003),29.0,176.2,31.5,136.1,8.6
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-191005-G,Other factions that are dangerous. contain substances,7.0,3.4,,3.2,0.3
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-191006-U,Other factions (without 191005),25.0,340.3,72.6,194.3,73.3
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-191101-G,Waste oil treatment: used filter clay,5.0,2.4,,2.4,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-191102-G,Waste oil processing: acid tars,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-191103-G,Waste oil processing: Aqueous liquid waste,3.0,2.3,,2.3,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-191104-G,Waste oil processing: Abf.a.d. Fuel cleaning with bases,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-191105-G,Waste oil treatment: sludge (company wastewater tank),5.0,0.2,0.0,0.2,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-191106-U,sludge from operational. Waste water treatment (oh.191105),12.0,2.7,,2.7,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-191107-G,Waste oil treatment: Waste from exhaust gas cleaning,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-19119900-U,waste not otherwise specified,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-19119950-U,"Base oil (starting material for lubricant), (SK)",,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-19119951-U,"Lubricant, (SS)",,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-19119952-U,middle distillate component,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-19119953-U,"Light heating oil (including diesel), (HL)",,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-19119954-U,Fuel oil heavy component,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-19119955-U,Heavy fuel oil (HS),,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-19120100-U,"Mechanical waste treatment: paper, cardboard not different.",85.0,220.4,2.3,214.8,3.4
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-19120101-U,Mechanical waste treatment: Lower grades (Group I),,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-19120102-U,Mechanical waste treatment: Medium grades (Group II),,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-19120103-U,Mechanical Waste Treatment: Better Varieties (Group III),,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-19120104-U,Mech.waste treatment: Powerful varieties (Gr.IV),,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-19120105-U,Mechanical waste treatment: special types (group V),,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-191202-U,Mechanical waste treatment: ferrous metals,197.0,1486.8,55.7,1318.7,112.4
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-191203-U,Mechanical waste treatment: non-ferrous metals,139.0,751.6,1.7,529.8,220.1
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-191204-U,Mechanical waste treatment: plastic and rubber,320.0,1845.6,58.4,1563.2,223.9
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-19120500-U,Mechanical waste treatment: Glass not differentiable,45.0,71.0,0.1,68.8,2.1
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-19120501-U,Mechanical waste treatment: white glass,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-19120502-U,Mechanical waste treatment: amber glass,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-19120503-U,Mechanical waste treatment: green glass,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-19120504-U,Mechanical waste treatment: stained glass,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-19120505-U,Mechanical waste treatment: mixed glass,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-191206-G,Mechanical waste treatment: wood with hazardous fabrics,86.0,1423.3,83.4,1026.6,313.3
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-191207-U,wood (without 191206),250.0,4926.1,210.8,4274.4,440.9
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-191208-U,Mechanical waste treatment: textiles,31.0,65.4,,38.0,27.4
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-19120900-U,"Mechanical waste treatment: minerals (sand, stones)",259.0,2956.5,421.2,2516.5,18.8
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-19120901-U,Products for use in road and road building,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-19120902-U,Products for use in other earthworks,13.0,134.9,0.1,120.8,14.0
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-19120903-U,Products f.d. Use in concrete mixing plants,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-19120904-U,Products for use in asphalt mixing plants,331.0,9951.5,,9951.5,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-19120905-U,products for other uses,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-19120906-U,Hot mix for road and path construction,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-191210-U,Combustible waste (fuel from waste),199.0,6153.8,98.1,5857.9,197.8
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-191211-G,Other waste (including mixed materials),115.0,1554.6,5.2,1419.3,130.1
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-191212-U,Other waste (excluding 191211),514.0,10429.7,357.2,9651.7,420.8
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-191301-G,Solid waste from soil remediation,26.0,195.1,,186.9,8.1
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-191302-U,Solid waste from soil remediation (oh.191301),47.0,647.9,9.4,637.3,1.2
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-191303-G,Sludges from soil remediation,10.0,66.9,0.0,66.9,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-191304-U,Sludge from soil remediation (oh.191303),5.0,0.9,,0.9,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-191305-G,Sludge from groundwater remediation,23.0,0.8,,0.8,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-191306-U,Sludge from groundwater remediation (oh.191305),20.0,2.8,,2.8,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-191307-G,Aqueous waste and concentrates from groundwater remediation.,14.0,0.5,0.0,0.4,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-191308-U,Aqueous waste and conc. a. groundwater sanitation (oh.191307),4.0,2.8,0.3,2.5,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-200101-U,paper and cardboard,489.0,3920.2,54.0,3831.9,34.3
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-200102-U,Glas,86.0,371.6,0.0,308.1,63.4
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-200108-U,Biodegradable kitchen and canteen waste,161.0,1006.0,62.1,926.1,17.8
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-200110-U,clothing,29.0,45.2,,43.2,2.0
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-200111-U,textiles,91.0,138.6,0.0,134.3,4.4
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-200113-G,solvent,29.0,7.4,0.1,5.6,1.7
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-200114-G,acids,32.0,1.7,0.0,1.0,0.7
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-200115-G,Lye,30.0,1.2,0.0,0.8,0.4
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-200117-G,Photochemical,24.0,0.1,0.0,0.1,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-200119-G,pesticides,28.0,1.7,0.0,1.5,0.2
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-200121-G,Fluorescent tubes and other waste containing mercury,67.0,9.1,0.0,7.9,1.2
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-200123-G,Used devices with chlorofluorocarbons,62.0,176.0,3.0,155.5,17.5
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-200125-U,edible oils and fats,52.0,173.1,0.8,58.0,114.3
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-200126-G,Oils and fats (excluding 200125),19.0,0.6,0.0,0.6,0.0
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-200127-G,"Paints, printing inks, adhesives and synthetic resins",41.0,13.8,0.3,9.8,3.7
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-200128-U,"Paints, printing inks, adhesives, synthetic resins (oh.200127)",55.0,17.1,,17.1,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-200129-G,Detergents containing dangerous substances,22.0,0.7,0.0,0.6,0.1
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-200130-U,Cleaning agent (without 200129),10.0,0.1,,0.1,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-200131-G,Cytotoxic and cytostatic drugs,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-200132-U,Medicines (without 200131),69.0,7.1,,6.5,0.6
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-200133-G,Batteries and accumulators (160601-160603),37.0,12.4,0.1,11.4,0.9
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-200134-U,Batteries and accumulators (without 200133),12.0,1.4,,1.4,0.0
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-200135-G,"Used electrical equipment (oh.200121,200123)",171.0,476.2,1.4,462.1,12.7
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-200136-U,"Used electrical devices (oh.200121,200123,200135)",149.0,156.7,40.5,115.4,0.8
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-200137-G,Wood containing dangerous substances,50.0,41.5,0.0,41.5,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-200138-U,wood (without 200137),224.0,727.0,2.8,715.8,8.4
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-200139-U,plastics,251.0,100.8,0.2,98.2,2.4
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-200140-U,metals,149.0,363.5,1.7,347.3,14.5
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-200141-U,Waste from cleaning chimneys,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-200199-U,Other fractions n.e.c.,,,,,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-20019900-U,Other fractions n.e.c. not differentiable,5.0,1.7,0.0,1.7,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-20019901-U,Mixed recyclables without lightweight packaging,15.0,21.4,,21.4,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-200201-U,Biodegradable waste,1176.0,6067.6,190.6,5864.3,12.6
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-200202-U,soil and stones,72.0,120.1,0.2,119.9,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-200203-U,Other non-biodegradable waste,47.0,11.9,0.0,11.8,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-20030100-U,Mixed municipal waste cannot be differentiated,279.0,5308.5,47.9,5068.4,192.2
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-20030101-U,"Household waste, commercial waste similar to household waste",110.0,10277.6,0.0,10249.4,28.1
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-20030102-U,Commercial waste similar to domestic waste,234.0,1841.8,15.1,1791.1,35.6
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-20030104-U,Waste from the bio bin,295.0,5273.7,26.6,5246.7,0.4
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-200302-U,market waste,82.0,83.5,,83.5,0.0
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-200303-U,street sweepings,246.0,536.5,2.0,533.7,0.7
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-200304-U,Faecal sludge,3.0,0.5,,0.5,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-200306-U,Sewer cleaning waste,125.0,86.5,0.4,86.2,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-200307-U,bulky waste,506.0,3212.4,7.4,3204.9,0.1
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,Types of waste,EAV-200399-U,Municipal waste n.e.c.,35.0,297.8,0.2,297.6,
+32111,Collection of waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,EAVXB6,types of waste,EAV-990000-G,Total hazardous waste,2785.0,26762.4,2536.1,21766.1,2460.1
