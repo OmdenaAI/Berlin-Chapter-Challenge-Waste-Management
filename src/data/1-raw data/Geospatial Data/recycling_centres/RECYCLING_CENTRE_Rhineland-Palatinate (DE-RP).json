@@ -1,0 +1,66 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.61.5 4133829e",
+  "osm3s": {
+    "timestamp_osm_base": "2023-09-08T05:27:26Z",
+    "timestamp_areas_base": "2023-09-08T02:44:08Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "area",
+  "id": 3600062341,
+  "tags": {
+    "ISO3166-2": "DE-RP",
+    "TMC:cid_58:tabcd_1:Class": "Area",
+    "TMC:cid_58:tabcd_1:LCLversion": "12.0",
+    "TMC:cid_58:tabcd_1:LocationCode": "262",
+    "admin_level": "4",
+    "border_type": "state",
+    "boundary": "administrative",
+    "de:amtlicher_gemeindeschluessel": "07",
+    "de:regionalschluessel": "07",
+    "name": "Rheinland-Pfalz",
+    "name:ar": "راينلند بالاتينات",
+    "name:ca": "Renània-Palatinat",
+    "name:cs": "Porýní-Falc",
+    "name:de": "Rheinland-Pfalz",
+    "name:en": "Rhineland-Palatinate",
+    "name:eo": "Rejnlando-Palatinato",
+    "name:es": "Renania-Palatinado",
+    "name:fa": "راینلاند-فالتس",
+    "name:fr": "Rhénanie-Palatinat",
+    "name:ga": "Tír na Réine agus an Phalaitíneacht",
+    "name:hsb": "Porynsko-Pfalca",
+    "name:hu": "Rajna-vidék–Pfalz",
+    "name:ia": "Rhenania Palatina",
+    "name:io": "Rhenlando-Palatenio",
+    "name:is": "Rínarland-Pfalz",
+    "name:it": "Renania-Palatinato",
+    "name:lt": "Reino kraštas-Pfalcas",
+    "name:mk": "Рајнска област-Пфалц",
+    "name:nl": "Rijnland-Palts",
+    "name:pl": "Nadrenia-Palatynat",
+    "name:prefix": "Bundesland",
+    "name:pt": "Renânia-Palatinado",
+    "name:ru": "Рейнланд-Пфальц",
+    "name:sk": "Porýnie-Falcko",
+    "name:sl": "Porenje-Pfalška",
+    "name:sr": "Рајна-Палатинат",
+    "name:th": "รัฐไรน์ลันท์-ฟัลทซ์",
+    "name:uk": "Рейнланд-Пфальц",
+    "name:ur": "رائنلینڈ-پالاتینات",
+    "name:vo": "Rinän-Palzän",
+    "name:zh": "莱茵兰-普法尔茨",
+    "ref": "RLP",
+    "ref:nuts:1": "DEB",
+    "source": "http://wiki.openstreetmap.org/wiki/Import/Catalogue/Kreisgrenzen_Deutschland_2005",
+    "type": "boundary",
+    "wikidata": "Q1200",
+    "wikipedia": "de:Rheinland-Pfalz"
+  }
+}
+
+  ]
+}
