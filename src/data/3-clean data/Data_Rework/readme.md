@@ -5,3 +5,4 @@
 * waste_generated_32161-0001-------------------------> Milan Kumar Behera
 * waste_generated_32161-0004-------------------------> Milan Kumar Behera
 * hazardous_EAV2-6_32151-0002------------------------> Aleena
+* waste_disposal_y_p_w_32111-0011 -------------------> Kartik
