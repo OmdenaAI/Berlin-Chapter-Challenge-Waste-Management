@@ -1,0 +1,88 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.61.5 4133829e",
+  "osm3s": {
+    "timestamp_osm_base": "2023-09-08T05:25:25Z",
+    "timestamp_areas_base": "2023-09-08T02:09:56Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "area",
+  "id": 3600028322,
+  "tags": {
+    "ISO3166-2": "DE-MV",
+    "TMC:cid_58:tabcd_1:Class": "Area",
+    "TMC:cid_58:tabcd_1:LCLversion": "12.0",
+    "TMC:cid_58:tabcd_1:LocationCode": "268",
+    "admin_level": "4",
+    "alt_name:pt": "Meclemburgo-Pomerânia Ocidental",
+    "border_type": "state",
+    "boundary": "administrative",
+    "de:amtlicher_gemeindeschluessel": "13",
+    "de:regionalschluessel": "13",
+    "name": "Mecklenburg-Vorpommern",
+    "name:ar": "مكلنبورغ فوربمرن",
+    "name:ca": "Mecklemburg – Pomerània Occidental",
+    "name:en": "Mecklenburg-Vorpommern",
+    "name:eo": "Meklenburgo-Antaŭpomerio",
+    "name:es": "Mecklemburgo-Pomerania Occidental",
+    "name:fa": "مکلنبورگ-فورپومرن",
+    "name:fi": "Mecklenburg-Etu-Pommeri",
+    "name:fr": "Mecklembourg-Poméranie-Occidentale",
+    "name:hsb": "Mecklenburgsko-Předpomorska",
+    "name:hu": "Mecklenburg–Elő-Pomeránia",
+    "name:ia": "Mecklenburg-Vorpommeria",
+    "name:io": "Mecklenburg-Westa Pomerania",
+    "name:it": "Meclemburgo-Pomerania Anteriore",
+    "name:mk": "Мекленбург-Западна Померанија",
+    "name:nds": "Mekelnborg-Vörpommern",
+    "name:nl": "Mecklenburg-Voor-Pommeren",
+    "name:pl": "Meklemburgia-Pomorze Przednie",
+    "name:prefix": "Bundesland",
+    "name:pt": "Mecklemburgo-Pomerânia Ocidental",
+    "name:ru": "Мекленбург-Передняя Померания",
+    "name:sk": "Meklenbursko-Predpomoransko",
+    "name:sl": "Mecklenburg-Predpomorjanska",
+    "name:sr": "Мекленбург-Западна Померанија",
+    "name:th": "รัฐ \tเมคเลินบวร์ค-ฟอร์พ็อมเมิร์น",
+    "name:uk": "Мекленбург — Передня Померанія",
+    "name:ur": "مکلنبرگ-ورپورمرن",
+    "name:vo": "Mäklänburgän-Vesudapomerän",
+    "name:zh": "梅克伦堡—前波美拉尼亚州",
+    "name:zh-Hans": "梅克伦堡—前波美拉尼亚州",
+    "name:zh-Hant": "梅克倫堡—西波美拉尼亞州",
+    "note": "landmass relation 62774",
+    "ref": "MV",
+    "ref:nuts:1": "DE8",
+    "ref:nuts:2": "DE80",
+    "type": "boundary",
+    "wikidata": "Q1196",
+    "wikipedia": "de:Mecklenburg-Vorpommern"
+  }
+},
+{
+  "type": "area",
+  "id": 3600062774,
+  "tags": {
+    "ISO3166-2": "DE-MV",
+    "admin_level": "4",
+    "boundary": "land_area",
+    "de:regionalschluessel": "13",
+    "description": "Mecklenburg-Vorpommern (Landmasse)",
+    "land_area": "administrative",
+    "name": "Mecklenburg-Vorpommern",
+    "name:ca": "Mecklemburg - Pomerània Occidental",
+    "name:fr": "Mecklembourg-Poméranie-Occidentale",
+    "name:hu": "Mecklenburg–Elő-Pomeránia",
+    "name:pl": "Meklemburgia-Pomorze Przednie",
+    "note": "NICHT boundary=administrative das ist Relation 28322",
+    "type": "boundary",
+    "wikidata": "Q1196",
+    "wikipedia": "de:Mecklenburg-Vorpommern"
+  }
+}
+
+  ]
+}

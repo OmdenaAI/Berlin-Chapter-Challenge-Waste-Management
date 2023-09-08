@@ -1,0 +1,66 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.61.5 4133829e",
+  "osm3s": {
+    "timestamp_osm_base": "2023-09-08T05:24:24Z",
+    "timestamp_areas_base": "2023-09-08T02:09:56Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "area",
+  "id": 3600062650,
+  "tags": {
+    "ISO3166-2": "DE-HE",
+    "TMC:cid_58:tabcd_1:Class": "Area",
+    "TMC:cid_58:tabcd_1:LCLversion": "12.0",
+    "TMC:cid_58:tabcd_1:LocationCode": "261",
+    "admin_level": "4",
+    "alt_name:eo": "Hesujo",
+    "boundary": "administrative",
+    "de:amtlicher_gemeindeschluessel": "06",
+    "de:regionalschluessel": "06",
+    "name": "Hessen",
+    "name:ar": "هسن",
+    "name:ca": "Hessen",
+    "name:de": "Hessen",
+    "name:el": "Έσση",
+    "name:en": "Hesse",
+    "name:eo": "Hesio",
+    "name:es": "Hesse",
+    "name:fa": "هسن",
+    "name:fr": "Hesse",
+    "name:hsb": "Hessenska",
+    "name:hu": "Hessen",
+    "name:io": "Hesia",
+    "name:it": "Assia",
+    "name:ko": "헤센 주",
+    "name:la": "Hassia",
+    "name:lt": "Hesenas",
+    "name:mk": "Хесен",
+    "name:pfl": "Hesse",
+    "name:pl": "Hesja",
+    "name:prefix": "Bundesland",
+    "name:pt": "Hesse",
+    "name:ru": "Гессен",
+    "name:sk": "Hesensko",
+    "name:sr": "Хесен",
+    "name:th": "รัฐเฮ็สเซิน",
+    "name:tzl": "Hesna",
+    "name:uk": "Гессен",
+    "name:ur": "ہیسے",
+    "name:vo": "Hesän",
+    "name:zh": "黑森州",
+    "ref": "H",
+    "ref:nuts": "DE7",
+    "ref:nuts:1": "DE7",
+    "source": "http://wiki.openstreetmap.org/wiki/Import/Catalogue/Kreisgrenzen_Deutschland_2005",
+    "type": "boundary",
+    "wikidata": "Q1199",
+    "wikipedia": "de:Hessen"
+  }
+}
+
+  ]
+}
