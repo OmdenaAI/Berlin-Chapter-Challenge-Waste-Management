@@ -1,9 +1,8 @@
-# Berlin-Chapter-Challenge-Waste-Management
-Use this Repository as a template for creating Local Chapter Repositories
+# Berlin-Chapter-Challenge-Developing a Data-Driven Model for Waste Management Optimization
 
 The local problem we are trying to solve is the suboptimal waste management practices and the lack of data-driven decision-making in our community. We aim to tackle issues such as inefficient waste treatment, limited recycling rates, and environmental impact caused by improper waste disposal. By harnessing the potential of data science, we can identify opportunities for improvement, optimize waste treatment methods, and ultimately enhance the sustainability of our local waste management system.
 
-## problem statements
+## Problem Statements
 ### 1. Optimize waste composition analysis:
  Develop data-driven models to categorize waste types and identify dominant categories, enabling targeted recycling and reduction strategies.
 ### 2. Forecast future waste generation: 
@@ -74,3 +73,4 @@ The waste management data is collected from the following resources:
     - collection from Transport and outer packaging
 - [population data:](https://www.destatis.de/EN/Themes/Society-Environment/Population/Current-Population/Tables/population-by-laender.html)
 - [Geospatial data:](http://overpass-turbo.eu)
+   - collected data for waste transfer stations , recycling centres , landfills and waste disposal centres in all the states. 
