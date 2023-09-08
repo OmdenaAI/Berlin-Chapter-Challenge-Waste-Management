@@ -1,0 +1,828 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.61.5 4133829e",
+  "osm3s": {
+    "timestamp_osm_base": "2023-09-08T04:13:48Z",
+    "timestamp_areas_base": "2023-09-08T02:44:08Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "way",
+  "id": 436608966,
+  "nodes": [
+    1503223932,
+    4019357657,
+    1503223883,
+    6602788199,
+    4019357656,
+    1503223836,
+    1503223843,
+    4019357626,
+    4019357627,
+    4019357628,
+    4019357629,
+    4019357630,
+    4019357631,
+    6602788209,
+    1503223903,
+    6602788208,
+    4019357672,
+    5951382362,
+    5951386821,
+    4344920394,
+    6602788203,
+    6602788202,
+    6602788201,
+    1503224006,
+    6602788200,
+    1503223932
+  ],
+  "tags": {
+    "addr:city": "Ilmenau",
+    "addr:country": "DE",
+    "addr:housenumber": "1",
+    "addr:postcode": "98693",
+    "addr:street": "Am Grummbach",
+    "addr:suburb": "Bücheloh",
+    "amenity": "waste_transfer_station",
+    "contact:fax": "+49 3677 208 551",
+    "contact:phone": "+49 3677 202 161",
+    "fee": "yes",
+    "name": "Müllumladestation Ilm-Kreis",
+    "opening_hours": "Mo-Fr 08:00-12:00, 13:00-16:30; Sa 09:00-11:30",
+    "operator": "Ilm-Kreis",
+    "operator:type": "public",
+    "payment:cash": "yes",
+    "payment:girocard": "yes",
+    "website": "https://aik.ilm-kreis.de/index.php?sNavID=1870.31"
+  }
+},
+{
+  "type": "way",
+  "id": 1089700849,
+  "nodes": [
+    9981829196,
+    9981829197,
+    9981829198,
+    9981829199,
+    9981829200,
+    9981829201,
+    9981829202,
+    9981829203,
+    9981829204,
+    9981829205,
+    9981829196
+  ],
+  "tags": {
+    "amenity": "waste_transfer_station",
+    "operator": "Virec GmbH"
+  }
+},
+{
+  "type": "way",
+  "id": 1089700850,
+  "nodes": [
+    9981829206,
+    9981829207,
+    9981829208,
+    9981829209,
+    9981829210,
+    9981829211,
+    9981829206
+  ],
+  "tags": {
+    "amenity": "waste_transfer_station",
+    "operator": "Virec GmbH"
+  }
+},
+{
+  "type": "way",
+  "id": 1112244071,
+  "nodes": [
+    10175527445,
+    10175527446,
+    10175527447,
+    10175527448,
+    10175527449,
+    10175527450,
+    10175527451,
+    10175527452,
+    10175527445
+  ],
+  "tags": {
+    "amenity": "waste_transfer_station"
+  }
+},
+{
+  "type": "way",
+  "id": 1112895466,
+  "nodes": [
+    10182403224,
+    10182403225,
+    10182403226,
+    10182403227,
+    1738906109,
+    10182403228,
+    10182403229,
+    10182403230,
+    10182403231,
+    10182403232,
+    10182403233,
+    10182403234,
+    10182403224
+  ],
+  "tags": {
+    "amenity": "waste_transfer_station"
+  }
+},
+{
+  "type": "way",
+  "id": 1114934921,
+  "nodes": [
+    10197317878,
+    10197317879,
+    10197317880,
+    10197317881,
+    10197317882,
+    10197317883,
+    10197317884,
+    10197317885,
+    10197317886,
+    10197317887,
+    10197317888,
+    10197317889,
+    10197317890,
+    10197317891,
+    10197317892,
+    10197317893,
+    10197317894,
+    10197317878
+  ],
+  "tags": {
+    "amenity": "waste_transfer_station"
+  }
+},
+{
+  "type": "way",
+  "id": 1175310885,
+  "nodes": [
+    10921460784,
+    10921460785,
+    10921460786,
+    10921460787,
+    10921460788,
+    10921460789,
+    10921460790,
+    10921460791,
+    10921460792,
+    10921460793,
+    10921460784
+  ],
+  "tags": {
+    "addr:city": "Rohr",
+    "addr:housenumber": "3",
+    "addr:postcode": "98530",
+    "addr:street": "Rotes Tal",
+    "amenity": "waste_transfer_station",
+    "contact:website": "https://abfall-ist-rohstoff.de/",
+    "name": "AiR",
+    "operator": "AiR Abfall ist Rohstoff GmbH",
+    "operator:type": "private"
+  }
+},
+{
+  "type": "area",
+  "id": 3600062366,
+  "tags": {
+    "ISO3166-2": "DE-TH",
+    "TMC:cid_58:tabcd_1:Class": "Area",
+    "TMC:cid_58:tabcd_1:LCLversion": "12.0",
+    "TMC:cid_58:tabcd_1:LocationCode": "271",
+    "admin_level": "4",
+    "alt_name:eo": "Turingujo",
+    "border_type": "state",
+    "boundary": "administrative",
+    "de:amtlicher_gemeindeschluessel": "16",
+    "de:regionalschluessel": "16",
+    "name": "Thüringen",
+    "name:am": "ቲውሪንገን",
+    "name:an": "Turinchia",
+    "name:ar": "تورنغن",
+    "name:ay": "Thüringen suyu",
+    "name:az": "Türingiya",
+    "name:be": "Цюрынгія",
+    "name:bg": "Тюрингия",
+    "name:bn": "টুরিঙেন",
+    "name:bs": "Tiringija",
+    "name:ca": "Turíngia",
+    "name:ce": "Тюринги",
+    "name:cs": "Durynsko",
+    "name:de": "Thüringen",
+    "name:el": "Θουριγγία",
+    "name:en": "Thuringia",
+    "name:eo": "Turingio",
+    "name:es": "Turingia",
+    "name:et": "Tüüringi",
+    "name:eu": "Turingia",
+    "name:fa": "تورینگن",
+    "name:fr": "Thuringe",
+    "name:fy": "Tueringen",
+    "name:gl": "Turinxia",
+    "name:gn": "Turingia",
+    "name:he": "תורינגיה",
+    "name:hi": "ठुरुंगिया",
+    "name:hr": "Tiringija",
+    "name:hsb": "Durinska",
+    "name:hu": "Türingia",
+    "name:hy": "Թյուրինգիա",
+    "name:ia": "Thuringia",
+    "name:ie": "Thuringia",
+    "name:io": "Turingia",
+    "name:is": "Þýringaland",
+    "name:it": "Turingia",
+    "name:ja": "テューリンゲン州",
+    "name:ka": "თიურინგია",
+    "name:kk": "Тюрингия",
+    "name:ko": "튀링겐 주",
+    "name:la": "Thuringia",
+    "name:li": "Turinge",
+    "name:lt": "Tiuringija",
+    "name:lv": "Tīringene",
+    "name:mk": "Тирингија",
+    "name:mn": "Тюринг",
+    "name:mr": "थ्युरिंगेन",
+    "name:ne": "थाइरिन्जिया",
+    "name:nl": "Thüringen",
+    "name:oc": "Turíngia",
+    "name:os": "Тюринги",
+    "name:pl": "Turyngia",
+    "name:prefix": "Bundesland",
+    "name:pt": "Turíngia",
+    "name:rm": "Turinga",
+    "name:ro": "Turingia",
+    "name:ru": "Тюрингия",
+    "name:sk": "Durínsko",
+    "name:sl": "Turingija",
+    "name:sq": "Tyringia",
+    "name:sr": "Тирингија",
+    "name:sw": "Thuringia",
+    "name:th": "รัฐทือริงเงิน",
+    "name:tr": "Türingiya",
+    "name:uk": "Тюрингія",
+    "name:ur": "تورینگن",
+    "name:uz": "Turingiya",
+    "name:vo": "Türinän",
+    "name:yi": "טורינגיע",
+    "name:yo": "Thuringia",
+    "name:zh": "图林根",
+    "official_name": "Freistaat Thüringen",
+    "official_name:ar": "ولاية تورنغن الحرة",
+    "official_name:cs": "Svobodný stát Durynsko",
+    "official_name:de": "Freistaat Thüringen",
+    "official_name:en": "Free State of Thuringia",
+    "official_name:eo": "Liberŝtato Turingio",
+    "official_name:sk": "Slobodný štát Durínsko",
+    "official_name:sr": "Слободна држава Тирингија",
+    "old_name:cs": "Durynky",
+    "ref": "T",
+    "ref:nuts:1": "DEG",
+    "ref:nuts:2": "DEG0",
+    "source": "http://wiki.openstreetmap.org/wiki/Import/Catalogue/Kreisgrenzen_Deutschland_2005",
+    "type": "boundary",
+    "wikidata": "Q1205",
+    "wikipedia": "de:Thüringen"
+  }
+},
+{
+  "type": "node",
+  "id": 10921460784,
+  "lat": 50.5732228,
+  "lon": 10.4943374
+},
+{
+  "type": "node",
+  "id": 10921460785,
+  "lat": 50.5729630,
+  "lon": 10.4953359
+},
+{
+  "type": "node",
+  "id": 10921460786,
+  "lat": 50.5722330,
+  "lon": 10.4950790
+},
+{
+  "type": "node",
+  "id": 10921460787,
+  "lat": 50.5718561,
+  "lon": 10.4949062
+},
+{
+  "type": "node",
+  "id": 10921460788,
+  "lat": 50.5714705,
+  "lon": 10.4947244
+},
+{
+  "type": "node",
+  "id": 10921460789,
+  "lat": 50.5714457,
+  "lon": 10.4946988
+},
+{
+  "type": "node",
+  "id": 10921460790,
+  "lat": 50.5714457,
+  "lon": 10.4946553
+},
+{
+  "type": "node",
+  "id": 10921460791,
+  "lat": 50.5717272,
+  "lon": 10.4937312
+},
+{
+  "type": "node",
+  "id": 10921460792,
+  "lat": 50.5722492,
+  "lon": 10.4941068
+},
+{
+  "type": "node",
+  "id": 10921460793,
+  "lat": 50.5723561,
+  "lon": 10.4941850
+},
+{
+  "type": "node",
+  "id": 1503223836,
+  "lat": 50.6982507,
+  "lon": 10.9785884
+},
+{
+  "type": "node",
+  "id": 1503223843,
+  "lat": 50.6983456,
+  "lon": 10.9783150
+},
+{
+  "type": "node",
+  "id": 1503223883,
+  "lat": 50.6986081,
+  "lon": 10.9788746
+},
+{
+  "type": "node",
+  "id": 1503223903,
+  "lat": 50.6986936,
+  "lon": 10.9779941
+},
+{
+  "type": "node",
+  "id": 1503223932,
+  "lat": 50.6992811,
+  "lon": 10.9788618
+},
+{
+  "type": "node",
+  "id": 1503224006,
+  "lat": 50.7014488,
+  "lon": 10.9802969
+},
+{
+  "type": "node",
+  "id": 4019357626,
+  "lat": 50.6983705,
+  "lon": 10.9783378
+},
+{
+  "type": "node",
+  "id": 4019357627,
+  "lat": 50.6984024,
+  "lon": 10.9782459
+},
+{
+  "type": "node",
+  "id": 4019357628,
+  "lat": 50.6984293,
+  "lon": 10.9781700
+},
+{
+  "type": "node",
+  "id": 4019357629,
+  "lat": 50.6984062,
+  "lon": 10.9781544
+},
+{
+  "type": "node",
+  "id": 4019357630,
+  "lat": 50.6984564,
+  "lon": 10.9780037
+},
+{
+  "type": "node",
+  "id": 4019357631,
+  "lat": 50.6985721,
+  "lon": 10.9779422
+},
+{
+  "type": "node",
+  "id": 4019357656,
+  "lat": 50.6984763,
+  "lon": 10.9788179
+},
+{
+  "type": "node",
+  "id": 4019357657,
+  "lat": 50.6987809,
+  "lon": 10.9788329
+},
+{
+  "type": "node",
+  "id": 4019357672,
+  "lat": 50.6986314,
+  "lon": 10.9778269
+},
+{
+  "type": "node",
+  "id": 4344920394,
+  "lat": 50.7017436,
+  "lon": 10.9788483
+},
+{
+  "type": "node",
+  "id": 5951382362,
+  "lat": 50.7005080,
+  "lon": 10.9791433
+},
+{
+  "type": "node",
+  "id": 5951386821,
+  "lat": 50.7006167,
+  "lon": 10.9784004
+},
+{
+  "type": "node",
+  "id": 6602788199,
+  "lat": 50.6985430,
+  "lon": 10.9788615
+},
+{
+  "type": "node",
+  "id": 6602788200,
+  "lat": 50.7010288,
+  "lon": 10.9799622
+},
+{
+  "type": "node",
+  "id": 6602788201,
+  "lat": 50.7015000,
+  "lon": 10.9801366
+},
+{
+  "type": "node",
+  "id": 6602788202,
+  "lat": 50.7015674,
+  "lon": 10.9796813
+},
+{
+  "type": "node",
+  "id": 6602788203,
+  "lat": 50.7016237,
+  "lon": 10.9795440
+},
+{
+  "type": "node",
+  "id": 6602788208,
+  "lat": 50.6987213,
+  "lon": 10.9779393
+},
+{
+  "type": "node",
+  "id": 6602788209,
+  "lat": 50.6986632,
+  "lon": 10.9780532
+},
+{
+  "type": "node",
+  "id": 10197317878,
+  "lat": 51.3934098,
+  "lon": 10.8173408
+},
+{
+  "type": "node",
+  "id": 10197317879,
+  "lat": 51.3933252,
+  "lon": 10.8177686
+},
+{
+  "type": "node",
+  "id": 10197317880,
+  "lat": 51.3935173,
+  "lon": 10.8180112
+},
+{
+  "type": "node",
+  "id": 10197317881,
+  "lat": 51.3933757,
+  "lon": 10.8183765
+},
+{
+  "type": "node",
+  "id": 10197317882,
+  "lat": 51.3931591,
+  "lon": 10.8182591
+},
+{
+  "type": "node",
+  "id": 10197317883,
+  "lat": 51.3929182,
+  "lon": 10.8190052
+},
+{
+  "type": "node",
+  "id": 10197317884,
+  "lat": 51.3927766,
+  "lon": 10.8189113
+},
+{
+  "type": "node",
+  "id": 10197317886,
+  "lat": 51.3922264,
+  "lon": 10.8198322
+},
+{
+  "type": "node",
+  "id": 10197317887,
+  "lat": 51.3922687,
+  "lon": 10.8195713
+},
+{
+  "type": "node",
+  "id": 10197317888,
+  "lat": 51.3921743,
+  "lon": 10.8195322
+},
+{
+  "type": "node",
+  "id": 10197317889,
+  "lat": 51.3924901,
+  "lon": 10.8181339
+},
+{
+  "type": "node",
+  "id": 10197317890,
+  "lat": 51.3925813,
+  "lon": 10.8181834
+},
+{
+  "type": "node",
+  "id": 10197317891,
+  "lat": 51.3926040,
+  "lon": 10.8175417
+},
+{
+  "type": "node",
+  "id": 10197317892,
+  "lat": 51.3927326,
+  "lon": 10.8173147
+},
+{
+  "type": "node",
+  "id": 10197317893,
+  "lat": 51.3929410,
+  "lon": 10.8170564
+},
+{
+  "type": "node",
+  "id": 10197317894,
+  "lat": 51.3931185,
+  "lon": 10.8170407
+},
+{
+  "type": "node",
+  "id": 10197317885,
+  "lat": 51.3925113,
+  "lon": 10.8200201
+},
+{
+  "type": "node",
+  "id": 10175527445,
+  "lat": 51.3757324,
+  "lon": 10.8589140
+},
+{
+  "type": "node",
+  "id": 10175527446,
+  "lat": 51.3759999,
+  "lon": 10.8588816
+},
+{
+  "type": "node",
+  "id": 10175527451,
+  "lat": 51.3757501,
+  "lon": 10.8592516
+},
+{
+  "type": "node",
+  "id": 10175527452,
+  "lat": 51.3756958,
+  "lon": 10.8591060
+},
+{
+  "type": "node",
+  "id": 10175527447,
+  "lat": 51.3760529,
+  "lon": 10.8594456
+},
+{
+  "type": "node",
+  "id": 10175527448,
+  "lat": 51.3759810,
+  "lon": 10.8595993
+},
+{
+  "type": "node",
+  "id": 10175527449,
+  "lat": 51.3758434,
+  "lon": 10.8596053
+},
+{
+  "type": "node",
+  "id": 10175527450,
+  "lat": 51.3757261,
+  "lon": 10.8595063
+},
+{
+  "type": "node",
+  "id": 1738906109,
+  "lat": 51.3789884,
+  "lon": 10.8614666
+},
+{
+  "type": "node",
+  "id": 10182403224,
+  "lat": 51.3791773,
+  "lon": 10.8613328
+},
+{
+  "type": "node",
+  "id": 10182403225,
+  "lat": 51.3791647,
+  "lon": 10.8613696
+},
+{
+  "type": "node",
+  "id": 10182403226,
+  "lat": 51.3790925,
+  "lon": 10.8613065
+},
+{
+  "type": "node",
+  "id": 10182403227,
+  "lat": 51.3790266,
+  "lon": 10.8615000
+},
+{
+  "type": "node",
+  "id": 10182403228,
+  "lat": 51.3788776,
+  "lon": 10.8613699
+},
+{
+  "type": "node",
+  "id": 10182403229,
+  "lat": 51.3788713,
+  "lon": 10.8612749
+},
+{
+  "type": "node",
+  "id": 10182403230,
+  "lat": 51.3789325,
+  "lon": 10.8610949
+},
+{
+  "type": "node",
+  "id": 10182403231,
+  "lat": 51.3790624,
+  "lon": 10.8612082
+},
+{
+  "type": "node",
+  "id": 10182403232,
+  "lat": 51.3790896,
+  "lon": 10.8611283
+},
+{
+  "type": "node",
+  "id": 10182403233,
+  "lat": 51.3791203,
+  "lon": 10.8611551
+},
+{
+  "type": "node",
+  "id": 10182403234,
+  "lat": 51.3790867,
+  "lon": 10.8612538
+},
+{
+  "type": "node",
+  "id": 9981829196,
+  "lat": 50.8511379,
+  "lon": 12.2085533
+},
+{
+  "type": "node",
+  "id": 9981829201,
+  "lat": 50.8519119,
+  "lon": 12.2092445
+},
+{
+  "type": "node",
+  "id": 9981829202,
+  "lat": 50.8522895,
+  "lon": 12.2085623
+},
+{
+  "type": "node",
+  "id": 9981829203,
+  "lat": 50.8523692,
+  "lon": 12.2083850
+},
+{
+  "type": "node",
+  "id": 9981829204,
+  "lat": 50.8517639,
+  "lon": 12.2074685
+},
+{
+  "type": "node",
+  "id": 9981829205,
+  "lat": 50.8514870,
+  "lon": 12.2079403
+},
+{
+  "type": "node",
+  "id": 9981829197,
+  "lat": 50.8517507,
+  "lon": 12.2094939
+},
+{
+  "type": "node",
+  "id": 9981829198,
+  "lat": 50.8516729,
+  "lon": 12.2097073
+},
+{
+  "type": "node",
+  "id": 9981829199,
+  "lat": 50.8518949,
+  "lon": 12.2100379
+},
+{
+  "type": "node",
+  "id": 9981829200,
+  "lat": 50.8519954,
+  "lon": 12.2093918
+},
+{
+  "type": "node",
+  "id": 9981829206,
+  "lat": 50.8512802,
+  "lon": 12.2114629
+},
+{
+  "type": "node",
+  "id": 9981829207,
+  "lat": 50.8508540,
+  "lon": 12.2121552
+},
+{
+  "type": "node",
+  "id": 9981829208,
+  "lat": 50.8508125,
+  "lon": 12.2119199
+},
+{
+  "type": "node",
+  "id": 9981829209,
+  "lat": 50.8506967,
+  "lon": 12.2117814
+},
+{
+  "type": "node",
+  "id": 9981829210,
+  "lat": 50.8506683,
+  "lon": 12.2117122
+},
+{
+  "type": "node",
+  "id": 9981829211,
+  "lat": 50.8510529,
+  "lon": 12.2111272
+}
+
+  ]
+}

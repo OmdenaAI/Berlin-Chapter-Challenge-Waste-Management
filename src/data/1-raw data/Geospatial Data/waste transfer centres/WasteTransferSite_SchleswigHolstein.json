@@ -1,0 +1,202 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.61.5 4133829e",
+  "osm3s": {
+    "timestamp_osm_base": "2023-09-08T04:12:46Z",
+    "timestamp_areas_base": "2023-09-08T02:44:08Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "way",
+  "id": 524169539,
+  "nodes": [
+    5101400734,
+    5101400735,
+    5101400736,
+    5101400737,
+    5101400734
+  ],
+  "tags": {
+    "amenity": "waste_transfer_station"
+  }
+},
+{
+  "type": "way",
+  "id": 777540218,
+  "nodes": [
+    7256147279,
+    7256147277,
+    7256147276,
+    7256147275,
+    7256147279
+  ],
+  "tags": {
+    "amenity": "waste_transfer_station",
+    "landuse": "industrial"
+  }
+},
+{
+  "type": "way",
+  "id": 1016867077,
+  "nodes": [
+    9379143699,
+    9379143696,
+    9379143697,
+    9379143698,
+    9379143699
+  ],
+  "tags": {
+    "amenity": "waste_transfer_station"
+  }
+},
+{
+  "type": "area",
+  "id": 3600051529,
+  "tags": {
+    "ISO3166-2": "DE-SH",
+    "TMC:cid_58:tabcd_1:Class": "Area",
+    "TMC:cid_58:tabcd_1:LCLversion": "12.0",
+    "TMC:cid_58:tabcd_1:LocationCode": "256",
+    "admin_level": "4",
+    "alt_name:pt": "Schleswig-Holstein",
+    "border_type": "state",
+    "boundary": "administrative",
+    "de:amtlicher_gemeindeschluessel": "01",
+    "de:regionalschluessel": "01",
+    "name": "Schleswig-Holstein",
+    "name:ar": "شليسفيغ هولشتاين",
+    "name:ca": "Slesvig-Holstein",
+    "name:cs": "Šlesvicko-Holštýnsko",
+    "name:en": "Schleswig-Holstein",
+    "name:eo": "Ŝlesvigo-Holstinio",
+    "name:fa": "اشلسویگ-هولشتاین",
+    "name:hsb": "Šleswigsko-Holšteinska",
+    "name:hu": "Schleswig-Holstein",
+    "name:is": "Slésvík-Holtsetaland",
+    "name:lv": "Šlēsviga-Holšteina",
+    "name:mk": "Шлезвиг-Холштајн",
+    "name:nds": "Sleeswig-Holsteen",
+    "name:nl": "Sleeswijk-Holstein",
+    "name:pl": "Szlezwik-Holsztyn",
+    "name:prefix": "Bundesland",
+    "name:pt": "Eslésvico-Holsácia",
+    "name:ru": "Шлезвиг-Гольштейн",
+    "name:sk": "Šlezvicko-Holštajnsko",
+    "name:sr": "Шлезвиг-Холштајн",
+    "name:th": "รัฐชเลสวิช-ฮ็อลชไตน์",
+    "name:uk": "Шлезвіґ-Гольштейн",
+    "name:ur": "شلسویگ-ہولشتائن",
+    "name:vo": "Jlesvigän-Holstän",
+    "name:zh": "石勒苏益格—荷尔斯泰因州",
+    "name:zh-Hans": "石勒苏益格—荷尔斯泰因州",
+    "name:zh-Hant": "什勒斯維希—霍爾斯坦邦",
+    "ref": "SH",
+    "ref:nuts:1": "DEF",
+    "ref:nuts:2": "DEF0",
+    "type": "boundary",
+    "wikidata": "Q1194",
+    "wikipedia": "de:Schleswig-Holstein"
+  }
+},
+{
+  "type": "area",
+  "id": 3600062775,
+  "tags": {
+    "ISO3166-2": "DE-SH",
+    "admin_level": "4",
+    "boundary": "land_area",
+    "de:amtlicher_gemeindeschluessel": "01",
+    "de:regionalschluessel": "01",
+    "description": "Schleswig-Holstein (Landmasse)",
+    "description:de": "Schleswig-Holstein (Landmasse)",
+    "description:fr": "Schleswig-Holstein (terres)",
+    "description:lv": "Šlēsviga-Holšteina",
+    "description:pl": "Szlezwik-Holsztyn (ląd)",
+    "description:sk": "Šlezvicko-Holštajnsko",
+    "description:sr": "Шлезвиг-Холштајн",
+    "land_area": "administrative",
+    "name": "Schleswig-Holstein",
+    "name:hu": "Schleswig-Holstein",
+    "note": "Schleswig-Holstein (Landmasse)",
+    "note:TMC": "Grenze am damm geschlossen, damit der ring geschlossen ist.",
+    "type": "boundary",
+    "wikidata": "Q1194"
+  }
+},
+{
+  "type": "node",
+  "id": 7256147275,
+  "lat": 53.7375561,
+  "lon": 9.9810040
+},
+{
+  "type": "node",
+  "id": 7256147276,
+  "lat": 53.7378829,
+  "lon": 9.9811569
+},
+{
+  "type": "node",
+  "id": 7256147277,
+  "lat": 53.7376062,
+  "lon": 9.9830674
+},
+{
+  "type": "node",
+  "id": 7256147279,
+  "lat": 53.7372756,
+  "lon": 9.9828827
+},
+{
+  "type": "node",
+  "id": 9379143696,
+  "lat": 53.7270844,
+  "lon": 10.2715597
+},
+{
+  "type": "node",
+  "id": 9379143697,
+  "lat": 53.7270261,
+  "lon": 10.2715866
+},
+{
+  "type": "node",
+  "id": 9379143698,
+  "lat": 53.7270153,
+  "lon": 10.2715198
+},
+{
+  "type": "node",
+  "id": 9379143699,
+  "lat": 53.7270737,
+  "lon": 10.2714930
+},
+{
+  "type": "node",
+  "id": 5101400734,
+  "lat": 54.4053677,
+  "lon": 11.1772821
+},
+{
+  "type": "node",
+  "id": 5101400735,
+  "lat": 54.4053284,
+  "lon": 11.1774202
+},
+{
+  "type": "node",
+  "id": 5101400736,
+  "lat": 54.4051931,
+  "lon": 11.1773047
+},
+{
+  "type": "node",
+  "id": 5101400737,
+  "lat": 54.4052399,
+  "lon": 11.1771575
+}
+
+  ]
+}
