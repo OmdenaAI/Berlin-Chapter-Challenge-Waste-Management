@@ -1,8 +1,8 @@
-id,lat,lon
-287503117,,
-3600062718,,
-3602833343,,
-2911062244,53.0495874,8.9094969
-2911062247,53.0496589,8.9092545
-2911062251,53.0500209,8.9098505
-2911062253,53.0500923,8.9096081
+id,lat,lon,state,station
+287503117,,,Bremen,waste transfer stations
+3600062718,,,Bremen,waste transfer stations
+3602833343,,,Bremen,waste transfer stations
+2911062244,53.0495874,8.9094969,Bremen,waste transfer stations
+2911062247,53.0496589,8.9092545,Bremen,waste transfer stations
+2911062251,53.0500209,8.9098505,Bremen,waste transfer stations
+2911062253,53.0500923,8.9096081,Bremen,waste transfer stations
