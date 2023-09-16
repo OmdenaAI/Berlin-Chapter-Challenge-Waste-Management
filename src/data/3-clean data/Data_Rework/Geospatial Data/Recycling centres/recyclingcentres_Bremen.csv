@@ -1,672 +1,672 @@
-id,lat,lon,station,state,glass_related_recycling,electrical_related_recycling,metal_related_recycling,packaging_wastes,paper_wastes,plastic_wastes,organic_wastes,construction_wastes,hazardous/toxic,textiles
-167062792,53.0443564,8.9009431,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-167144394,53.0536403,8.9077773,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-171358745,53.0715029,8.8836816,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-171358804,53.0664785,8.8800682,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-171366630,53.0726044,8.8728665,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-172128252,53.0727109,8.8793381,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-173540466,53.1442967,8.7125002,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-173540477,53.1497081,8.7102948,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-173608385,53.154561,8.7178289,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-175673449,53.0340355,8.9444688,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-197765920,53.066646,8.8720806,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-199269572,53.0786784,8.9054991,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-199269645,53.0739701,8.904678,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-199269690,53.0788495,8.8840694,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-199269738,53.0771153,8.8864842,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-199281090,53.0761795,8.8923141,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-206349295,53.1439012,8.7164058,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-206349312,53.1516091,8.7170729,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-206368049,53.139867,8.7252989,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-238224188,53.0581868,8.9428138,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-239735147,53.0450871,8.9152495,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-239735205,53.061562,8.94233,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-239735275,53.0826333,8.914538,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-239735331,53.0711873,8.9494225,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-242273822,53.0809277,8.8568628,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-242273974,53.0984393,8.8405032,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-243752052,53.0835765,8.8601401,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-250387055,53.0412284,8.9313812,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-251049179,53.0816654,8.8099355,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-251983029,53.0390719,8.9579035,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-252634113,53.0589866,8.9348684,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-252634378,53.065128,8.932404,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-253617328,53.1581132,8.7048827,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-253631710,53.1714688,8.6679868,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-253746867,53.0747103,8.9258849,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-255350230,53.0678481,8.9465874,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-255350237,53.0619139,8.9552975,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-255350238,53.0615582,8.9615654,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-255350245,53.0655211,8.9624681,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-255350258,53.0755588,8.9552995,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-255350260,53.0757549,8.9462527,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-279479814,53.0617907,8.8704938,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-283453311,53.1564093,8.7024244,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-287052851,53.0915239,8.8991813,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-287052915,53.0934527,8.9041359,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-290738398,53.1777522,8.6902599,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-290738505,53.1793508,8.6914708,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-290738621,53.1775848,8.6854831,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-291017017,53.0768103,8.8379822,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-292381743,53.1709303,8.6889833,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-292841355,53.1819049,8.6951966,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-292951778,53.0684849,8.8330956,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-294136928,53.1757938,8.6974,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-294614439,53.1035332,8.7867798,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-295080732,53.1686265,8.6969185,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-295264646,53.1033229,8.8394734,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-295933636,53.1900465,8.6313132,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-296077927,53.1712022,8.7033395,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-297316159,53.1131335,8.7820212,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-298165560,53.170669,8.7070721,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-300839919,53.0997278,8.8206792,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-300964241,53.183909,8.6253514,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-302697696,53.5491175,8.5789121,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-303812815,53.1013929,8.9163915,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-315485472,53.0782887,8.8227468,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-329213575,53.1776995,8.6019592,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-333250201,53.0783937,8.9079371,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-336295668,53.0353203,8.8287944,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-336295671,53.0335805,8.8290151,recycling centres,Bremen,no,no,yes,no,no,no,no,no,no,yes
-336295674,53.0388209,8.8253333,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-341176380,53.1762178,8.6890212,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-355845662,53.0615449,8.9514095,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-355897473,53.0638802,8.9496566,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-356883413,53.0775296,8.9200447,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-361114700,53.0903829,8.7979779,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-361559320,53.0680793,8.9458155,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-384913476,53.1258807,8.982771,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-390449404,53.0747536,8.9198392,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-393326238,53.0849605,8.8951714,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-393340205,53.0861814,8.895165,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-393340214,53.0861101,8.8929742,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-393340227,53.0862828,8.8917382,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-393341463,53.086172,8.8854468,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-393341580,53.0860534,8.8818849,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-393341889,53.0859915,8.8805545,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-393367154,53.083752,8.8629437,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-393377017,53.0834397,8.880966,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-394824469,53.0812121,8.7631882,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-409788076,53.076249,8.9181912,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-411571135,53.0673705,8.9340075,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-412291685,53.0738621,8.9535921,recycling centres,Bremen,no,no,yes,no,no,no,no,no,no,no
-412291805,53.0778011,8.9279286,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-412299675,53.0700879,8.7970056,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-412990252,53.0761937,8.9056852,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-416056484,53.064796,8.8791529,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-416128750,53.0488974,8.8483001,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-416859941,53.0763542,8.9036851,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-421394428,53.0458904,8.8464992,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-421624943,53.0376273,8.8128605,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-421624950,53.0386037,8.8181878,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-421624953,53.0382931,8.819245,recycling centres,Bremen,no,no,yes,no,no,no,no,no,no,yes
-421624956,53.0378031,8.820657,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-423987179,53.0770104,8.917762,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-424203321,53.0762482,8.8992099,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-428109625,53.0387961,8.945003,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-428116377,53.0756821,8.8432694,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-429642847,53.1045977,8.8992675,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-429649470,53.1271141,8.9068388,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-429653320,53.1113753,8.9018989,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-443258263,53.0385434,8.9336397,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-445806935,53.0360794,8.8279569,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-463839227,53.0575557,8.8078796,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-463935155,53.0569084,8.8001273,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-474637553,53.1910024,8.550045,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-476456132,53.0765215,8.7771019,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-476869174,53.0965147,8.8714905,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-486137160,53.065773,8.8451901,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-486137262,53.0630852,8.850492,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-494948655,53.0721174,8.810202,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-508578273,53.0954009,8.8091525,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-528990309,53.1841768,8.6120552,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-537030462,53.0803668,8.770102,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-540400886,53.2065578,8.5356448,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-552915746,53.2087221,8.523155,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-559888950,53.5364059,8.5952753,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-560245546,53.538582,8.5895115,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-599847781,53.1043827,8.8651503,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-599917944,53.1643239,8.650456,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-602574739,53.1772095,8.6189992,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-609047140,53.0955699,8.8217084,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-609047143,53.0968956,8.8171979,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-614741343,53.1922235,8.5579825,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-654222907,53.0759852,8.7786244,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-660599070,53.0490712,8.7453422,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-664041906,53.0745297,8.830126,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-670706484,53.1105276,8.8859394,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-674682814,53.0962409,8.769579,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-685989633,53.1257741,8.7415442,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-693353071,53.1208596,8.9006267,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-706411091,53.0350004,8.8514124,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-708091704,53.1695855,8.6406484,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-726561249,53.0469679,8.7299277,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-726561275,53.0477097,8.7356103,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-726561288,53.0462149,8.7238976,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-757090465,53.0396087,8.8159538,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-803497273,53.05954,8.800375,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-813612954,53.0794929,8.7117534,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-852843348,53.10309,8.82045,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-864610368,53.1031734,8.8506406,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-886067150,53.0428216,8.8172884,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-913845367,53.5388816,8.6139694,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-913845372,53.541616,8.5844261,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-939811194,53.0905359,8.7854029,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-969075452,53.0712636,8.8287003,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-973634709,53.53427,8.5909153,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-1037512006,53.5309235,8.6325245,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-1070968546,53.147476,8.7119889,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-1077141814,53.1161021,8.8995104,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-1104921811,53.0714683,8.8557627,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-1163811923,53.0907249,8.7511747,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-1184659654,53.0799283,8.8271285,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-1210918270,53.1712769,8.627391,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-1236653908,53.5446199,8.5801997,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-1277298940,53.1238446,8.8992502,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-1326258457,53.0952551,8.896983,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-1368104354,53.5276416,8.6338698,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-1379857555,53.078732,8.9398767,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-1392942234,53.1747748,8.6368502,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-1445536797,53.0690354,8.8666573,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-1453048977,53.1098967,8.8826494,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-1453055676,53.1005035,8.8843259,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-1586793583,53.2015261,8.5775147,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-1600179150,53.1806173,8.6371567,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-1601738672,53.0832129,8.8177967,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-1609520917,53.1900197,8.6313561,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-1614531347,53.0747369,8.8687183,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-1787991321,53.0403626,8.7367283,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-1811953236,53.1046791,8.8671349,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-1824963567,53.1014209,8.8644966,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-1861376938,53.0850886,8.8926713,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-1873902908,53.096906,8.8815972,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-1894387938,53.1099972,8.8920251,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-1912768090,53.1755122,8.7232686,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-1918242010,53.1734611,8.719593,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-1936105903,53.096459,8.8716182,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-1936105905,53.0965168,8.8716225,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-1944565034,53.5982679,8.5329672,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-1945172858,53.0941875,8.797183,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-1952449841,53.0920754,8.8118594,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-1964258287,53.070335,8.7821917,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-1988297914,53.1003781,8.8853995,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-1988297916,53.1067894,8.8521065,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-2004616410,53.1051293,8.7955031,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-2120735339,53.1085607,8.7797428,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-2140809623,53.0877366,8.8058996,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-2149778014,53.0882117,8.7874558,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-2179117286,53.1338249,8.7240252,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-2190138412,53.0897819,8.856561,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-2192182593,53.1687955,8.647464,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-2255965331,53.0376419,8.9235806,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-2277886132,53.0572633,8.935831,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-2300036967,53.1786241,8.6053844,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-2318208847,53.087511,8.8279312,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-2318930086,53.1085672,8.716817,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-2323130577,53.0995605,8.8806365,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-2344540314,53.0929429,8.8176664,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-2347357019,53.0825984,8.8699499,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-2369925708,53.063307,8.7707733,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-2375149273,53.5515012,8.576362,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-2381411933,53.549227,8.5726913,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-2390852839,53.109497,8.8505111,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-2390852845,53.1096885,8.8502879,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-2414452875,53.1859087,8.6170811,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-2414452911,53.1848431,8.6014144,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-2436440431,53.1780895,8.5981992,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-2446628036,53.1853401,8.5556656,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-2446628382,53.1907662,8.5429717,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-2461085999,53.0850188,8.7956885,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-2466679025,53.1757687,8.6566211,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-2468767029,53.0364256,8.8416876,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-2519570423,53.5455284,8.5706503,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-2523643224,53.1348456,8.7306617,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-2543561032,53.0589029,8.9305385,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-2581346716,53.0628845,8.8992495,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-2602125679,53.06128,8.805991,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-2611126072,53.5551922,8.5713291,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-2637341403,53.1426468,8.7204871,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-2664307373,53.1065193,8.8662565,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-2671242735,53.5478327,8.5777058,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-2673139474,53.5409796,8.5852012,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-2674932171,53.5533,8.5784837,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-2674932223,53.5576896,8.5711901,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-2678502182,53.5587488,8.5795193,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-2690688192,53.1750765,8.6758156,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-2690688997,53.1898749,8.5666507,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-2692804316,53.5601345,8.5775313,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-2752866388,53.1218313,8.6668901,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-2778672445,53.1939265,8.5658437,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-2868784767,53.5346232,8.5846004,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-2884196578,53.5310288,8.5995927,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-2918334874,53.5661244,8.581894,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-2924610413,53.5769636,8.583988,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-2926374932,53.0536515,8.8511628,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-2928120483,53.5548125,8.5973401,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-2928805808,53.5307241,8.5870313,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-2986260427,53.0569335,8.8921541,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-3056172046,53.0300504,8.8212471,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-3056172049,53.031179,8.8138226,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-3056172062,53.0331677,8.82363,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-3056172066,53.0346394,8.8464995,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-3056172087,53.0398744,8.821244,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-3056172091,53.0399857,8.7321194,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-3056172097,53.0411393,8.7194202,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-3056172098,53.0424377,8.8227589,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-3056172099,53.0436104,8.7224681,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-3056172357,53.0462761,8.7176153,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-3056172377,53.0472987,8.7163936,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-3056172551,53.0537945,8.7195422,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-3056172581,53.0549953,8.7310474,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-3056172582,53.0551033,8.7359773,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-3056172583,53.05964,8.7615995,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-3056172584,53.1075925,8.7986991,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-3056172585,53.1085346,8.751318,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-3056172586,53.1095269,8.7628581,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-3056172593,53.1249318,8.7498954,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-3056172594,53.1344475,8.7188274,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-3056172668,53.1734559,8.7036843,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-3056172674,53.1797528,8.7249335,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-3058217082,53.1630863,8.6427104,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-3058217093,53.1670743,8.6612033,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-3058217125,53.1679927,8.6939827,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-3058217269,53.1686684,8.6575922,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-3058217472,53.1713361,8.6533131,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-3058217508,53.1736692,8.6269904,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-3058217517,53.1748732,8.6464291,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-3058217518,53.1769648,8.6474336,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-3058217519,53.1803321,8.5943217,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-3058217522,53.1811552,8.605663,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-3058217523,53.1818277,8.6004105,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-3058217549,53.1835759,8.5791359,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-3058217570,53.1840945,8.6022931,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-3058217574,53.1841451,8.5635746,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-3058217602,53.184996,8.5696076,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-3058217642,53.1868439,8.5623617,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-3058217643,53.1873186,8.5707002,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-3058217673,53.1895334,8.6351517,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-3058217674,53.1900396,8.5607184,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-3058217675,53.190144,8.5749868,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-3058217676,53.1916442,8.5728298,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-3058217679,53.1927759,8.5715227,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-3058217682,53.1928873,8.5510312,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-3058217696,53.1942633,8.5359944,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-3058217697,53.1943186,8.5406672,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-3058217698,53.1945063,8.5713167,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-3058217745,53.1958096,8.5460104,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-3058217760,53.1973201,8.5751573,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-3058217765,53.1981487,8.5304102,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-3058217768,53.1991061,8.5539528,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-3058217777,53.1995969,8.5384957,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-3058217779,53.1996283,8.5282075,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-3058217785,53.2012331,8.564651,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-3058217817,53.2025628,8.5701847,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-3058217873,53.2055454,8.5164197,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-3058217907,53.2074409,8.5759927,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-3058217908,53.2074537,8.513572,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-3058217915,53.2085048,8.5788438,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-3058217926,53.2111803,8.5770782,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-3058218100,53.2130382,8.5112142,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-3058218243,53.2226206,8.508276,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-3058218244,53.2244628,8.5093879,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-3060088334,53.0975,8.8998629,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-3060088338,53.0978487,8.8826938,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-3060088380,53.1072226,8.9068249,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-3063163397,53.0719007,8.9324303,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-3063163398,53.073773,8.9421916,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-3063163966,53.0913112,8.8540527,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-3065261099,53.0405315,8.9044546,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-3071128292,53.0680636,8.946192,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-3071128298,53.068887,8.9606969,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-3071128366,53.079645,8.8615945,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-3122524055,53.5337836,8.5879276,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-3136952880,53.1756482,8.7176919,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-3149432643,53.5332633,8.6008423,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-3218889245,53.5298309,8.6380984,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-3264532361,53.5728086,8.5983102,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-3278593219,53.0963282,8.8089031,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-3364588759,53.5946814,8.5810468,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-3366537979,53.5684752,8.5621902,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-3386191479,53.5662835,8.5874569,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-3471725447,53.4916832,8.5990059,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-3618551782,53.1818982,8.6951912,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-3622565572,53.0589049,8.8270203,recycling centres,Bremen,yes,yes,yes,yes,yes,yes,yes,yes,no,yes
-3622568794,53.0593068,8.8251192,recycling centres,Bremen,no,no,yes,no,no,no,no,no,no,no
-3622568877,53.0597707,8.8224501,recycling centres,Bremen,no,no,yes,no,no,no,no,no,no,no
-3681463993,53.1063765,8.8528997,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-3844723890,53.5593408,8.5652231,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-4162208565,53.0939514,8.7911757,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-4268585630,53.5906683,8.6274467,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-4307044542,53.5318585,8.6038024,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-4314574340,53.5797081,8.5962826,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-4358699731,53.1758437,8.6796313,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-4440544096,53.1799117,8.5674074,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-4577505126,53.1947923,8.5532815,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-4711874046,53.5590061,8.590129,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-4715194840,53.5665437,8.5987901,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-4807385218,53.0955397,8.7710525,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-5062791121,53.0543764,8.8819312,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-5257713082,53.5075285,8.60145,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-5727666601,53.5594112,8.5659616,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-5727666602,53.5594112,8.5659345,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-5727666603,53.5594061,8.5659032,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-6028186929,53.2055103,8.5199442,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-6402240132,53.5286672,8.6201667,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-6487651233,53.0305464,8.8536394,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-6598467835,53.0663634,8.8582648,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-6633188564,53.0728266,8.8296787,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-6797786926,53.5756668,8.5916269,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-6887031256,53.0594949,8.8876586,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-7512214493,53.0651934,8.7792248,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-7684078711,53.5584073,8.6060929,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-7728268976,53.1048899,8.859299,recycling centres,Bremen,yes,yes,yes,yes,yes,yes,yes,yes,no,yes
-7746801486,53.0615991,8.8504114,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-7750461171,53.0765954,8.9439889,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-7784985811,53.0812703,8.8719148,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-8251097205,53.0484512,8.7390993,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-8497370685,53.0702293,8.8522943,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-8513004987,53.062743,8.7813458,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-8565690466,53.082195,8.7575471,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-8938960452,53.2018402,8.5605732,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-9051600302,53.0917126,8.8457722,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-9084524150,53.1003569,8.7627675,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-9105265043,53.1556889,8.7031115,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-9105275081,53.134743,8.7409962,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-9105320434,53.1153375,8.7723662,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-9132199758,53.5301635,8.5920459,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-9210087620,53.0981069,8.7631788,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-9244402895,53.5618181,8.5807306,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-9246812406,53.1204748,8.8993783,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-9442538062,53.0838828,8.7980445,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-9445575111,53.1947674,8.5522143,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-9520585078,53.1817472,8.6308799,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-9520585079,53.1817327,8.6309275,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-9520585080,53.1816009,8.6308464,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-9520585081,53.1815398,8.6309899,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-9520585082,53.1815221,8.6310435,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-9520585083,53.1815587,8.6309429,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-9520585088,53.1817166,8.6306258,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-9520585089,53.1817864,8.630669,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-9520585090,53.181796,8.6306791,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-9520585091,53.1818073,8.6306905,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-9520585092,53.1818179,8.6307002,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-9520585093,53.1818083,8.6309419,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-9520585097,53.1818569,8.6307408,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-9520585098,53.1818507,8.6307619,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-9520585099,53.1818428,8.6307833,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-9520585100,53.1818195,8.6307615,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-9520585101,53.1818273,8.6307391,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-9520585102,53.1818348,8.6307176,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-9520585105,53.1815768,8.630894,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-9528394430,53.525495,8.5946335,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-9528394431,53.5253576,8.5946523,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-9556361427,53.1562051,8.7055942,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-9721530501,53.5777719,8.5878378,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-9721530502,53.582202,8.590107,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-9721530505,53.5705811,8.6123371,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-9721606870,53.5315973,8.6141288,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-9762117747,53.1310331,8.7293492,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-9826159712,53.1837433,8.5754862,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-9854271887,53.5036832,8.6095034,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-9864454479,53.5285786,8.6006396,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-9864481000,53.5254869,8.6013591,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-9932325029,53.2131865,8.5823666,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-10117363916,53.170341,8.6279932,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-10128983022,53.1624981,8.6391082,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-10220274440,53.5598165,8.5655659,recycling centres,Bremen,yes,yes,yes,yes,yes,yes,yes,yes,no,yes
-10266410943,53.587087,8.6203744,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-10266410947,53.5882616,8.6111006,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-10266410950,53.5959377,8.6249167,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-10266410951,53.6003675,8.6361189,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-10266410952,53.601808,8.6213668,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-10827440725,53.0917376,8.8572469,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-10834426517,53.5231126,8.5958134,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-10834426518,53.5231474,8.5958139,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-10917021225,53.5908726,8.6197406,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-10917021226,53.5908682,8.619727,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-10917021227,53.5908634,8.6197129,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-11049206181,53.1781109,8.6159018,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-11049214879,53.1822517,8.608812,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-11079019316,53.5333395,8.59728,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,yes
-2045404681,53.0523181,8.735197,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-2521748698,53.0522972,8.7356947,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-2521748727,53.0530351,8.735311,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-2045404679,53.0522087,8.7369683,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-2521748696,53.0521271,8.7377182,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-2521748697,53.0522296,8.7366994,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-2521748699,53.0523166,8.7377709,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-2521748701,53.0523542,8.7377633,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-2521748702,53.0523786,8.7377368,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-2521748704,53.052394,8.737699,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-2521748705,53.0523985,8.7376801,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-2521748707,53.0524315,8.7376878,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-2521748709,53.0524565,8.7377737,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-2521748710,53.0524668,8.7376961,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-2521748717,53.0525998,8.7378163,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-2076191349,53.0627085,8.744412,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-2076191355,53.0627747,8.745146,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-2076191360,53.0628121,8.7451356,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-2076191374,53.062892,8.7459137,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-2076191378,53.0629362,8.7459056,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-2076191384,53.063001,8.7467849,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-2076191385,53.0630136,8.7469321,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-2076191386,53.0630741,8.747458,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-2076191390,53.0631406,8.7473605,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-2076191391,53.0631455,8.7467446,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-2076191393,53.063154,8.7468924,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-2076191397,53.06317,8.747171,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-2076191400,53.063211,8.7465943,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-2521748802,53.0629458,8.7471151,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-2521748808,53.0629784,8.7475074,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-2521748818,53.0630055,8.7470784,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-2521748824,53.0630216,8.7443398,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-2521748825,53.0630257,8.7470341,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-2521748843,53.0631203,8.7455485,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-2521748850,53.0631993,8.7464655,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-4004975956,53.0631526,8.7468675,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-9690704669,53.0521582,8.7908412,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-9690704670,53.0520876,8.7907043,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-9690704671,53.0520607,8.7907428,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-9690704672,53.0521313,8.7908797,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-2102904544,53.0737443,8.7863547,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-2102904551,53.0741575,8.7867008,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-2102904552,53.0741738,8.7868093,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-3238735778,53.0733028,8.786645,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-3238735779,53.0733838,8.7864313,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-3238735783,53.0735003,8.7861886,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-3299599897,53.0735188,8.7861798,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-7596159528,53.0732838,8.7867975,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-7596159529,53.0738131,8.7874874,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-9212478952,53.073625,8.7862356,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-9212478953,53.073473,8.7870317,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-9212478954,53.0733036,8.7868059,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-1089241455,53.1019312,8.8028955,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-1089241456,53.1015201,8.8028816,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-1089241458,53.1016795,8.8030815,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-1089241460,53.1017998,8.8021568,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-1907220769,53.1015165,8.8028449,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-1907220837,53.1017059,8.8030828,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-1907220843,53.1017245,8.8023394,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-1907220848,53.1017716,8.8022221,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-1907220875,53.1018815,8.8025635,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-1907362273,53.101583,8.8029515,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-1907362277,53.1017093,8.8023734,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-2521748888,53.1184236,8.8051016,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-2521748891,53.118726,8.8052418,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-2521748895,53.1188586,8.80498,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-2521748902,53.119015,8.8021126,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-2521748903,53.1190253,8.8042254,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-2521748904,53.1190378,8.8020518,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-2521748908,53.1190711,8.8020357,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-2521748909,53.1190727,8.8039315,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-2521748930,53.1197942,8.802646,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-2521748931,53.1198358,8.8024177,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-9399880778,53.1190545,8.8020437,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-2157910614,53.1320407,8.7347601,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-2395682088,53.1318184,8.7347398,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-2395682093,53.1318058,8.7342548,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-2395682102,53.1318974,8.7349144,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-2395682104,53.1316589,8.7344444,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-2395682106,53.1317693,8.7347463,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-2395682560,53.1319296,8.734492,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-2723838695,53.131904,8.7344402,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-297439821,53.1658459,8.7074432,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-2102904559,53.1658681,8.7079793,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-4814056146,53.1635383,8.7050636,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-4814056147,53.1631427,8.7050797,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-4814056148,53.1630092,8.7056483,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-4814056149,53.1631057,8.7058361,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-4814056150,53.1633196,8.7060346,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-297439822,53.1664958,8.7073544,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-297439823,53.166645,8.7076555,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-2102904560,53.1663628,8.7079427,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-2102904561,53.166417,8.7079196,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-2102904562,53.1664637,8.7078628,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-2102904564,53.1665122,8.7077682,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-2102904565,53.1665563,8.7076904,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-2102904567,53.1665956,8.7076592,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-2521748939,53.1816273,8.6305052,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-2521748940,53.1818795,8.630743,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-9520585086,53.1817825,8.630654,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-9520585087,53.1816685,8.6305437,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-9520585094,53.1817918,8.6309943,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-9520585095,53.1818248,8.6308977,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-9520585096,53.1818566,8.6308061,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-9520585127,53.1814528,8.6310188,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-9520585129,53.1814472,8.6310133,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-282825243,53.1815427,8.6311135,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-300911826,53.1816897,8.6312741,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-416128780,53.0497653,8.8438606,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-416128781,53.0495064,8.8438289,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-416128783,53.0493366,8.8438241,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-416128784,53.0493332,8.8442099,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-416128785,53.0494002,8.8442711,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-416128786,53.0497628,8.8442674,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-1342580503,53.0497642,8.8440913,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-2802008589,53.0493647,8.8442385,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-1375971984,53.0740349,8.8589038,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-1375971987,53.0737358,8.857613,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-2102904522,53.073447,8.8586214,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-2102904527,53.0734739,8.8582476,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-2102904531,53.0735222,8.8582823,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-2102904532,53.0735324,8.8587782,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-2102904535,53.0735538,8.8586882,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-2102904540,53.0736393,8.8575119,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-2102904543,53.0736967,8.8575875,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-2102904549,53.0739973,8.8590627,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-2102904553,53.0742397,8.8579427,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-2102904554,53.074242,8.8580299,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-4358911349,53.0741897,8.8582507,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-2120284487,53.0564686,8.8844192,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-2120284489,53.056529,8.884454,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-2120284492,53.0567018,8.8843598,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-2120284493,53.0567077,8.8847206,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-2120284495,53.0568295,8.8850214,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-2120284511,53.0572911,8.8846819,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-2120284522,53.0574402,8.88456,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-2120284533,53.0575809,8.8844004,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-2521748728,53.0554292,8.8814326,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-2521748729,53.0558069,8.8822242,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-2521748730,53.0559387,8.8807528,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-2521748731,53.0563108,8.8815173,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-2521748733,53.0563753,8.8841712,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-2521748736,53.0564658,8.8840848,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-2521748738,53.0564814,8.8844501,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-2521748739,53.0564969,8.8840646,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-2521748741,53.0565761,8.8840349,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-2521748743,53.056626,8.8810886,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-2521748745,53.0566353,8.8839712,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-2521748747,53.0566702,8.8817364,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-2521748748,53.0566909,8.8838988,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-2521748749,53.0566939,8.8849669,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-2521748750,53.0567124,8.8838735,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-2521748753,53.0567548,8.8813717,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-2521748754,53.0567633,8.88385,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-2521748755,53.056768,8.8849854,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-2521748757,53.0567865,8.8816532,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-2521748758,53.0567894,8.8814613,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-2521748760,53.056799,8.881538,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-2521748761,53.0568032,8.8849942,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-2521748762,53.0568577,8.8837496,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-2521748766,53.0569951,8.8836013,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-2521748768,53.0570444,8.8835376,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-2521748770,53.0570617,8.8834783,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-2521748771,53.0570732,8.8835027,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-2521748773,53.057161,8.8833807,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-2521748776,53.0573056,8.8836583,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-2521748779,53.0574332,8.8839804,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-2521748780,53.0575971,8.8843826,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-3274419406,53.0566953,8.8849425,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-3366885080,53.0562262,8.8819873,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-256353367,53.0987261,8.8623127,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-256353369,53.0987039,8.8625497,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-256353370,53.0986574,8.8625423,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-256353371,53.0986362,8.8628055,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-256353373,53.0984202,8.8633675,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-256353374,53.0982201,8.8638051,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-256353375,53.0980308,8.8641921,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-256353376,53.0978478,8.8641628,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-256353377,53.0978975,8.8636743,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-256353378,53.0980545,8.8621638,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-1324628290,53.0983738,8.8634679,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-1815334020,53.0983594,8.8622305,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-1815334032,53.0985829,8.8622822,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-459787084,53.1285091,8.8956823,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-1823176483,53.1289645,8.8961351,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-1823176485,53.1289954,8.8960505,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-5897067988,53.1291384,8.8958009,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-5897067989,53.1286114,8.8952872,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-5897067990,53.1290361,8.8960924,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-412723734,53.0785337,8.9405428,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-412723738,53.0783696,8.9399192,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-412723740,53.0781383,8.9400948,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-412723742,53.0780315,8.9396672,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-2121501669,53.0787029,8.9394722,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-2200729474,53.0785523,8.9406193,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-2200729481,53.078645,8.9406334,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-2521748853,53.0780041,8.9395417,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-2521748871,53.0785932,8.9391949,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-2521748876,53.0786841,8.9406259,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-2521748878,53.0786913,8.9397008,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-2521748881,53.0787183,8.9397969,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-2521748882,53.0787233,8.9396933,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-1190092323,53.4950557,8.5836485,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-1190092394,53.4950446,8.5831655,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-1190092471,53.4952354,8.5828419,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-1190092592,53.4949847,8.5837745,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-1190092639,53.4949634,8.5835015,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-1190092643,53.495398,8.5831128,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-1190092690,53.4952073,8.5834364,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-1190092841,53.4948826,8.5836119,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-1917506973,53.4960919,8.5831736,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-1917507012,53.4961499,8.5830288,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-1917507013,53.496009,8.5831093,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-1917507015,53.4967531,8.5844051,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-1917507016,53.4968706,8.5837745,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-1917507017,53.4966516,8.5849925,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-2027150819,53.4949276,8.5835319,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-2027150820,53.4949374,8.5835476,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-2097792737,53.4958828,8.5837268,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-2097792739,53.4957917,8.583575,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-5561598539,53.4968518,8.5837551,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-1917507003,53.4958053,8.5855246,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-1917507008,53.4945673,8.5859056,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-2084581018,53.4966985,8.5852705,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-4034283308,53.4952358,8.5857134,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-4285859822,53.4966899,8.5852213,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-4402088178,53.5412032,8.5845276,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-4402088179,53.5411876,8.5845888,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-4402088180,53.54115,8.5845618,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-4402088181,53.5411655,8.5845006,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-1213522935,53.5483015,8.6141077,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-1213522947,53.5478425,8.6143438,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-1213522953,53.5486423,8.613902,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-8617744173,53.5495898,8.6169365,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-441947003,53.5474522,8.6180979,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-441947004,53.547521,8.6186356,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-441947005,53.5476075,8.6188016,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-441947007,53.547739,8.6189161,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-441947008,53.5489901,8.6189983,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-3411041189,53.5474689,8.6183895,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-8617744172,53.5500779,8.6186225,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
-8617744189,53.5492539,8.6186886,recycling centres,Bremen,no,no,no,no,no,no,no,no,no,no
+clothes,id,lat,lon,shoes,cans,waste,cars,oil,trade,beverage_cartons,stones,coat_of_arms,flag,nickname,nickname:ar,nickname:cs,nickname:de,nickname:en,nickname:eo,nickname:fr,nickname:fy,nickname:hsb,nickname:hu,nickname:la,nickname:nds,nickname:pl,nickname:ru,official_name:eo,official_name:fr,official_name:fy,official_name:hsb,official_name:hu,official_name:la,official_name:nds,official_name:pl,official_name:ru,ref:nuts:2,land_area,direction_southeast,support,foot,maxwidth,motorcar,motorcycle,entrance,glass_related_recycling,electrical_related_recycling,metal_related_recycling,packaging_wastes,paper_wastes,plastic_wastes,organic_wastes,construction_wastes
+yes,167062792,53.0443564,8.9009431,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,yes,,,,,,
+yes,167144394,53.0536403,8.9077773,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+yes,171358745,53.0715029,8.8836816,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,yes,,,,,,
+yes,171358804,53.0664785,8.8800682,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+,171366630,53.0726044,8.8728665,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+,172128252,53.0727109,8.8793381,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+yes,173540466,53.1442967,8.7125002,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+yes,173540477,53.1497081,8.7102948,yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,yes,,,,,,
+yes,173608385,53.154561,8.7178289,yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+yes,175673449,53.0340355,8.9444688,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+yes,197765920,53.066646,8.8720806,yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+no,199269572,53.0786784,8.9054991,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,yes,,yes,yes,,,
+no,199269645,53.0739701,8.904678,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+,199269690,53.0788495,8.8840694,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,yes,,,
+,199269738,53.0771153,8.8864842,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+yes,199281090,53.0761795,8.8923141,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+yes,206349295,53.1439012,8.7164058,yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+yes,206349312,53.1516091,8.7170729,yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+,206368049,53.139867,8.7252989,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+yes,238224188,53.0581868,8.9428138,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+yes,239735147,53.0450871,8.9152495,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+yes,239735205,53.061562,8.94233,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+,239735275,53.0826333,8.914538,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+,239735331,53.0711873,8.9494225,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+yes,242273822,53.0809277,8.8568628,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+yes,242273974,53.0984393,8.8405032,yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+yes,243752052,53.0835765,8.8601401,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+yes,250387055,53.0412284,8.9313812,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,no,,,
+,251049179,53.0816654,8.8099355,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+yes,251983029,53.0390719,8.9579035,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+,252634113,53.0589866,8.9348684,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+yes,252634378,53.065128,8.932404,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+yes,253617328,53.1581132,8.7048827,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+no,253631710,53.1714688,8.6679868,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+,253746867,53.0747103,8.9258849,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,yes,,,
+yes,255350230,53.0678481,8.9465874,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+yes,255350237,53.0619139,8.9552975,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+yes,255350238,53.0615582,8.9615654,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+yes,255350245,53.0655211,8.9624681,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+yes,255350258,53.0755588,8.9552995,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+yes,255350260,53.0757549,8.9462527,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+yes,279479814,53.0617907,8.8704938,yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+yes,283453311,53.1564093,8.7024244,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+yes,287052851,53.0915239,8.8991813,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+yes,287052915,53.0934527,8.9041359,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+yes,290738398,53.1777522,8.6902599,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+yes,290738505,53.1793508,8.6914708,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+yes,290738621,53.1775848,8.6854831,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+,291017017,53.0768103,8.8379822,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+,292381743,53.1709303,8.6889833,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,yes,,,,,,
+,292841355,53.1819049,8.6951966,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+yes,292951778,53.0684849,8.8330956,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,yes,,,,,,
+yes,294136928,53.1757938,8.6974,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+yes,294614439,53.1035332,8.7867798,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,yes,,,,,,
+yes,295080732,53.1686265,8.6969185,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+yes,295264646,53.1033229,8.8394734,yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,no,,,,,,
+,295933636,53.1900465,8.6313132,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+yes,296077927,53.1712022,8.7033395,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,no,,,,no,,,
+,297316159,53.1131335,8.7820212,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+yes,298165560,53.170669,8.7070721,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+yes,300839919,53.0997278,8.8206792,yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+yes,300964241,53.183909,8.6253514,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+,302697696,53.5491175,8.5789121,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+yes,303812815,53.1013929,8.9163915,yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+yes,315485472,53.0782887,8.8227468,,no,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,yes,,,no,,,
+,329213575,53.1776995,8.6019592,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+,333250201,53.0783937,8.9079371,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,yes,yes,,,
+yes,336295668,53.0353203,8.8287944,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+yes,336295671,53.0335805,8.8290151,,yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+yes,336295674,53.0388209,8.8253333,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+yes,341176380,53.1762178,8.6890212,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+yes,355845662,53.0615449,8.9514095,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,no,,,,,,,
+yes,355897473,53.0638802,8.9496566,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,356883413,53.0775296,8.9200447,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,yes,,,
+yes,361114700,53.0903829,8.7979779,yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+yes,361559320,53.0680793,8.9458155,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,384913476,53.1258807,8.982771,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+,390449404,53.0747536,8.9198392,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,yes,,,
+,393326238,53.0849605,8.8951714,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,yes,,,
+,393340205,53.0861814,8.895165,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,yes,yes,,,
+,393340214,53.0861101,8.8929742,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,no,,yes,yes,,,
+,393340227,53.0862828,8.8917382,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,yes,yes,,,
+,393341463,53.086172,8.8854468,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,yes,yes,,,
+,393341580,53.0860534,8.8818849,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,yes,yes,,,
+,393341889,53.0859915,8.8805545,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,yes,yes,,,
+,393367154,53.083752,8.8629437,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,yes,,
+,393377017,53.0834397,8.880966,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+yes,394824469,53.0812121,8.7631882,yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,yes,,,,,,
+,409788076,53.076249,8.9181912,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,yes,,,
+yes,411571135,53.0673705,8.9340075,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,412291685,53.0738621,8.9535921,,yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,
+,412291805,53.0778011,8.9279286,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+yes,412299675,53.0700879,8.7970056,yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,yes,,,,,,
+,412990252,53.0761937,8.9056852,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,
+yes,416056484,53.064796,8.8791529,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+yes,416128750,53.0488974,8.8483001,yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,416859941,53.0763542,8.9036851,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,yes,yes,,
+,421394428,53.0458904,8.8464992,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,yes,,,
+yes,421624943,53.0376273,8.8128605,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,no,,,,,
+yes,421624950,53.0386037,8.8181878,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,no,,no,,,,,
+yes,421624953,53.0382931,8.819245,yes,yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,no,,yes,,yes,yes,,
+yes,421624956,53.0378031,8.820657,yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,no,,no,,,,,
+,423987179,53.0770104,8.917762,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,yes,,,
+,424203321,53.0762482,8.8992099,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,yes,,,
+yes,428109625,53.0387961,8.945003,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+,428116377,53.0756821,8.8432694,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+yes,429642847,53.1045977,8.8992675,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+,429649470,53.1271141,8.9068388,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,yes,,
+yes,429653320,53.1113753,8.9018989,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,yes,,,,,,
+yes,443258263,53.0385434,8.9336397,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+yes,445806935,53.0360794,8.8279569,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,yes,,,,,,
+yes,463839227,53.0575557,8.8078796,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+yes,463935155,53.0569084,8.8001273,yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,yes,,,,,,
+yes,474637553,53.1910024,8.550045,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+yes,476456132,53.0765215,8.7771019,yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+yes,476869174,53.0965147,8.8714905,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,486137160,53.065773,8.8451901,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+yes,486137262,53.0630852,8.850492,yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+yes,494948655,53.0721174,8.810202,yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,yes,,,,,,
+,508578273,53.0954009,8.8091525,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+yes,528990309,53.1841768,8.6120552,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,yes,,,,,,
+,537030462,53.0803668,8.770102,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+yes,540400886,53.2065578,8.5356448,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+yes,552915746,53.2087221,8.523155,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+yes,559888950,53.5364059,8.5952753,yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,yes,,,,,,
+yes,560245546,53.538582,8.5895115,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+yes,599847781,53.1043827,8.8651503,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+yes,599917944,53.1643239,8.650456,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,yes,,,,,,
+yes,602574739,53.1772095,8.6189992,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+yes,609047140,53.0955699,8.8217084,yes,no,no,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,no,no,no,no,,no,
+yes,609047143,53.0968956,8.8171979,yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+yes,614741343,53.1922235,8.5579825,yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+,654222907,53.0759852,8.7786244,,,,yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,660599070,53.0490712,8.7453422,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,664041906,53.0745297,8.830126,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+yes,670706484,53.1105276,8.8859394,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+,674682814,53.0962409,8.769579,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+yes,685989633,53.1257741,8.7415442,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+,693353071,53.1208596,8.9006267,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,yes,,,,,,
+yes,706411091,53.0350004,8.8514124,yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+yes,708091704,53.1695855,8.6406484,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+yes,726561249,53.0469679,8.7299277,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+yes,726561275,53.0477097,8.7356103,yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+yes,726561288,53.0462149,8.7238976,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+yes,757090465,53.0396087,8.8159538,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+yes,803497273,53.05954,8.800375,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,yes,,,,,,
+yes,813612954,53.0794929,8.7117534,yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+yes,852843348,53.10309,8.82045,yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,yes,,,,,,
+,864610368,53.1031734,8.8506406,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+yes,886067150,53.0428216,8.8172884,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+,913845367,53.5388816,8.6139694,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+,913845372,53.541616,8.5844261,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+yes,939811194,53.0905359,8.7854029,yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+,969075452,53.0712636,8.8287003,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+yes,973634709,53.53427,8.5909153,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,yes,,,,,,
+yes,1037512006,53.5309235,8.6325245,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+yes,1070968546,53.147476,8.7119889,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+yes,1077141814,53.1161021,8.8995104,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+yes,1104921811,53.0714683,8.8557627,yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+yes,1163811923,53.0907249,8.7511747,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+yes,1184659654,53.0799283,8.8271285,yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+yes,1210918270,53.1712769,8.627391,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+,1236653908,53.5446199,8.5801997,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+yes,1277298940,53.1238446,8.8992502,yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,yes,,,,,,
+yes,1326258457,53.0952551,8.896983,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+yes,1368104354,53.5276416,8.6338698,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+yes,1379857555,53.078732,8.9398767,yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+no,1392942234,53.1747748,8.6368502,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+yes,1445536797,53.0690354,8.8666573,yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,yes,,,,,,
+yes,1453048977,53.1098967,8.8826494,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+yes,1453055676,53.1005035,8.8843259,yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+yes,1586793583,53.2015261,8.5775147,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+yes,1600179150,53.1806173,8.6371567,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+yes,1601738672,53.0832129,8.8177967,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+yes,1609520917,53.1900197,8.6313561,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+yes,1614531347,53.0747369,8.8687183,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,yes,,,,,,
+yes,1787991321,53.0403626,8.7367283,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+yes,1811953236,53.1046791,8.8671349,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+yes,1824963567,53.1014209,8.8644966,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+,1861376938,53.0850886,8.8926713,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+yes,1873902908,53.096906,8.8815972,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+yes,1894387938,53.1099972,8.8920251,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,yes,,,,,,
+,1912768090,53.1755122,8.7232686,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+yes,1918242010,53.1734611,8.719593,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+,1936105903,53.096459,8.8716182,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+,1936105905,53.0965168,8.8716225,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,
+yes,1944565034,53.5982679,8.5329672,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+yes,1945172858,53.0941875,8.797183,yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+yes,1952449841,53.0920754,8.8118594,yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,yes,,,,,,
+yes,1964258287,53.070335,8.7821917,yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+,1988297914,53.1003781,8.8853995,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,
+,1988297916,53.1067894,8.8521065,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,
+yes,2004616410,53.1051293,8.7955031,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+yes,2120735339,53.1085607,8.7797428,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+yes,2140809623,53.0877366,8.8058996,yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,yes,,,,,,
+yes,2149778014,53.0882117,8.7874558,yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+yes,2179117286,53.1338249,8.7240252,yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+yes,2190138412,53.0897819,8.856561,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+,2192182593,53.1687955,8.647464,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+yes,2255965331,53.0376419,8.9235806,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+yes,2277886132,53.0572633,8.935831,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+yes,2300036967,53.1786241,8.6053844,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+yes,2318208847,53.087511,8.8279312,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,yes,,,,,,
+,2318930086,53.1085672,8.716817,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+yes,2323130577,53.0995605,8.8806365,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+yes,2344540314,53.0929429,8.8176664,yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+yes,2347357019,53.0825984,8.8699499,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+yes,2369925708,53.063307,8.7707733,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+yes,2375149273,53.5515012,8.576362,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+yes,2381411933,53.549227,8.5726913,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,2390852839,53.109497,8.8505111,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+,2390852845,53.1096885,8.8502879,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,
+yes,2414452875,53.1859087,8.6170811,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+yes,2414452911,53.1848431,8.6014144,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,yes,,,
+yes,2436440431,53.1780895,8.5981992,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+yes,2446628036,53.1853401,8.5556656,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+yes,2446628382,53.1907662,8.5429717,yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+,2461085999,53.0850188,8.7956885,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+yes,2466679025,53.1757687,8.6566211,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+yes,2468767029,53.0364256,8.8416876,yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,yes,,,,,,
+,2519570423,53.5455284,8.5706503,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+,2523643224,53.1348456,8.7306617,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+yes,2543561032,53.0589029,8.9305385,yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+yes,2581346716,53.0628845,8.8992495,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+yes,2602125679,53.06128,8.805991,yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+yes,2611126072,53.5551922,8.5713291,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,yes,,,,,,
+yes,2637341403,53.1426468,8.7204871,yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+yes,2664307373,53.1065193,8.8662565,yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+yes,2671242735,53.5478327,8.5777058,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+yes,2673139474,53.5409796,8.5852012,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+yes,2674932171,53.5533,8.5784837,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+yes,2674932223,53.5576896,8.5711901,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+,2678502182,53.5587488,8.5795193,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+yes,2690688192,53.1750765,8.6758156,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+yes,2690688997,53.1898749,8.5666507,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+,2692804316,53.5601345,8.5775313,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+,2752866388,53.1218313,8.6668901,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+yes,2778672445,53.1939265,8.5658437,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+,2868784767,53.5346232,8.5846004,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+yes,2884196578,53.5310288,8.5995927,yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,2918334874,53.5661244,8.581894,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+,2924610413,53.5769636,8.583988,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+yes,2926374932,53.0536515,8.8511628,yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+yes,2928120483,53.5548125,8.5973401,yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,yes,,,,,,
+yes,2928805808,53.5307241,8.5870313,yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+yes,2986260427,53.0569335,8.8921541,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+yes,3056172046,53.0300504,8.8212471,yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,yes,,,,,,
+yes,3056172049,53.031179,8.8138226,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+yes,3056172062,53.0331677,8.82363,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+yes,3056172066,53.0346394,8.8464995,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+yes,3056172087,53.0398744,8.821244,yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+yes,3056172091,53.0399857,8.7321194,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,yes,,,,,
+,3056172097,53.0411393,8.7194202,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+yes,3056172098,53.0424377,8.8227589,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,yes,,,,,,
+,3056172099,53.0436104,8.7224681,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+yes,3056172357,53.0462761,8.7176153,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+yes,3056172377,53.0472987,8.7163936,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+yes,3056172551,53.0537945,8.7195422,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+,3056172581,53.0549953,8.7310474,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+yes,3056172582,53.0551033,8.7359773,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+yes,3056172583,53.05964,8.7615995,yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,yes,,,,,,
+,3056172584,53.1075925,8.7986991,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+,3056172585,53.1085346,8.751318,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+yes,3056172586,53.1095269,8.7628581,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+,3056172593,53.1249318,8.7498954,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+yes,3056172594,53.1344475,8.7188274,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+,3056172668,53.1734559,8.7036843,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,no,,,
+yes,3056172674,53.1797528,8.7249335,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+yes,3058217082,53.1630863,8.6427104,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+yes,3058217093,53.1670743,8.6612033,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+yes,3058217125,53.1679927,8.6939827,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+no,3058217269,53.1686684,8.6575922,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+yes,3058217472,53.1713361,8.6533131,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+,3058217508,53.1736692,8.6269904,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+yes,3058217517,53.1748732,8.6464291,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+yes,3058217518,53.1769648,8.6474336,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+yes,3058217519,53.1803321,8.5943217,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+,3058217522,53.1811552,8.605663,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+yes,3058217523,53.1818277,8.6004105,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+yes,3058217549,53.1835759,8.5791359,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+yes,3058217570,53.1840945,8.6022931,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+yes,3058217574,53.1841451,8.5635746,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+yes,3058217602,53.184996,8.5696076,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+yes,3058217642,53.1868439,8.5623617,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+yes,3058217643,53.1873186,8.5707002,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+yes,3058217673,53.1895334,8.6351517,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+yes,3058217674,53.1900396,8.5607184,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+yes,3058217675,53.190144,8.5749868,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+yes,3058217676,53.1916442,8.5728298,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+,3058217679,53.1927759,8.5715227,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+yes,3058217682,53.1928873,8.5510312,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+yes,3058217696,53.1942633,8.5359944,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+,3058217697,53.1943186,8.5406672,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+yes,3058217698,53.1945063,8.5713167,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+yes,3058217745,53.1958096,8.5460104,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+yes,3058217760,53.1973201,8.5751573,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+yes,3058217765,53.1981487,8.5304102,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+yes,3058217768,53.1991061,8.5539528,yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,yes,,,,,,
+yes,3058217777,53.1995969,8.5384957,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+yes,3058217779,53.1996283,8.5282075,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+yes,3058217785,53.2012331,8.564651,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+yes,3058217817,53.2025628,8.5701847,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+yes,3058217873,53.2055454,8.5164197,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+yes,3058217907,53.2074409,8.5759927,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+yes,3058217908,53.2074537,8.513572,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+yes,3058217915,53.2085048,8.5788438,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+yes,3058217926,53.2111803,8.5770782,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+yes,3058218100,53.2130382,8.5112142,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+yes,3058218243,53.2226206,8.508276,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+yes,3058218244,53.2244628,8.5093879,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+yes,3060088334,53.0975,8.8998629,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+yes,3060088338,53.0978487,8.8826938,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,yes,,,
+yes,3060088380,53.1072226,8.9068249,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+yes,3063163397,53.0719007,8.9324303,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+yes,3063163398,53.073773,8.9421916,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+,3063163966,53.0913112,8.8540527,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+yes,3065261099,53.0405315,8.9044546,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+yes,3071128292,53.0680636,8.946192,yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+yes,3071128298,53.068887,8.9606969,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+yes,3071128366,53.079645,8.8615945,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,yes,,,,,,
+yes,3122524055,53.5337836,8.5879276,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+yes,3136952880,53.1756482,8.7176919,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+yes,3149432643,53.5332633,8.6008423,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+yes,3218889245,53.5298309,8.6380984,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+,3264532361,53.5728086,8.5983102,,,,,yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+yes,3278593219,53.0963282,8.8089031,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+yes,3364588759,53.5946814,8.5810468,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,3366537979,53.5684752,8.5621902,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+,3386191479,53.5662835,8.5874569,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+yes,3471725447,53.4916832,8.5990059,,no,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,yes,no,,
+,3618551782,53.1818982,8.6951912,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+,3622565572,53.0589049,8.8270203,,yes,yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,yes,yes,,,
+,3622568794,53.0593068,8.8251192,,yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,yes,,
+,3622568877,53.0597707,8.8224501,,yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,yes,,
+,3681463993,53.1063765,8.8528997,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,yes,,,
+yes,3844723890,53.5593408,8.5652231,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+yes,4162208565,53.0939514,8.7911757,yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+yes,4268585630,53.5906683,8.6274467,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+,4307044542,53.5318585,8.6038024,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+yes,4314574340,53.5797081,8.5962826,yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+,4358699731,53.1758437,8.6796313,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+yes,4440544096,53.1799117,8.5674074,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,yes,,,
+yes,4577505126,53.1947923,8.5532815,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,yes,yes,,yes,yes,yes,
+yes,4711874046,53.5590061,8.590129,yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,yes,,,,,,
+yes,4715194840,53.5665437,8.5987901,yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+yes,4807385218,53.0955397,8.7710525,yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+,5062791121,53.0543764,8.8819312,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,5257713082,53.5075285,8.60145,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+yes,5727666601,53.5594112,8.5659616,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+yes,5727666602,53.5594112,8.5659345,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+yes,5727666603,53.5594061,8.5659032,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+yes,6028186929,53.2055103,8.5199442,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+yes,6402240132,53.5286672,8.6201667,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+yes,6487651233,53.0305464,8.8536394,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,yes,,,,,,
+yes,6598467835,53.0663634,8.8582648,yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+yes,6633188564,53.0728266,8.8296787,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+yes,6797786926,53.5756668,8.5916269,yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+yes,6887031256,53.0594949,8.8876586,yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,yes,,,,,,
+yes,7512214493,53.0651934,8.7792248,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+yes,7684078711,53.5584073,8.6060929,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,7728268976,53.1048899,8.859299,,,yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,yes,,,
+,7746801486,53.0615991,8.8504114,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+,7750461171,53.0765954,8.9439889,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+yes,7784985811,53.0812703,8.8719148,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+yes,8251097205,53.0484512,8.7390993,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+yes,8497370685,53.0702293,8.8522943,yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+,8513004987,53.062743,8.7813458,,,,,,building_supplies,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,
+yes,8565690466,53.082195,8.7575471,yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,yes,,,,,,
+yes,8938960452,53.2018402,8.5605732,yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+yes,9051600302,53.0917126,8.8457722,yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,yes,,,,,,
+,9084524150,53.1003569,8.7627675,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+yes,9105265043,53.1556889,8.7031115,yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+yes,9105275081,53.134743,8.7409962,yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,9105320434,53.1153375,8.7723662,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+,9132199758,53.5301635,8.5920459,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+,9210087620,53.0981069,8.7631788,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+,9244402895,53.5618181,8.5807306,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+yes,9246812406,53.1204748,8.8993783,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+yes,9442538062,53.0838828,8.7980445,yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+yes,9445575111,53.1947674,8.5522143,yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,9520585078,53.1817472,8.6308799,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,
+,9520585079,53.1817327,8.6309275,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,
+,9520585080,53.1816009,8.6308464,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,
+,9520585081,53.1815398,8.6309899,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,
+,9520585082,53.1815221,8.6310435,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,
+,9520585083,53.1815587,8.6309429,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,
+,9520585088,53.1817166,8.6306258,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,
+yes,9520585089,53.1817864,8.630669,yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+yes,9520585090,53.181796,8.6306791,yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+yes,9520585091,53.1818073,8.6306905,yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+yes,9520585092,53.1818179,8.6307002,yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+yes,9520585093,53.1818083,8.6309419,yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,9520585097,53.1818569,8.6307408,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+,9520585098,53.1818507,8.6307619,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+,9520585099,53.1818428,8.6307833,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+,9520585100,53.1818195,8.6307615,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+,9520585101,53.1818273,8.6307391,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+,9520585102,53.1818348,8.6307176,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+,9520585105,53.1815768,8.630894,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+yes,9528394430,53.525495,8.5946335,yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+yes,9528394431,53.5253576,8.5946523,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+yes,9556361427,53.1562051,8.7055942,yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+yes,9721530501,53.5777719,8.5878378,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+yes,9721530502,53.582202,8.590107,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+yes,9721530505,53.5705811,8.6123371,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+yes,9721606870,53.5315973,8.6141288,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,yes,,,,,,
+,9762117747,53.1310331,8.7293492,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+yes,9826159712,53.1837433,8.5754862,yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+yes,9854271887,53.5036832,8.6095034,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,yes,,,,,,
+,9864454479,53.5285786,8.6006396,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+yes,9864481000,53.5254869,8.6013591,yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,
+yes,9932325029,53.2131865,8.5823666,yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+yes,10117363916,53.170341,8.6279932,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,10128983022,53.1624981,8.6391082,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+,10220274440,53.5598165,8.5655659,,,yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,yes,yes,,,
+,10266410943,53.587087,8.6203744,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+yes,10266410947,53.5882616,8.6111006,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+yes,10266410950,53.5959377,8.6249167,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+yes,10266410951,53.6003675,8.6361189,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+yes,10266410952,53.601808,8.6213668,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+yes,10827440725,53.0917376,8.8572469,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,no,,,
+,10834426517,53.5231126,8.5958134,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+yes,10834426518,53.5231474,8.5958139,yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,
+yes,10917021225,53.5908726,8.6197406,yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+yes,10917021226,53.5908682,8.619727,yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+yes,10917021227,53.5908634,8.6197129,yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+yes,11049206181,53.1781109,8.6159018,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,,,,,,,
+yes,11049214879,53.1822517,8.608812,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+yes,11079019316,53.5333395,8.59728,yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,2045404681,53.0523181,8.735197,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,2521748698,53.0522972,8.7356947,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,2521748727,53.0530351,8.735311,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,2045404679,53.0522087,8.7369683,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,2521748696,53.0521271,8.7377182,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,2521748697,53.0522296,8.7366994,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,2521748699,53.0523166,8.7377709,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,2521748701,53.0523542,8.7377633,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,2521748702,53.0523786,8.7377368,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,2521748704,53.052394,8.737699,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,2521748705,53.0523985,8.7376801,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,2521748707,53.0524315,8.7376878,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,2521748709,53.0524565,8.7377737,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,2521748710,53.0524668,8.7376961,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,2521748717,53.0525998,8.7378163,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,2076191349,53.0627085,8.744412,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,2076191355,53.0627747,8.745146,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,2076191360,53.0628121,8.7451356,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,2076191374,53.062892,8.7459137,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,2076191378,53.0629362,8.7459056,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,2076191384,53.063001,8.7467849,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,2076191385,53.0630136,8.7469321,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,2076191386,53.0630741,8.747458,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,2076191390,53.0631406,8.7473605,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,2076191391,53.0631455,8.7467446,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,2076191393,53.063154,8.7468924,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,2076191397,53.06317,8.747171,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,2076191400,53.063211,8.7465943,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,2521748802,53.0629458,8.7471151,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,2521748808,53.0629784,8.7475074,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,2521748818,53.0630055,8.7470784,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,2521748824,53.0630216,8.7443398,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,2521748825,53.0630257,8.7470341,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,2521748843,53.0631203,8.7455485,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,2521748850,53.0631993,8.7464655,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,4004975956,53.0631526,8.7468675,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,9690704669,53.0521582,8.7908412,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,9690704670,53.0520876,8.7907043,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,9690704671,53.0520607,8.7907428,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,9690704672,53.0521313,8.7908797,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,2102904544,53.0737443,8.7863547,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,2102904551,53.0741575,8.7867008,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,2102904552,53.0741738,8.7868093,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,3238735778,53.0733028,8.786645,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,3238735779,53.0733838,8.7864313,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,3238735783,53.0735003,8.7861886,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,3299599897,53.0735188,8.7861798,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,7596159528,53.0732838,8.7867975,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,7596159529,53.0738131,8.7874874,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,9212478952,53.073625,8.7862356,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,9212478953,53.073473,8.7870317,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,9212478954,53.0733036,8.7868059,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,1089241455,53.1019312,8.8028955,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,1089241456,53.1015201,8.8028816,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,1089241458,53.1016795,8.8030815,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,1089241460,53.1017998,8.8021568,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,1907220769,53.1015165,8.8028449,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,1907220837,53.1017059,8.8030828,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,1907220843,53.1017245,8.8023394,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,1907220848,53.1017716,8.8022221,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,1907220875,53.1018815,8.8025635,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,1907362273,53.101583,8.8029515,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,1907362277,53.1017093,8.8023734,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,2521748888,53.1184236,8.8051016,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,2521748891,53.118726,8.8052418,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,2521748895,53.1188586,8.80498,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,2521748902,53.119015,8.8021126,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,2521748903,53.1190253,8.8042254,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,2521748904,53.1190378,8.8020518,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,2521748908,53.1190711,8.8020357,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,2521748909,53.1190727,8.8039315,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,2521748930,53.1197942,8.802646,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,2521748931,53.1198358,8.8024177,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,9399880778,53.1190545,8.8020437,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Zum Aussichtspunkt,fence,,,,,,,,,,,,,
+,2157910614,53.1320407,8.7347601,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,2395682088,53.1318184,8.7347398,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,2395682093,53.1318058,8.7342548,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,2395682102,53.1318974,8.7349144,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,2395682104,53.1316589,8.7344444,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,2395682106,53.1317693,8.7347463,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,2395682560,53.1319296,8.734492,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,2723838695,53.131904,8.7344402,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,297439821,53.1658459,8.7074432,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,2102904559,53.1658681,8.7079793,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,4814056146,53.1635383,8.7050636,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,4814056147,53.1631427,8.7050797,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,4814056148,53.1630092,8.7056483,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,4814056149,53.1631057,8.7058361,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,4814056150,53.1633196,8.7060346,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,297439822,53.1664958,8.7073544,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,297439823,53.166645,8.7076555,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,2102904560,53.1663628,8.7079427,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,2102904561,53.166417,8.7079196,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,2102904562,53.1664637,8.7078628,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,2102904564,53.1665122,8.7077682,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,2102904565,53.1665563,8.7076904,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,2102904567,53.1665956,8.7076592,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,2521748939,53.1816273,8.6305052,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,2521748940,53.1818795,8.630743,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,9520585086,53.1817825,8.630654,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,9520585087,53.1816685,8.6305437,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,9520585094,53.1817918,8.6309943,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,9520585095,53.1818248,8.6308977,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,9520585096,53.1818566,8.6308061,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,9520585127,53.1814528,8.6310188,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,9520585129,53.1814472,8.6310133,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,282825243,53.1815427,8.6311135,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,300911826,53.1816897,8.6312741,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,416128780,53.0497653,8.8438606,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,416128781,53.0495064,8.8438289,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,416128783,53.0493366,8.8438241,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,416128784,53.0493332,8.8442099,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,416128785,53.0494002,8.8442711,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,416128786,53.0497628,8.8442674,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,1342580503,53.0497642,8.8440913,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,2802008589,53.0493647,8.8442385,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,yes,4,yes,yes,,,,,,,,,
+,1375971984,53.0740349,8.8589038,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,1375971987,53.0737358,8.857613,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,2102904522,53.073447,8.8586214,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,2102904527,53.0734739,8.8582476,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,2102904531,53.0735222,8.8582823,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,2102904532,53.0735324,8.8587782,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,2102904535,53.0735538,8.8586882,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,2102904540,53.0736393,8.8575119,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,2102904543,53.0736967,8.8575875,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,2102904549,53.0739973,8.8590627,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,2102904553,53.0742397,8.8579427,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,2102904554,53.074242,8.8580299,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,4358911349,53.0741897,8.8582507,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,2120284487,53.0564686,8.8844192,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,2120284489,53.056529,8.884454,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,2120284492,53.0567018,8.8843598,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,2120284493,53.0567077,8.8847206,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,2120284495,53.0568295,8.8850214,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,2120284511,53.0572911,8.8846819,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,2120284522,53.0574402,8.88456,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,2120284533,53.0575809,8.8844004,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,2521748728,53.0554292,8.8814326,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,2521748729,53.0558069,8.8822242,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,2521748730,53.0559387,8.8807528,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,2521748731,53.0563108,8.8815173,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,2521748733,53.0563753,8.8841712,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,2521748736,53.0564658,8.8840848,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,2521748738,53.0564814,8.8844501,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,2521748739,53.0564969,8.8840646,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,2521748741,53.0565761,8.8840349,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,2521748743,53.056626,8.8810886,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,2521748745,53.0566353,8.8839712,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,2521748747,53.0566702,8.8817364,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,2521748748,53.0566909,8.8838988,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,2521748749,53.0566939,8.8849669,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,2521748750,53.0567124,8.8838735,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,2521748753,53.0567548,8.8813717,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,2521748754,53.0567633,8.88385,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,2521748755,53.056768,8.8849854,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,2521748757,53.0567865,8.8816532,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,2521748758,53.0567894,8.8814613,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,2521748760,53.056799,8.881538,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,2521748761,53.0568032,8.8849942,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,2521748762,53.0568577,8.8837496,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,2521748766,53.0569951,8.8836013,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,2521748768,53.0570444,8.8835376,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,2521748770,53.0570617,8.8834783,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,2521748771,53.0570732,8.8835027,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,2521748773,53.057161,8.8833807,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,2521748776,53.0573056,8.8836583,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,2521748779,53.0574332,8.8839804,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,2521748780,53.0575971,8.8843826,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,3274419406,53.0566953,8.8849425,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,3366885080,53.0562262,8.8819873,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,256353367,53.0987261,8.8623127,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,256353369,53.0987039,8.8625497,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,256353370,53.0986574,8.8625423,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,256353371,53.0986362,8.8628055,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,256353373,53.0984202,8.8633675,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,256353374,53.0982201,8.8638051,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,256353375,53.0980308,8.8641921,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,256353376,53.0978478,8.8641628,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,256353377,53.0978975,8.8636743,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,256353378,53.0980545,8.8621638,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,1324628290,53.0983738,8.8634679,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,1815334020,53.0983594,8.8622305,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,1815334032,53.0985829,8.8622822,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,459787084,53.1285091,8.8956823,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,1823176483,53.1289645,8.8961351,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,1823176485,53.1289954,8.8960505,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,5897067988,53.1291384,8.8958009,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,5897067989,53.1286114,8.8952872,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,5897067990,53.1290361,8.8960924,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,412723734,53.0785337,8.9405428,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,412723738,53.0783696,8.9399192,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,412723740,53.0781383,8.9400948,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,412723742,53.0780315,8.9396672,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,2121501669,53.0787029,8.9394722,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,2200729474,53.0785523,8.9406193,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,2200729481,53.078645,8.9406334,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,2521748853,53.0780041,8.9395417,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,2521748871,53.0785932,8.9391949,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,2521748876,53.0786841,8.9406259,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,2521748878,53.0786913,8.9397008,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,2521748881,53.0787183,8.9397969,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,2521748882,53.0787233,8.9396933,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,1190092323,53.4950557,8.5836485,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,1190092394,53.4950446,8.5831655,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,1190092471,53.4952354,8.5828419,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,1190092592,53.4949847,8.5837745,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,1190092639,53.4949634,8.5835015,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,1190092643,53.495398,8.5831128,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,1190092690,53.4952073,8.5834364,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,1190092841,53.4948826,8.5836119,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,1917506973,53.4960919,8.5831736,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,1917507012,53.4961499,8.5830288,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,1917507013,53.496009,8.5831093,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,1917507015,53.4967531,8.5844051,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,1917507016,53.4968706,8.5837745,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,1917507017,53.4966516,8.5849925,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,2027150819,53.4949276,8.5835319,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,2027150820,53.4949374,8.5835476,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,2097792737,53.4958828,8.5837268,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,2097792739,53.4957917,8.583575,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,5561598539,53.4968518,8.5837551,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,main,,,,,,,,
+,1917507003,53.4958053,8.5855246,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,1917507008,53.4945673,8.5859056,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,2084581018,53.4966985,8.5852705,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,4034283308,53.4952358,8.5857134,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,4285859822,53.4966899,8.5852213,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,4402088178,53.5412032,8.5845276,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,4402088179,53.5411876,8.5845888,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,4402088180,53.54115,8.5845618,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,4402088181,53.5411655,8.5845006,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,1213522935,53.5483015,8.6141077,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,1213522947,53.5478425,8.6143438,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,1213522953,53.5486423,8.613902,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,8617744173,53.5495898,8.6169365,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,441947003,53.5474522,8.6180979,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,441947004,53.547521,8.6186356,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,441947005,53.5476075,8.6188016,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,441947007,53.547739,8.6189161,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,441947008,53.5489901,8.6189983,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,3411041189,53.5474689,8.6183895,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,8617744172,53.5500779,8.6186225,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,8617744189,53.5492539,8.6186886,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
