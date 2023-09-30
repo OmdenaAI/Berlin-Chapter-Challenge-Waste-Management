@@ -39,4 +39,4 @@ This repository contains a machine learning model for classifying hazardous wast
 
 ## Contributors
 
-- Abhinash (GitHub: [github.com/abhinash123](https://github.com/abhinash-bhagat))
+- Abhinash (GitHub: (https://github.com/abhinash-bhagat))
