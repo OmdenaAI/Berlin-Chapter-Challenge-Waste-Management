@@ -4,8 +4,6 @@ Developed Maachine Learning model to forecast Waste Management by Year, State an
 
 We have implemented the following
 
-Implemented the Machine learning model using the Regression model and predicted the Waste by Year, State, and Waste Type
-
 - Developed Machine Learning model using RandomForestRegressor
 - Included Data Pipeline with Preprocessing, Cross Validation and Grid Search CVsteps.
 - Built Model file using pickle
