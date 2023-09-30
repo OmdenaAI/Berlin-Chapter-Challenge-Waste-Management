@@ -23,7 +23,7 @@ def load_model():
 
 def show_search_state_query():
     query_year = st.number_input("Enter Year  ",min_value=2022,max_value=2026,value=2022,step=1)
-    state = st.selectbox("Select City",(states()))
+    state = st.selectbox("Select the State",(states()))
 
     if query_year:
         df = predict_by_year_state(query_year,state)
