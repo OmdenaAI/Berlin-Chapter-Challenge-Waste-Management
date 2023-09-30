@@ -1,6 +1,6 @@
-Implemented the Machine learning model using the Regression model and predicted the Waste by Year, State, and Waste.
+Implemented the Machine learning model using the Regression model and predicted the Waste by Year, State, and Waste Type
 
-1. Use case -1 - How to test the model - Forecast Waste by Year and Waste
+1. Use case -1 - How to test the model - Forecast Waste by Year and Waste Type
 
 	model = pickle.load(open('wm-model.pkl','rb'))
 
