@@ -1,5 +1,5 @@
 
-Stream Cloud URL - https://app-wm.streamlit.app/
+Streamlit Cloud URL - https://app-wm.streamlit.app/
 # Streamlit Project with Machine Learning Models and AWS Docker Deployment
 
 Step 1- Open the project in Pycham or VS code

@@ -22,36 +22,29 @@ def load_model():
 
 def show_search_query():
     query = st.number_input("Enter Year  ",min_value=2022,max_value=2026,value=2022,step=1)
-    waste = st.selectbox("Select Waste Type",('Residual household and bulky wastes',
-       'Separately collected organic wastes',
-       'Separately collected recyclables'))
+    waste = st.selectbox("Select Waste Type",('Residual household and bulky wastes','Separately collected organic wastes',
+                                              'Separately collected recyclables','Other wastes'))
 
     if query:
-        df = predict(query,waste)
+        df = predict_by_year_waste_type(query,waste)
         df['Year'] = df['Year'].astype(int)
         st.write(df)
 
-def predict(year,waste):
+
+def predict_by_year_waste_type(year,waste):
 
     data = load_data()
     model = load_model()
-    states = data['States'].unique()
-
-    df_input = pd.DataFrame(states,columns=['States'])
-
+    uni_states = data['States'].unique()
+    df_input = pd.DataFrame(uni_states,columns=['States'])
     df_input['Year'] = year
-
     df_input['Types of Waste'] = waste
-
     output = model.predict(df_input)
-
     df_predicted = pd.DataFrame(output, columns=['Total Household Waste Generated (Tons)','Household Waste Generated per Inhabitant (kg)'])
+    df_final = pd.concat([df_input,df_predicted],axis=1)
+    df_final.index = df_final.index+1
 
-    df_final_bulk = pd.concat([df_input,df_predicted],axis=1)
-
-    df_final_bulk.index = df_final_bulk.index+1
-
-    return df_final_bulk
+    return df_final
 
 
 def main():
