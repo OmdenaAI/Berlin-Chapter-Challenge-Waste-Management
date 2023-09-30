@@ -25,10 +25,6 @@ This repository contains a machine learning model for classifying hazardous wast
 
     - Run the `Waste Classification.ipynb` script to train and tune the Random Forest Classifier. The best model will be serialized as `classification_model.pkl`.
 
-    ```bash
-    python train_model.py
-    ```
-
 
 ## Additional Information
 
