@@ -1,0 +1,21 @@
+id,state,station,group,centroid_lat,centroid_lon
+1855529176,Brandenburg,landfills,group_1,52.46753707,13.30183915
+26836010,Brandenburg,landfills,group_3,52.54748216,13.27311282
+9858712758,Brandenburg,landfills,group_7,52.48751115,13.49874736
+369767948,Brandenburg,landfills,group_13,52.56621462,13.54447136
+4034630336,Baden-Wurttemberg,landfills,group_1352,53.59505878,8.573143192
+9101309326,Saxony,waste disposal centres,group_2875,52.58559107,13.8962568
+6583548082,Saxony,waste disposal centres,group_2871,52.3624471,13.43824595
+9210234967,Mecklenburg-Vorpommern,waste disposal centres,group_2952,53.58712773,10.18134938
+5834240126,Rhineland-Palatinate,waste disposal centres,group_2443,49.79813668,9.91730815
+11012269872,Rhineland-Palatinate,waste disposal centres,group_2541,50.05978732,10.23357669
+560120785,Bavaria,recycling centres,group_46076,48.88551925,13.57699315
+10167467047,Thuringia,recycling centres,group_46064,50.3748256,11.92797482
+4683764312,North Rhine-Westphalia,recycling centres,group_46037,50.28993931,10.95239821
+4681820674,North Rhine-Westphalia,recycling centres,group_45989,50.10020437,9.283178789
+3802564303,North Rhine-Westphalia,recycling centres,group_28904,52.67044906,10.06876913
+3926061586,Baden-Wurttemberg,waste transfer stations,group_1,48.8167322,9.2195103
+8452544602,Baden-Wurttemberg,waste transfer stations,group_72,49.4303557,8.4606409
+8770166968,Baden-Wurttemberg,waste transfer stations,group_4,48.93045913,9.442221314
+5004420080,Baden-Wurttemberg,waste transfer stations,group_22,48.39761335,10.03736718
+145023131,Baden-Wurttemberg,waste transfer stations,group_72,49.4303557,8.4606409
