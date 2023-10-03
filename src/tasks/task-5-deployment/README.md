@@ -3,6 +3,8 @@
 This deployment folder contains two main components:
 
 - **home.py**: The primary Python code file for our Streamlit application.
+- **feedback.py**: The python file to be merged with **home.py** to display a contact/feedback form in the webapp.
+- **feedback.csv**: The file stores all the submissions from the users.
 - **Streamlit-vijaymamilla**: A sub-folder containing the Streamlit application for our waste management optimization project.
 
 ### Streamlit Application
