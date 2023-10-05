@@ -21,6 +21,7 @@ config = {
     'station_categories': ['waste disposal centres', 'waste transfer stations', 'landfills', 'recycling centres'],
 }
 
+
 def project_latlon_to_utm(row, utm_proj):
     """
         Function to convert latitude and longitude into x, y coordinates based on UTM projection
@@ -45,6 +46,7 @@ def convert_utm_to_latlon(row, utm_proj):
     y = row['y']
     lon, lat = utm_proj(x, y, inverse=True)
     return lat, lon
+
 
 def group_points_by_proximity(df_orig, threshold):
     """
@@ -131,7 +133,7 @@ def kmeans_clustering(df_subset, station, optimal_num_clusters):
 
     df_subset['x'] = df_subset.apply(lambda row : cluster_centers[row['cluster_ID']][0], axis=1)
     df_subset['y'] = df_subset.apply(lambda row : cluster_centers[row['cluster_ID']][1], axis=1)
-    df_subset[['cluster_lon', 'cluster_lat']] = df_subset.apply(lambda row: convert_utm_to_latlon(row, utm_proj), axis=1).tolist()
+    df_subset[['cluster_lat', 'cluster_lon']] = df_subset.apply(lambda row: convert_utm_to_latlon(row, utm_proj), axis=1).tolist()
     print(f" -- {station} | #Clusters: {optimal_num_clusters} --")
     return df_subset
 
@@ -147,8 +149,8 @@ def get_clusters_for_stations(df):
     transfer_centers = kmeans_clustering(transfer_centers, 'waste transfer stations', config['optimal_num_clusters']['waste transfer stations'])
     landfills = kmeans_clustering(landfills, 'landfills', config['optimal_num_clusters']['landfills'])
     recycle_centers = kmeans_clustering(recycle_centers, 'recycling centres', config['optimal_num_clusters']['recycling centres'])
-    cluster_centers = pd.concat([disposal_centers, transfer_centers, landfills, recycle_centers]).drop(['group', 'centroid_x', 'centroid_y', 'lat', 'lon', 'x', 'y'], axis=1)
-    cluster_centers = cluster_centers.rename(columns={'centroid_lat': 'lat', 'centroid_lon': 'lon'})[['id', 'state', 'station', 'lat', 'lon', 'cluster_lat', 'cluster_lon', 'cluster_ID']]
+    cluster_centers = pd.concat([disposal_centers, transfer_centers, landfills, recycle_centers]).drop(['group', 'centroid_x', 'centroid_y', 'x', 'y'], axis=1)
+    cluster_centers = cluster_centers[['id', 'state', 'station', 'lat', 'lon', 'cluster_lat', 'cluster_lon', 'cluster_ID']]
 
     cluster_centers.to_csv(config['directory_data'] + config['output_file_name'])
     return cluster_centers

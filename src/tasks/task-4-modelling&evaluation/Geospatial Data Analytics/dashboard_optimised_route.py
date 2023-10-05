@@ -4,64 +4,42 @@ import pandas as pd
 import numpy as np
 import pyproj
 import warnings
-
 warnings.filterwarnings('ignore')
+
 import folium
 import geopandas
 from shapely.geometry import Point
 from streamlit_folium import st_folium, folium_static
 from folium.plugins import MousePosition
-
+from haversine import haversine, Unit
 
 config = {
-    'directory_data': 'Geospatial Data Analytics/combinedfiles/',
-    'without_factors_geospatial_data_path': 'Geospatial Data Analytics/combinedfiles/complete_geospatialdata_withoutfactors.csv',
-    'clusters_path': '',
+    'directory_data': 'combinedfiles/',
+    'input_file_name': 'station_cluster_centers.csv',
+    'output_file_name': 'shortest_path.pkl',
+    'clusters_path': 'station_cluster_centers.csv',
     'threshold_in_meters': 500,
     'station_categories': ['waste disposal centres', 'waste transfer stations', 'landfills', 'recycling centres'],
-    'germany_map_center' : [51.1657, 10.4515],
-    'station2color_map': {'waste disposal centres': 'blue', 'waste transfer stations': 'black', 'landfills':'red', 'recycling centres':'green'}
+    'germany_map_center': [51.1657, 10.4515],
+    'station2color_map': {'waste disposal centres': 'lightblue', 'waste transfer stations': 'gray',
+                          'landfills': 'lightred', 'recycling centres': 'lightgreen'},
+    'cluster2color_map': {'waste disposal centres': 'darkblue', 'waste transfer stations': 'black',
+                          'landfills': 'red', 'recycling centres': 'darkgreen'}
 }
 
-def project_latlon_to_utm(row, utm_proj):
-    lat = row['lat']
-    lon = row['lon']
-    x, y = utm_proj(lon, lat)
-    return x, y
 
-def convert_utm_to_latlon(row, utm_proj):
-    x = row['x']
-    y = row['y']
-    lon, lat = utm_proj(x, y, inverse=True)
-    return lat, lon
-
-def group_points_by_proximity(df_orig, threshold):
-    df_orig = df_orig.copy(deep=True)
-    df_orig[['x', 'y']] = np.nan
-    utm_zone = '33'
-    utm_proj = pyproj.Proj(proj='utm', zone=utm_zone, ellps='WGS84')
-    print(len(df_orig))
-    df_orig[['x', 'y']] = df_orig.apply(lambda row: project_latlon_to_utm(row, utm_proj), axis=1).tolist()
-
-    final_df = pd.DataFrame()
-    for station in df_orig['station'].unique():
-        df = df_orig.loc[df_orig['station']==station]
-        lat_grid_cells = int((df['y'].max() - df['y'].min()) / threshold) + 1
-        lon_grid_cells = int((df['x'].max() - df['x'].min()) / threshold) + 1
-        df['lat_idx'] = ((df['y'] - df['y'].min()) / threshold).astype(int)
-        df['lon_idx'] = ((df['x'] - df['x'].min()) / threshold).astype(int)
-        df['group'] = df['lat_idx'] * lon_grid_cells + df['lon_idx']
-        df.drop(['lat_idx', 'lon_idx'], axis=1, inplace=True)
-        centroids = df.groupby(by = ['group']).mean()[['x', 'y']].reset_index()
-        centroids.rename(columns={'y': 'centroid_y', 'x': 'centroid_x'}, inplace=True)
-        df = pd.merge(df, centroids, on='group', how='left')
-        final_df = pd.concat([final_df, df])
-        print(f"Len === {len(final_df)}, {centroids['group'].nunique()}")
-    final_df[['centroid_lat', 'centroid_lon']] = final_df.apply(lambda row: convert_utm_to_latlon(row, utm_proj), axis=1).tolist()
-    return final_df
+def create_point_map(df):
+    df['coordinates'] = df[['lat', 'lon']].values.tolist()
+    df['coordinates'] = df['coordinates'].apply(Point)
+    df = geopandas.GeoDataFrame(df, geometry='coordinates')
+    df = df.dropna(subset=['lat', 'lon', 'coordinates'])
+    return df
 
 
 def initial_analysis(df):
+    """
+        Function to generate EDA chart
+    """
     states = df['state'].unique().tolist()
     st.subheader(f"Distribution of number of stations across {len(states)} states")
     statewise_stations = df.groupby(by=['station', 'state']).size().unstack(fill_value=0)
@@ -84,11 +62,14 @@ def load_preprocess_data(file_1):
         st.write(f"{filename} uploaded successfully")
         df = pd.read_csv(config['directory_data'] + filename)
     else:
-        df = pd.read_csv(config['without_factors_geospatial_data_path'])
-        filename = 'without_factors_geospatial_data_path'
+        df = pd.read_csv(config['directory_data'] + config['input_file_name'])
+        filename = 'station_cluster_centers'
 
     if 'Unnamed: 0.1' in df.columns.tolist():
-        df = df.drop(['Unnamed: 0.1', 'Unnamed: 0'], axis=1)
+        df = df.drop(['Unnamed: 0.1'], axis=1)
+    if 'Unnamed: 0' in df.columns.tolist():
+        df = df.drop(['Unnamed: 0'], axis=1)
+
     df.loc[df['state'] == 'Baden_Württemberg', 'state'] = 'Baden-Wurttemberg'
     df.loc[df['state'] == 'Bradenburg', 'state'] = 'Brandenburg'
     df.loc[df['state'] == 'LowerSaxony_Niedersachsen', 'state'] = 'Lower Saxony'
@@ -96,31 +77,27 @@ def load_preprocess_data(file_1):
     df.loc[df['state'] == 'NorthRhine-Westphalia', 'state'] = 'North Rhine-Westphalia'
     df['lat'] = pd.to_numeric(df['lat'], errors='coerce')
     df['lon'] = pd.to_numeric(df['lon'], errors='coerce')
-    df = df.sample(n=200)
+    df = df.sample(200)
     st.write(f"{filename} uploaded and preprocessed successfully")
     with st.expander('Preview'):
         st.dataframe(df)
-    return df
 
-
-def create_point_map(df):
-    df['coordinates'] = df[['lat', 'lon']].values.tolist()
-    df['coordinates'] = df['coordinates'].apply(Point)
-    df = geopandas.GeoDataFrame(df, geometry='coordinates')
-    df = df.dropna(subset=['lat', 'lon', 'coordinates'])
     return df
 
 
 @st.cache_data(experimental_allow_widgets=True)
-def visualise_data(df):
-    df = create_point_map(df)
+def visualise_data(df_orig, plot_label='station2color_map', lat_column='lat', lon_column='lon'):
+    """
+        Function to visualise all stations and their clusters on folium map
+    """
     center = config['germany_map_center']
-    zoom_start = -1
-    tile_1 = 'Mapbox Bright'
-    map = folium.Map(location=center, zoom_start=zoom_start)
-    MousePosition().add_to(map)
+    zoom_start = 5
     formatter = "function(num) {return L.Util.formatNum(num, 3) + ' º ';};"
+    column1, column2 = st.columns((2))
 
+    df = create_point_map(df_orig)
+    map0 = folium.Map(location=center, zoom_start=zoom_start)
+    MousePosition().add_to(map0)
     MousePosition(
         position="topright",
         separator=" | ",
@@ -129,18 +106,36 @@ def visualise_data(df):
         num_digits=5,
         prefix="Coordinates:",
         lat_formatter=formatter,
-        lng_formatter=formatter,
-    ).add_to(map)
+        lng_formatter=formatter).add_to(map0)
 
     for i, row in df.iterrows():
-        icon = folium.Icon(color=config['station2color_map'][row['station']], size=1)
-        folium.Marker([row['lat'], row['lon']], opacity=0.4, icon=icon).add_to(map)
-    # folium_static(map, width=700)
-    st_folium(map, width = 700)
+        icon = folium.Icon(color=config[plot_label][row['station']], size=1)
+        folium.Marker([row[lat_column], row[lon_column]], opacity=0.4, icon=icon).add_to(map0)
+
+    st_folium(map0, width=700)
+
+
+def get_closest_starting_point(clusters_df, coordinates):
+    """
+        Returns the closest cluster of the
+    """
+    clusters_df = clusters_df.drop_duplicates(subset=['cluster_ID'])
+    point = clusters_df.loc[clusters_df['cluster_ID'] == 0][['cluster_lat', 'cluster_lon']]
+    starting_pont = [coordinates['lat'], coordinates['lon']]
+    min_distance = haversine(starting_pont, point, unit=Unit.KILOMETERS)
+    selected_cluster_id = 0
+
+    for cluster_id in np.unique(clusters_df['cluster_ID']):
+        point = clusters_df.loc[clusters_df['cluster_ID'] == cluster_id][['cluster_lat', 'cluster_lon']]
+        current_distance = haversine(starting_pont, point, unit=Unit.KILOMETERS)
+        if min_distance > current_distance:
+            selected_cluster_id = cluster_id
+            min_distance = current_distance
+
+    return selected_cluster_id
 
 
 def main():
-    # Set Page Title
     st.set_page_config(page_title='Task-4-Modelling)', page_icon=':truck:', layout='wide')
     st.title(" Route Optimisation in waste management (Germany)")
     st.markdown('<style>div.block-container{text-align: center}{border:1px solid red}{padding-top:0.5rem;}</style>', unsafe_allow_html=True)
@@ -152,6 +147,11 @@ def main():
         st.dataframe(df)
 
     initial_analysis(df)
+
+    coordinates = st.text_input("Kindly Provide the starting point coordinates in the form : latitude, longitude")
+    if coordinates is not None and coordinates != '':
+        coordinates = {'lat': float(coordinates.split(',')[0].strip()), 'lon': float(coordinates.split(',')[1].strip())}
+
     stations = st.multiselect("Select the stations for visualisation", df['station'].unique())
 
     if stations is not None:
@@ -159,8 +159,23 @@ def main():
     else:
         df_2 = df.copy(deep=True)
 
-    visualise_data(df_2)
+    column1, column2 = st.columns((2))
+    df_2_clusters = df_2.drop_duplicates(subset=['station', 'cluster_ID'])
 
+    with column1:
+        visualise_data(df_2, 'station2color_map', 'lat', 'lon')
+
+    with column2:
+        visualise_data(df_2_clusters, 'cluster2color_map', 'cluster_lat', 'cluster_lon')
+
+    if coordinates is not None and coordinates != '':
+        closest_waste_transfer_station = get_closest_starting_point(df_2_clusters, coordinates)
+
+    # Add the code to calculate closest recycling center through a disposal center and the corresponding closest landfill
+    # Call ORS API to get the geojson file and extract it into a dictionary object (obj)
+
+    obj = {}
+    st.download_button("Download generated route.", obj, file_name='shortest_route.pkl')
 
 if __name__ == '__main__':
     main()
