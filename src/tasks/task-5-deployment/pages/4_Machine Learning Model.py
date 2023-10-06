@@ -3,7 +3,29 @@ import webbrowser
 import pandas as pd
 import pickle
 
-st.header("This is ML Model menu.")
+st.header("Harnessing ML for Greener Waste Solutions")
+st.subheader("Predicting Waste Quantities by Year, State, and Waste Type")
+# Introduction (initial paragraph)
+intro_expander = st.expander("Learn More About the Model")
+
+# Key Features
+st.write(
+    """
+    **Key Features:**
+    Our solution offers the following key features:
+    - **Waste Forecasting by Year and Waste Type:** Users can make precise waste quantity predictions for specific years and waste types, aiding in long-term planning and resource allocation.
+    - **Waste Forecasting by Year and State:** Our solution enables users to project waste quantities by year and state, facilitating regional waste management strategies and informed decision-making.
+    """
+)
+with intro_expander:
+    st.write(
+        """
+        In our solution, we have successfully developed a robust Machine Learning model for waste management forecasting, focusing on predicting waste quantities by year, state, and waste type. This achievement involved several key components:
+        """
+    )
+    st.markdown("1. **Machine Learning Model:** We employed a powerful RandomForestRegressor model, harnessing its predictive capabilities to forecast waste quantities accurately.")
+    st.markdown("2. **Data Pipeline:** To ensure data quality and model performance, we established a well-structured data pipeline. This pipeline encompasses essential steps such as data preprocessing, cross-validation, and hyperparameter tuning using Grid Search CV, enabling the model to learn from the data effectively.")
+    st.markdown("3. **Model Serialization:** To facilitate seamless integration and deployment, we serialized the trained model into a file using the Pickle library, ensuring its accessibility for future predictions.")
 
 #Creating tabs
 tab1, tab2= st.tabs(['Prediction By Year','Prediction By State'])
