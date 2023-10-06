@@ -4,8 +4,8 @@ import os
 import webbrowser
 
 # Check if the CSV file exists, if not, create one
-# def display_feedback():
-csv_file_path = 'feedback.csv'
+csv_file_path = 'data/feedback.csv'
+
 if not os.path.isfile(csv_file_path):
     df = pd.DataFrame(columns=['Name', 'Email', 'Subject', 'Feedback'])
     df.to_csv(csv_file_path, index=False)
