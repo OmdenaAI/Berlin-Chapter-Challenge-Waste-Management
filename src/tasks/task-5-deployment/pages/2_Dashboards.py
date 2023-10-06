@@ -1,7 +1,7 @@
 import streamlit as st
 import webbrowser
 
-st.header("Dashboards")
+st.title("Dashboards")
 
 st.write(
         "Explore interactive dashboards created by the EDA team, along with inferences from the data. "
@@ -24,7 +24,3 @@ with tab3:
     #Add more charts here.
 
 
-# GitHub Repository Button
-github_button = st.sidebar.button("View GitHub Repository", help="View GitHub Repository")
-if github_button:
-    webbrowser.open("https://github.com/OmdenaAI/Berlin-Chapter-Challenge-Waste-Management", new=2)

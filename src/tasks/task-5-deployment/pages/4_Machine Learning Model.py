@@ -3,7 +3,7 @@ import webbrowser
 import pandas as pd
 import pickle
 
-st.header("Harnessing ML for Greener Waste Solutions")
+st.title("Harnessing ML for Greener Waste Solutions")
 st.subheader("Predicting Waste Quantities by Year, State, and Waste Type")
 # Introduction (initial paragraph)
 intro_expander = st.expander("Learn More About the Model")
@@ -129,7 +129,4 @@ with tab2:
         show_search_state_query()
     main()
 
-# GitHub Repository Button
-github_button = st.sidebar.button("View GitHub Repository", help="View GitHub Repository")
-if github_button:
-    webbrowser.open("https://github.com/OmdenaAI/Berlin-Chapter-Challenge-Waste-Management", new=2)
+
