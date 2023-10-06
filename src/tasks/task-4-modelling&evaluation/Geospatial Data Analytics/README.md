@@ -14,8 +14,6 @@ Contains combiend file of various waste centres for all states of germany.
 # Model.ipynb
 
 - This file contains code for fetching the routes and direction matrix using ORS API and optimising it. 
-
 - route_data.geojson file is the output file from the model.ipynb
-
 - route_map.html is the visualisation of the route_data.geojson file using folium. 
 

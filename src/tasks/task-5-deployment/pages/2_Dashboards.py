@@ -1,7 +1,7 @@
 import streamlit as st
 import webbrowser
 
-st.header("This is Dashboard menu.")
+st.header("Dashboards")
 
 st.write(
         "Explore interactive dashboards created by the EDA team, along with inferences from the data. "
