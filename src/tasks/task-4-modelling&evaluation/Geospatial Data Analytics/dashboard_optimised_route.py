@@ -4,6 +4,7 @@ import pandas as pd
 import numpy as np
 import pyproj
 import warnings
+
 warnings.filterwarnings('ignore')
 
 import folium
@@ -77,7 +78,6 @@ def load_preprocess_data(file_1):
     df.loc[df['state'] == 'NorthRhine-Westphalia', 'state'] = 'North Rhine-Westphalia'
     df['lat'] = pd.to_numeric(df['lat'], errors='coerce')
     df['lon'] = pd.to_numeric(df['lon'], errors='coerce')
-    df = df.sample(200)
     st.write(f"{filename} uploaded and preprocessed successfully")
     with st.expander('Preview'):
         st.dataframe(df)
@@ -135,12 +135,37 @@ def get_closest_starting_point(clusters_df, coordinates):
     return selected_cluster_id
 
 
+def get_closest_center_to_cluster(cluster_ID, station, input_data):
+    """
+        For the given station, returns the closest ID, lat and lon center from the given cluster ID
+    """
+    subset = input_data.loc[input_data['station'] == station].drop_duplicates(subset=['id'])
+    coordinates_cluster_centroid = (float(subset.loc[subset['cluster_ID'] == cluster_ID]['cluster_lat'].values[0]),
+                                    float(subset.loc[subset['cluster_ID'] == cluster_ID]['cluster_lon'].values[0]))
+
+    starting_pont = (float(subset.iloc[0]['lat']),
+                     float(subset.iloc[0]['lon']))
+    selected_center = {'ID': float(subset.iloc[0]['id']),
+                       'lat': float(subset.iloc[0]['lat']), 'lon': float(subset.iloc[0]['lon']),
+                       'distance': haversine(coordinates_cluster_centroid, starting_pont, unit=Unit.KILOMETERS)}
+
+    for id in np.unique(subset['id']):
+        point = (subset.loc[subset['id'] == id]['lat'], subset.loc[subset['id'] == id]['lon'])
+        current_distance = haversine(coordinates_cluster_centroid, point, unit=Unit.KILOMETERS)
+        if selected_center['distance'] > current_distance:
+            selected_center = {'ID': id, 'lat': point[0], 'lon': point[1], 'distance': current_distance}
+
+    return selected_center
+
+
 def main():
     st.set_page_config(page_title='Task-4-Modelling)', page_icon=':truck:', layout='wide')
     st.title(" Route Optimisation in waste management (Germany)")
-    st.markdown('<style>div.block-container{text-align: center}{border:1px solid red}{padding-top:0.5rem;}</style>', unsafe_allow_html=True)
+    st.markdown('<style>div.block-container{text-align: center}{border:1px solid red}{padding-top:0.5rem;}</style>',
+                unsafe_allow_html=True)
     st.text("Description of how route optimisation generally works")
-    file_1 = st.file_uploader(":file_folder: Upload the CSV file that contains lat,lon information for all stations", type=['.csv'])
+    file_1 = st.file_uploader(":file_folder: Upload the CSV file that contains lat,lon information for all stations",
+                              type=['.csv'])
     df = load_preprocess_data(file_1)
 
     with st.expander('Preview'):
@@ -169,13 +194,25 @@ def main():
         visualise_data(df_2_clusters, 'cluster2color_map', 'cluster_lat', 'cluster_lon')
 
     if coordinates is not None and coordinates != '':
-        closest_waste_transfer_station = get_closest_starting_point(df_2_clusters, coordinates)
+        closest_waste_transfer_station_cluster = get_closest_starting_point(
+            df_2_clusters.loc[df_2_clusters['station'] == 'waste transfer stations'], coordinates)
 
-    # Add the code to calculate closest recycling center through a disposal center and the corresponding closest landfill
-    # Call ORS API to get the geojson file and extract it into a dictionary object (obj)
+    # Add the code to calculate closest recycling center and the corresponding closest landfill and disposal center (If time is available)
+    # From ORS API matrix, get the cluster IDs of closest centers that will lie on our path
+    # Final output : closest_waste_transfer_station_cluster , corresponding_closest_recycling_center_cluster
+    # Next step : Use function get_closest_center_to_cluster to get the closest station lat , lon
+    #             Visualise it in the dashboard
 
-    obj = {}
-    st.download_button("Download generated route.", obj, file_name='shortest_route.pkl')
+    closest_waste_transfer_station_from_cluster = get_closest_center_to_cluster(closest_waste_transfer_station_cluster,
+                                                                                'waste transfer stations', df_2)
+    starting_lat, starting_lon, starting_center_ID = closest_waste_transfer_station_from_cluster['lat'], \
+                                                     closest_waste_transfer_station_from_cluster['lon'], \
+                                                     closest_waste_transfer_station_from_cluster['ID']
+
+    # Similarly write to get recycling center lat lon
+    # obj = {}
+    # st.download_button("Download generated route.", obj, file_name='shortest_route.pkl')
+
 
 if __name__ == '__main__':
     main()
