@@ -17,7 +17,7 @@ config = {
     'directory_df2': 'src/tasks/task-3-EDA/Dashboards/Final Dashboards/Mirambika-hazardous_waste_dashboard/hazardous_EAV2-6_32151-0003.csv'
 }
 stopwords = ["waste", "and", "from", "other", "etc", "still", "it", "it's", "its", "they", "this", "that", "that'll",
-            "these""those", "is", "are", "was", "were", "be", "been", "being", "have", "has", "had", "having", "do",
+            "these", "those", "is", "are", "was", "were", "be", "been", "being", "have", "has", "had", "having", "do",
             "does", "a", "an", "the", "and", "as", "while", "of", "at", "by", "for", "with", "into", "to", "from",
             "in", "out", "on"]
 Most_Important_labels = 10

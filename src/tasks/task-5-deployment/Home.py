@@ -45,7 +45,7 @@ st.layout="wide"
 
 # Homepage Layout
 
-st.image("E:\\Berlin-Chapter-Challenge-Waste-Management\\src\\tasks\\task-5-deployment\\images\\Home.png", caption='', use_column_width=True)
+st.image("images/Home.png", caption='', use_column_width=True)
 
 st.divider()
 st.header("The Problem Statement")
