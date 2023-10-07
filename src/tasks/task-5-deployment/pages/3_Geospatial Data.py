@@ -10,6 +10,7 @@ import pyproj
 import warnings
 from haversine import haversine, Unit 
 
+
 warnings.filterwarnings('ignore')
 
 
@@ -35,7 +36,7 @@ config = {
     'threshold_in_meters': 500,
     'station_categories': ['waste disposal centres', 'waste transfer stations', 'landfills', 'recycling centres'],
     'germany_map_center': [51.1657, 10.4515],
-    'waste_transfer_clusters' :'waste_transfer_clusters.csv',
+    'waste_transfer_clusters' :'combinedfiles/waste_transfer_clusters.csv',
     'recycling_centre_clusters':'recycling_clusters',
     'station2color_map': {'waste disposal centres': 'lightblue', 'waste transfer stations': 'gray',
                           'landfills': 'lightred', 'recycling centres': 'lightgreen'},
@@ -46,13 +47,11 @@ config = {
 # Replace with your specific latitude and longitude coordinates for the starting and ending points
 start_latitude = user_latitude
 start_longitude = user_longitude
-waste_transfer_lat = 0
-waste_transfer_lon = 0
 recycling_lat = 49.420318
 recycling_lon = 8.687872
 
 
-def find_closest_waste_disposal_cluster(user_input_latitude, user_input_longitude, clusters_file_path):
+def find_closest_cluster(user_input_latitude, user_input_longitude, clusters_file_path):
     """
     Finds the closest waste disposal cluster to the user's input coordinates.
     """
@@ -61,12 +60,11 @@ def find_closest_waste_disposal_cluster(user_input_latitude, user_input_longitud
 
     # Initialize variables for minimum distance and selected cluster ID
     min_distance = float('inf')  # Initialize with positive infinity
-    selected_cluster_id = None
+    selected_cluster_coords = None  # Initialize as None
 
     # Create a tuple for the user input coordinates
     user_input_coords = (user_input_latitude, user_input_longitude)
 
-    # Iterate through each cluster in the DataFrame
     for index, row in clusters_df.iterrows():
         cluster_coords = (row['cluster_lat'], row['cluster_lon'])
         
@@ -76,28 +74,26 @@ def find_closest_waste_disposal_cluster(user_input_latitude, user_input_longitud
         # Check if this cluster is closer than the previous closest one
         if distance_to_cluster < min_distance:
             min_distance = distance_to_cluster
-            selected_cluster_id = row['cluster_ID']
+            selected_cluster_coords = cluster_coords  # Update with the coordinates
 
-    return selected_cluster_id
-
-
-
+    # Return a tuple of (latitude, longitude) associated with the selected cluster
+    return selected_cluster_coords
 
 
+waste_transfer_file = "E:\\Berlin-Chapter-Challenge-Waste-Management\\src\\tasks\\task-5-deployment\\pages\\data\\combinedfiles\\waste_transfer_clusters.csv"
+recycling_clusters_file = "E:\\Berlin-Chapter-Challenge-Waste-Management\\src\\tasks\\task-5-deployment\\pages\\data\\combinedfiles\\recycling_clusters.csv"
 if user_latitude and user_longitude:
-    find_closest_waste_disposal_cluster(start_latitude,start_longitude,'waste_transfer_clusters.csv')
+    starting_cluster_latitude, starting_cluster_longitude = find_closest_cluster(start_latitude,start_longitude,waste_transfer_file)
+    ending_cluster_latitude, ending_cluster_longitude = find_closest_cluster(starting_cluster_latitude,starting_cluster_longitude,recycling_clusters_file)
+    url = f'https://api.openrouteservice.org/v2/directions/driving-hgv?api_key={api_key}&start={starting_cluster_longitude},{starting_cluster_latitude}&end={ending_cluster_longitude},{ending_cluster_latitude}'
+    # Define the headers for the request
+    headers = {
+        'Accept': 'application/json, application/geo+json',
+    }
+
+    # Make the GET request to ORS Directions API
+    response = requests.get(url, headers=headers)
     if response.status_code == 200:
-        
-        # Define the URL with the parameters
-        url = f'https://api.openrouteservice.org/v2/directions/driving-hgv?api_key={api_key}&start={start_longitude},{start_latitude}&end={end_longitude},{end_latitude}'
-
-        # Define the headers for the request
-        headers = {
-            'Accept': 'application/json, application/geo+json',
-        }
-
-        # Make the GET request to ORS Directions API
-        response = requests.get(url, headers=headers)
         geojson_data = response.json()  # Updated variable name
         
         # Save the GeoJSON data to a .geojson file
@@ -111,13 +107,12 @@ if user_latitude and user_longitude:
     with open('route_data.geojson', 'r') as geojson_file:
         geojson_data = json.load(geojson_file)
 
-    # Create a Folium map centered on the route
-    m = folium.Map(location=[49.41461, 8.681495], zoom_start=15)
+    m = folium.Map(location=[start_latitude, start_longitude], zoom_start=15)
 
     # Add the GeoJSON data to the map as a GeoJson object
     folium.GeoJson(geojson_data).add_to(m)
 
-    # Display the map
-    m.save('route_map.html')
+    # Display the Folium map within the Streamlit app
+    st.write(m)
 else:
     st.warning("Please enter latitude and longitude coordinates.")
