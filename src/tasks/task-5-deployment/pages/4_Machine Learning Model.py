@@ -35,7 +35,7 @@ with tab1:
 
     @st.cache_data
     def load_data():
-        df = pd.read_csv('data\Processed_DatasetsAmount-of Waste-Generated-By-State 32121-0003.csv')
+        df = pd.read_csv('data/Processed_DatasetsAmount-of Waste-Generated-By-State 32121-0003.csv')
         return df
 
     def states():
@@ -45,7 +45,7 @@ with tab1:
 
     @st.cache_resource
     def load_model():
-        model = pickle.load(open('models\wm-model.pkl','rb'))
+        model = pickle.load(open('models/wm-model.pkl','rb'))
         return model
 
     def show_search_query():
@@ -84,7 +84,7 @@ with tab2:
 
     @st.cache_data
     def load_data():
-        df = pd.read_csv('data\Processed_DatasetsAmount-of Waste-Generated-By-State 32121-0003.csv')
+        df = pd.read_csv('data/Processed_DatasetsAmount-of Waste-Generated-By-State 32121-0003.csv')
         return df
     
     @st.cache_data
@@ -95,7 +95,7 @@ with tab2:
 
     @st.cache_resource
     def load_model():
-        model = pickle.load(open('models\wm-model.pkl','rb'))
+        model = pickle.load(open('models/wm-model.pkl','rb'))
         return model
 
 
