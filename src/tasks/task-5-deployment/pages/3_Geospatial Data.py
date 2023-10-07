@@ -94,6 +94,11 @@ if user_latitude and user_longitude:
 
     # Make the GET request to ORS Directions API
     response = requests.get(url, headers=headers)
+    if(response.status_code == 504):
+        st.write("The server is currently unavailable due to overload or maintenance.We apologise for the inconveince.")
+    if response.status_code != 200:
+        st.write("Your Inputs are Invalid. Please try again.")
+    
     if response.status_code == 200:
         # Parse the API response to extract route data (e.g., latitude and longitude coordinates)
         route_data = response.json()
