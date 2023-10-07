@@ -6,7 +6,7 @@
 
 import pygwalker as pyg
 import pandas as pd
-pip install sumy
+# pip install sumy
 from gensim import corpora, models
 import gensim
 from sklearn.feature_extraction.text import CountVectorizer
