@@ -1,16 +1,50 @@
 import streamlit as st
 import webbrowser
+primaryColor="#395144"
+backgroundColor="#f7f5ed"
+secondaryBackgroundColor="#f0ebce"
+textColor="#000000"
+font="serif"
 
-
-# Set the title and page icon
-st.set_page_config(
-    page_title="Waste Management Optimization",
-    page_icon=":recycle:",
-    layout="wide"
+st.markdown(
+    f"""
+    <style>
+        .stApp {{
+            background-color: {backgroundColor};
+            padding: 0.5rem;
+            border-radius: 10px;
+        }}
+        .section-header {{
+            font-size: 35px;
+            font-weight: bold;
+            margin-bottom: 18px;
+        }}
+        .section-divider {{
+            height: 5px;
+            margin-bottom: 20px;
+            background-color: {primaryColor};
+        }}
+        .section-content {{
+            margin-bottom: 35px;
+            background-color: {primaryColor};
+        }}
+        .section-table {{
+            padding: 10px;
+            border-radius: 10px;
+        }}
+        
+    </style>
+    """,
+    unsafe_allow_html=True,
 )
 
-# Homepage Layout
 st.title("Omdena Berlin Chapter")
+st.markdown('<div class="section-divider"></div>', unsafe_allow_html=True)
+st.layout="wide"
+
+
+# Homepage Layout
+
 st.image("images/Home.png", caption='', use_column_width=True)
 
 st.divider()
@@ -26,8 +60,12 @@ st.write(
 )
 
 st.divider()
+st.header("Our Solution")
+st.write(
+    """
 
-github_button = st.button("View GitHub Repository", help="View GitHub Repository")
-if github_button:
-    webbrowser.open("https://github.com/OmdenaAI/Berlin-Chapter-Challenge-Waste-Management", new=2)
+"""
+)
+
+
 
