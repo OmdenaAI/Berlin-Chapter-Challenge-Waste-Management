@@ -9,6 +9,7 @@ import folium
 import pyproj
 import warnings
 from haversine import haversine, Unit 
+from streamlit_folium import folium_static
 
 
 warnings.filterwarnings('ignore')
@@ -45,10 +46,9 @@ config = {
 }
 
 # Replace with your specific latitude and longitude coordinates for the starting and ending points
-start_latitude = user_latitude
-start_longitude = user_longitude
-recycling_lat = 49.420318
-recycling_lon = 8.687872
+
+start_latitude = float(user_latitude)
+start_longitude = float(user_longitude)
 
 
 def find_closest_cluster(user_input_latitude, user_input_longitude, clusters_file_path):
@@ -82,10 +82,11 @@ def find_closest_cluster(user_input_latitude, user_input_longitude, clusters_fil
 
 waste_transfer_file = "E:\\Berlin-Chapter-Challenge-Waste-Management\\src\\tasks\\task-5-deployment\\pages\\data\\combinedfiles\\waste_transfer_clusters.csv"
 recycling_clusters_file = "E:\\Berlin-Chapter-Challenge-Waste-Management\\src\\tasks\\task-5-deployment\\pages\\data\\combinedfiles\\recycling_clusters.csv"
+
 if user_latitude and user_longitude:
     starting_cluster_latitude, starting_cluster_longitude = find_closest_cluster(start_latitude,start_longitude,waste_transfer_file)
     ending_cluster_latitude, ending_cluster_longitude = find_closest_cluster(starting_cluster_latitude,starting_cluster_longitude,recycling_clusters_file)
-    url = f'https://api.openrouteservice.org/v2/directions/driving-hgv?api_key={api_key}&start={starting_cluster_longitude},{starting_cluster_latitude}&end={ending_cluster_longitude},{ending_cluster_latitude}'
+    url = f'https://api.openrouteservice.org/v2/directions/driving-hgv?api_key={api_key}&start={start_longitude},{start_longitude}&end={ending_cluster_longitude},{ending_cluster_latitude}'
     # Define the headers for the request
     headers = {
         'Accept': 'application/json, application/geo+json',
@@ -94,25 +95,21 @@ if user_latitude and user_longitude:
     # Make the GET request to ORS Directions API
     response = requests.get(url, headers=headers)
     if response.status_code == 200:
-        geojson_data = response.json()  # Updated variable name
+        # Parse the API response to extract route data (e.g., latitude and longitude coordinates)
+        route_data = response.json()
+
+        # Create a Folium map
+        m = folium.Map(location=[start_latitude, start_longitude], zoom_start=10)
+
+        # Add a marker for the start location
+        folium.Marker([user_latitude, user_longitude], tooltip="Start").add_to(m)
+
+        # Add a marker for the end location
+        folium.Marker([ending_cluster_latitude, ending_cluster_longitude], tooltip="End").add_to(m)
+        # Display the Folium map within the Streamlit app
+        folium.GeoJson(route_data).add_to(m)
+        m.save('route_map.html')
+        st.components.v1.html(open("route_map.html").read(), width=800, height=600) 
         
-        # Save the GeoJSON data to a .geojson file
-        with open('route_data.geojson', 'w') as geojson_file:
-            json.dump(geojson_data, geojson_file)
-        print("Route data saved as 'route_data.geojson'")
-    else:
-        print("Error: Unable to fetch route data")
-
-    # Load the GeoJSON data from the file
-    with open('route_data.geojson', 'r') as geojson_file:
-        geojson_data = json.load(geojson_file)
-
-    m = folium.Map(location=[start_latitude, start_longitude], zoom_start=15)
-
-    # Add the GeoJSON data to the map as a GeoJson object
-    folium.GeoJson(geojson_data).add_to(m)
-
-    # Display the Folium map within the Streamlit app
-    st.write(m)
 else:
     st.warning("Please enter latitude and longitude coordinates.")
