@@ -45,7 +45,7 @@ st.layout="wide"
 
 # Homepage Layout
 
-st.image("images/Home.png", caption='', use_column_width=True)
+#st.image("\images\\Home.png", caption='', use_column_width=True)
 
 st.divider()
 st.header("The Problem Statement")
