@@ -1,0 +1,20 @@
+Statistics_Code,Statistics_Label,time_code,time_label,Time,1_feature_code,1_feature_label,1_expression_code,1_expression_label,2_feature_code,2_Feature_Label,2_expression_code,2_expression_label,Amount_of_household_waste,Generation_of_household_waste_per_inhabitant,Household_waste_removed_by_stampers,Household_waste_recycled_at_the_stamp_receiver
+32121,Survey of the public Waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,ABFAT2,Types of waste,EAV-20030101-01,Household and bulky waste,16343.4,196,671.9,15671.6
+32121,Survey of the public Waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,ABFAT2,Types of waste,EAV-20030101,"Household waste, commercial waste similar to household waste",13253.0,159,585.9,12667.2
+32121,Survey of the public Waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,ABFAT2,Types of waste,EAV-200307,bulky waste,3090.4,37,86.0,3004.4
+32121,Survey of the public Waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,ABFAT2,Types of waste,ABF-ORG-01,Separately collected organic waste,11170.4,134,0.4,11170.0
+32121,Survey of the public Waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,ABFAT2,Types of waste,EAV-20030104,Waste from the bio bin,5592.9,67,,5592.9
+32121,Survey of the public Waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,ABFAT2,Types of waste,EAV-200201,"Biodegradable waste (garden, park waste)",5577.5,67,0.4,5577.1
+32121,Survey of the public Waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,ABFAT2,Types of waste,ABF-WERT-01,Recyclable materials collected separately,12467.4,150,2.6,12464.8
+32121,Survey of the public Waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,ABFAT2,Types of waste,EAV-150107-01,Glas,2035.9,24,0.6,2035.3
+32121,Survey of the public Waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,ABFAT2,Types of waste,EAV-150105-01,"Mixed value/packaging (incl. light packaging), composites",2917.1,35,0.8,2916.2
+32121,Survey of the public Waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,ABFAT2,Types of waste,EAV-150101-01,"Paper, cardboard, cardboard (PPK)",5427.5,65,0.8,5426.6
+32121,Survey of the public Waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,ABFAT2,Types of waste,EAV-150104-01,metals,417.0,5,0.1,416.9
+32121,Survey of the public Waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,ABFAT2,Types of waste,EAV-150103-01,Holz,1360.0,16,,1360.0
+32121,Survey of the public Waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,ABFAT2,Types of waste,EAV-150102-01,plastics,133.8,2,0.2,133.6
+32121,Survey of the public Waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,ABFAT2,Types of waste,EAV-150109-01,textiles,176.2,2,0.0,176.2
+32121,Survey of the public Waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,ABFAT2,Types of waste,EAV-200123-01,Waste electrical appliances,.,.,.,.
+32121,Survey of the public Waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,ABFAT2,Types of waste,EAV-SONST,Other waste,274.8,3,101.1,173.7
+32121,Survey of the public Waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,ABFAT2,Types of waste,EAV-200113-01,Other hazardous waste,84.0,1,23.7,60.3
+32121,Survey of the public Waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,ABFAT2,Types of waste,EAV-200128-01,Other non-hazardous waste,190.9,2,77.4,113.4
+32121,Survey of the public Waste disposal,JAHR,Jahr,2021,DINSG,Germany as a whole,DG,Deutschland,ABFAT2,Types of waste,,In total,40256.1,484,776.0,39480.1

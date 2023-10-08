@@ -1,0 +1,169 @@
+GENESIS-Tabelle: 32141-0003
+Asphaltmischanlagen: Deutschland, Jahre, Abfallarten;;;;
+Aufbereitung,Verwertung v. Bau- u. Abbruchabfällen;;;;
+Deutschland;;;;
+;;;Asphaltmischanlagen;Input von Asphaltmischanlagen
+;;;Anzahl;1000 t
+2006;EAV-05;Abfälle aus der Erdölraffination, Erdgasreinigung;-;-
+2006;EAV-050117-U;  Erdölraffination: Bitumen;-;-
+2006;EAV-10;Abfälle aus thermischen Prozessen;-;-
+2006;EAV-100908-U;  Gießformen u. -sande nach dem Gießen (ohne 100907);-;-
+2006;EAV-17;Bau- und Abbruchabfälle;386;6107,5
+2006;EAV-170101-U;  Beton;4;14,3
+2006;EAV-170106-G;  Gemische aus o. getrennte Fraktionen v. Beton,u.a.;-;-
+2006;EAV-170107-U;  Gemische aus Beton, Ziegeln, u.a. (oh.170106);-;-
+2006;EAV-170301-G;  Kohlenteerhaltige Bitumengemische;33;340,6
+2006;EAV-170302-U;  Bitumengemische (ohne 170301);372;5588,2
+2006;EAV-170303-G;  Kohlenteer und teerhaltige Produkte;-;-
+2006;EAV-170504-U;  Boden und Steine (ohne 170503);-;-
+2006;EAV-170507-G;  Gleisschotter, der gefährliche Stoffe enthält;-;-
+2006;EAV-19;Abfälle aus Abfallbehandlungsanlagen u.a.;181;3663,6
+2006;EAV-19120901-U;  Erzeugnisse für Verwendung im Straßen-u. Wegebau;-;-
+2006;EAV-19120904-U;  Erzeugnisse für Verwendung in Asphaltmischanlagen;175;3617,6
+2006;EAV-19120905-U;  Erzeugnisse für sonstige Verwendung;-;-
+2006;EAV-19120906-U;  Heißmischgut für den Straßen- und Wegebau;6;46,0
+2006;EAV-99;Gefährliche Abfälle;35;480,0
+2006;EAV-990000-G;  Gefährliche Abfälle insgesamt;35;480,0
+2008;EAV-05;Abfälle aus der Erdölraffination, Erdgasreinigung;4;14,9
+2008;EAV-050117-U;  Erdölraffination: Bitumen;4;14,9
+2008;EAV-10;Abfälle aus thermischen Prozessen;-;-
+2008;EAV-100908-U;  Gießformen u. -sande nach dem Gießen (ohne 100907);-;-
+2008;EAV-17;Bau- und Abbruchabfälle;273;4599,5
+2008;EAV-170101-U;  Beton;4;7,5
+2008;EAV-170106-G;  Gemische aus o. getrennte Fraktionen v. Beton,u.a.;-;-
+2008;EAV-170107-U;  Gemische aus Beton, Ziegeln, u.a. (oh.170106);-;-
+2008;EAV-170301-G;  Kohlenteerhaltige Bitumengemische;21;263,7
+2008;EAV-170302-U;  Bitumengemische (ohne 170301);259;4284,0
+2008;EAV-170303-G;  Kohlenteer und teerhaltige Produkte;3;4,6
+2008;EAV-170504-U;  Boden und Steine (ohne 170503);-;-
+2008;EAV-170507-G;  Gleisschotter, der gefährliche Stoffe enthält;-;-
+2008;EAV-19;Abfälle aus Abfallbehandlungsanlagen u.a.;335;5957,0
+2008;EAV-19120901-U;  Erzeugnisse für Verwendung im Straßen-u. Wegebau;-;-
+2008;EAV-19120904-U;  Erzeugnisse für Verwendung in Asphaltmischanlagen;335;5955,8
+2008;EAV-19120905-U;  Erzeugnisse für sonstige Verwendung;-;-
+2008;EAV-19120906-U;  Heißmischgut für den Straßen- und Wegebau;-;-
+2008;EAV-99;Gefährliche Abfälle;25;271,1
+2008;EAV-990000-G;  Gefährliche Abfälle insgesamt;25;271,1
+2010;EAV-05;Abfälle aus der Erdölraffination, Erdgasreinigung;-;-
+2010;EAV-050117-U;  Erdölraffination: Bitumen;-;-
+2010;EAV-10;Abfälle aus thermischen Prozessen;-;-
+2010;EAV-100908-U;  Gießformen u. -sande nach dem Gießen (ohne 100907);-;-
+2010;EAV-17;Bau- und Abbruchabfälle;263;4362,6
+2010;EAV-170101-U;  Beton;3;6,3
+2010;EAV-170106-G;  Gemische aus o. getrennte Fraktionen v. Beton,u.a.;-;-
+2010;EAV-170107-U;  Gemische aus Beton, Ziegeln, u.a. (oh.170106);-;-
+2010;EAV-170301-G;  Kohlenteerhaltige Bitumengemische;12;72,2
+2010;EAV-170302-U;  Bitumengemische (ohne 170301);257;4281,6
+2010;EAV-170303-G;  Kohlenteer und teerhaltige Produkte;-;-
+2010;EAV-170504-U;  Boden und Steine (ohne 170503);-;-
+2010;EAV-170507-G;  Gleisschotter, der gefährliche Stoffe enthält;-;-
+2010;EAV-19;Abfälle aus Abfallbehandlungsanlagen u.a.;357;6087,5
+2010;EAV-19120901-U;  Erzeugnisse für Verwendung im Straßen-u. Wegebau;-;-
+2010;EAV-19120904-U;  Erzeugnisse für Verwendung in Asphaltmischanlagen;357;6076,0
+2010;EAV-19120905-U;  Erzeugnisse für sonstige Verwendung;-;-
+2010;EAV-19120906-U;  Heißmischgut für den Straßen- und Wegebau;-;-
+2010;EAV-99;Gefährliche Abfälle;13;74,7
+2010;EAV-990000-G;  Gefährliche Abfälle insgesamt;13;74,7
+2012;EAV-05;Abfälle aus der Erdölraffination, Erdgasreinigung;-;-
+2012;EAV-050117-U;  Erdölraffination: Bitumen;-;-
+2012;EAV-10;Abfälle aus thermischen Prozessen;-;-
+2012;EAV-100908-U;  Gießformen u. -sande nach dem Gießen (ohne 100907);-;-
+2012;EAV-17;Bau- und Abbruchabfälle;224;4602,0
+2012;EAV-170101-U;  Beton;3;4,0
+2012;EAV-170106-G;  Gemische aus o. getrennte Fraktionen v. Beton,u.a.;-;-
+2012;EAV-170107-U;  Gemische aus Beton, Ziegeln, u.a. (oh.170106);-;-
+2012;EAV-170301-G;  Kohlenteerhaltige Bitumengemische;4;31,2
+2012;EAV-170302-U;  Bitumengemische (ohne 170301);219;4566,8
+2012;EAV-170303-G;  Kohlenteer und teerhaltige Produkte;-;-
+2012;EAV-170504-U;  Boden und Steine (ohne 170503);-;-
+2012;EAV-170507-G;  Gleisschotter, der gefährliche Stoffe enthält;-;-
+2012;EAV-19;Abfälle aus Abfallbehandlungsanlagen u.a.;361;7462,9
+2012;EAV-19120901-U;  Erzeugnisse für Verwendung im Straßen-u. Wegebau;-;-
+2012;EAV-19120904-U;  Erzeugnisse für Verwendung in Asphaltmischanlagen;361;7462,9
+2012;EAV-19120905-U;  Erzeugnisse für sonstige Verwendung;-;-
+2012;EAV-19120906-U;  Heißmischgut für den Straßen- und Wegebau;-;-
+2012;EAV-99;Gefährliche Abfälle;4;31,2
+2012;EAV-990000-G;  Gefährliche Abfälle insgesamt;4;31,2
+2014;EAV-05;Abfälle aus der Erdölraffination, Erdgasreinigung;-;-
+2014;EAV-050117-U;  Erdölraffination: Bitumen;-;-
+2014;EAV-10;Abfälle aus thermischen Prozessen;-;-
+2014;EAV-100908-U;  Gießformen u. -sande nach dem Gießen (ohne 100907);-;-
+2014;EAV-17;Bau- und Abbruchabfälle;197;3859,3
+2014;EAV-170101-U;  Beton;8;12,6
+2014;EAV-170106-G;  Gemische aus o. getrennte Fraktionen v. Beton,u.a.;-;-
+2014;EAV-170107-U;  Gemische aus Beton, Ziegeln, u.a. (oh.170106);-;-
+2014;EAV-170301-G;  Kohlenteerhaltige Bitumengemische;-;-
+2014;EAV-170302-U;  Bitumengemische (ohne 170301);191;3841,5
+2014;EAV-170303-G;  Kohlenteer und teerhaltige Produkte;-;-
+2014;EAV-170504-U;  Boden und Steine (ohne 170503);-;-
+2014;EAV-170507-G;  Gleisschotter, der gefährliche Stoffe enthält;-;-
+2014;EAV-19;Abfälle aus Abfallbehandlungsanlagen u.a.;366;9828,5
+2014;EAV-19120901-U;  Erzeugnisse für Verwendung im Straßen-u. Wegebau;-;-
+2014;EAV-19120904-U;  Erzeugnisse für Verwendung in Asphaltmischanlagen;366;9808,7
+2014;EAV-19120905-U;  Erzeugnisse für sonstige Verwendung;-;-
+2014;EAV-19120906-U;  Heißmischgut für den Straßen- und Wegebau;-;-
+2014;EAV-99;Gefährliche Abfälle;-;-
+2014;EAV-990000-G;  Gefährliche Abfälle insgesamt;-;-
+2016;EAV-05;Abfälle aus der Erdölraffination, Erdgasreinigung;-;-
+2016;EAV-050117-U;  Erdölraffination: Bitumen;-;-
+2016;EAV-10;Abfälle aus thermischen Prozessen;-;-
+2016;EAV-100908-U;  Gießformen u. -sande nach dem Gießen (ohne 100907);-;-
+2016;EAV-17;Bau- und Abbruchabfälle;181;4441,2
+2016;EAV-170101-U;  Beton;3;2,2
+2016;EAV-170106-G;  Gemische aus o. getrennte Fraktionen v. Beton,u.a.;-;-
+2016;EAV-170107-U;  Gemische aus Beton, Ziegeln, u.a. (oh.170106);-;-
+2016;EAV-170301-G;  Kohlenteerhaltige Bitumengemische;-;-
+2016;EAV-170302-U;  Bitumengemische (ohne 170301);180;4428,6
+2016;EAV-170303-G;  Kohlenteer und teerhaltige Produkte;-;-
+2016;EAV-170504-U;  Boden und Steine (ohne 170503);-;-
+2016;EAV-170507-G;  Gleisschotter, der gefährliche Stoffe enthält;-;-
+2016;EAV-19;Abfälle aus Abfallbehandlungsanlagen u.a.;361;10341,5
+2016;EAV-19120901-U;  Erzeugnisse für Verwendung im Straßen-u. Wegebau;-;-
+2016;EAV-19120904-U;  Erzeugnisse für Verwendung in Asphaltmischanlagen;361;10341,5
+2016;EAV-19120905-U;  Erzeugnisse für sonstige Verwendung;-;-
+2016;EAV-19120906-U;  Heißmischgut für den Straßen- und Wegebau;-;-
+2016;EAV-99;Gefährliche Abfälle;-;-
+2016;EAV-990000-G;  Gefährliche Abfälle insgesamt;-;-
+2018;EAV-05;Abfälle aus der Erdölraffination, Erdgasreinigung;-;-
+2018;EAV-050117-U;  Erdölraffination: Bitumen;-;-
+2018;EAV-10;Abfälle aus thermischen Prozessen;-;-
+2018;EAV-100908-U;  Gießformen u. -sande nach dem Gießen (ohne 100907);-;-
+2018;EAV-17;Bau- und Abbruchabfälle;177;4685,4
+2018;EAV-170101-U;  Beton;-;-
+2018;EAV-170106-G;  Gemische aus o. getrennte Fraktionen v. Beton,u.a.;-;-
+2018;EAV-170107-U;  Gemische aus Beton, Ziegeln, u.a. (oh.170106);-;-
+2018;EAV-170301-G;  Kohlenteerhaltige Bitumengemische;-;-
+2018;EAV-170302-U;  Bitumengemische (ohne 170301);176;4682,3
+2018;EAV-170303-G;  Kohlenteer und teerhaltige Produkte;-;-
+2018;EAV-170504-U;  Boden und Steine (ohne 170503);-;-
+2018;EAV-170507-G;  Gleisschotter, der gefährliche Stoffe enthält;-;-
+2018;EAV-19;Abfälle aus Abfallbehandlungsanlagen u.a.;349;10635,2
+2018;EAV-19120901-U;  Erzeugnisse für Verwendung im Straßen-u. Wegebau;-;-
+2018;EAV-19120904-U;  Erzeugnisse für Verwendung in Asphaltmischanlagen;349;10635,2
+2018;EAV-19120905-U;  Erzeugnisse für sonstige Verwendung;-;-
+2018;EAV-19120906-U;  Heißmischgut für den Straßen- und Wegebau;-;-
+2018;EAV-99;Gefährliche Abfälle;-;-
+2018;EAV-990000-G;  Gefährliche Abfälle insgesamt;-;-
+2020;EAV-05;Abfälle aus der Erdölraffination, Erdgasreinigung;-;-
+2020;EAV-050117-U;  Erdölraffination: Bitumen;-;-
+2020;EAV-10;Abfälle aus thermischen Prozessen;-;-
+2020;EAV-100908-U;  Gießformen u. -sande nach dem Gießen (ohne 100907);-;-
+2020;EAV-17;Bau- und Abbruchabfälle;164;4163,9
+2020;EAV-170101-U;  Beton;-;-
+2020;EAV-170106-G;  Gemische aus o. getrennte Fraktionen v. Beton,u.a.;-;-
+2020;EAV-170107-U;  Gemische aus Beton, Ziegeln, u.a. (oh.170106);-;-
+2020;EAV-170301-G;  Kohlenteerhaltige Bitumengemische;-;-
+2020;EAV-170302-U;  Bitumengemische (ohne 170301);163;4161,0
+2020;EAV-170303-G;  Kohlenteer und teerhaltige Produkte;-;-
+2020;EAV-170504-U;  Boden und Steine (ohne 170503);-;-
+2020;EAV-170507-G;  Gleisschotter, der gefährliche Stoffe enthält;-;-
+2020;EAV-19;Abfälle aus Abfallbehandlungsanlagen u.a.;331;9951,5
+2020;EAV-19120901-U;  Erzeugnisse für Verwendung im Straßen-u. Wegebau;-;-
+2020;EAV-19120904-U;  Erzeugnisse für Verwendung in Asphaltmischanlagen;331;9951,5
+2020;EAV-19120905-U;  Erzeugnisse für sonstige Verwendung;-;-
+2020;EAV-19120906-U;  Heißmischgut für den Straßen- und Wegebau;-;-
+2020;EAV-99;Gefährliche Abfälle;-;-
+2020;EAV-990000-G;  Gefährliche Abfälle insgesamt;-;-
+__________
+© Statistisches Bundesamt (Destatis), 2023
+Stand: 26.08.2023 / 16:58:55
