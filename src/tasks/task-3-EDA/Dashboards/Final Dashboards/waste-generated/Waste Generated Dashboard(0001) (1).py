@@ -83,9 +83,9 @@ df['Category_Name'] = df['Topic_Label'].map(category_names)
 
 walker4 = pyg.walk(
     df,
-    spec="./gw0.json",       # this json will save your chart state, you need to click save button in ui mannual when you finish a chart, 'autosave' will be supported in the future.
-    use_kernel_calc=True,    # set `use_kernel_calc=True`, pygwalker will use duckdb as computing engine, it support you explore bigger dataset(<=100GB).
-    use_preview=True,         # set `use_kernel_calc=True`, pygwalker will use duckdb as computing engine, it support you explore bigger dataset(<=100GB).
+    spec="./gw0.json",       
+    use_kernel_calc=True,    
+    use_preview=True,         
 )
 
 data = df.loc[:, ['year', 'Topic_Label', 'generated_waste_quantity']]
