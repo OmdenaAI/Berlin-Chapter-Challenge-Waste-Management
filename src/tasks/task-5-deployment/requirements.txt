@@ -63,6 +63,7 @@ smmap==5.0.1
 statsmodels==0.14.0
 streamlit==1.27.2
 streamlit-folium==0.15.0
+sumy
 tenacity==8.2.3
 toml==0.10.2
 toolz==0.12.0
