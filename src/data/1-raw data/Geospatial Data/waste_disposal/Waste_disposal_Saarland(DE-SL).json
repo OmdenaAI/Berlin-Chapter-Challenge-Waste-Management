@@ -1,0 +1,1700 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.61.5 4133829e",
+  "osm3s": {
+    "timestamp_osm_base": "2023-09-08T05:13:10Z",
+    "timestamp_areas_base": "2023-09-08T02:44:08Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 367886865,
+  "lat": 49.2330285,
+  "lon": 6.9845723,
+  "tags": {
+    "amenity": "waste_disposal"
+  }
+},
+{
+  "type": "node",
+  "id": 604872227,
+  "lat": 49.2783366,
+  "lon": 7.3345876,
+  "tags": {
+    "amenity": "waste_disposal"
+  }
+},
+{
+  "type": "node",
+  "id": 3710924176,
+  "lat": 49.5726431,
+  "lon": 7.0846015,
+  "tags": {
+    "amenity": "waste_disposal"
+  }
+},
+{
+  "type": "node",
+  "id": 3710924207,
+  "lat": 49.5718447,
+  "lon": 7.0836091,
+  "tags": {
+    "amenity": "waste_disposal",
+    "waste": "trash"
+  }
+},
+{
+  "type": "node",
+  "id": 3713894628,
+  "lat": 49.5725919,
+  "lon": 7.0792688,
+  "tags": {
+    "amenity": "waste_disposal"
+  }
+},
+{
+  "type": "node",
+  "id": 3713894636,
+  "lat": 49.5725840,
+  "lon": 7.0805449,
+  "tags": {
+    "amenity": "waste_disposal"
+  }
+},
+{
+  "type": "node",
+  "id": 3713917994,
+  "lat": 49.5705117,
+  "lon": 7.0806746,
+  "tags": {
+    "amenity": "waste_disposal"
+  }
+},
+{
+  "type": "node",
+  "id": 3713926730,
+  "lat": 49.5718610,
+  "lon": 7.0810483,
+  "tags": {
+    "amenity": "waste_disposal"
+  }
+},
+{
+  "type": "node",
+  "id": 3713926733,
+  "lat": 49.5714036,
+  "lon": 7.0800652,
+  "tags": {
+    "amenity": "waste_disposal"
+  }
+},
+{
+  "type": "node",
+  "id": 3713926734,
+  "lat": 49.5716454,
+  "lon": 7.0805521,
+  "tags": {
+    "amenity": "waste_disposal"
+  }
+},
+{
+  "type": "node",
+  "id": 3750090196,
+  "lat": 49.5722012,
+  "lon": 7.0819168,
+  "tags": {
+    "amenity": "waste_disposal",
+    "waste": "trash"
+  }
+},
+{
+  "type": "node",
+  "id": 4788910321,
+  "lat": 49.3145263,
+  "lon": 7.1507720,
+  "tags": {
+    "amenity": "waste_disposal"
+  }
+},
+{
+  "type": "node",
+  "id": 4985043377,
+  "lat": 49.5711159,
+  "lon": 7.0795405,
+  "tags": {
+    "amenity": "waste_disposal"
+  }
+},
+{
+  "type": "node",
+  "id": 4988741230,
+  "lat": 49.5748311,
+  "lon": 7.0800555,
+  "tags": {
+    "amenity": "waste_disposal"
+  }
+},
+{
+  "type": "node",
+  "id": 4988741231,
+  "lat": 49.5744485,
+  "lon": 7.0827028,
+  "tags": {
+    "amenity": "waste_disposal"
+  }
+},
+{
+  "type": "node",
+  "id": 4988741232,
+  "lat": 49.5740589,
+  "lon": 7.0818499,
+  "tags": {
+    "amenity": "waste_disposal"
+  }
+},
+{
+  "type": "node",
+  "id": 4988741233,
+  "lat": 49.5739171,
+  "lon": 7.0834565,
+  "tags": {
+    "amenity": "waste_disposal"
+  }
+},
+{
+  "type": "node",
+  "id": 4988741234,
+  "lat": 49.5733310,
+  "lon": 7.0834297,
+  "tags": {
+    "amenity": "waste_disposal"
+  }
+},
+{
+  "type": "node",
+  "id": 4988741235,
+  "lat": 49.5737110,
+  "lon": 7.0810452,
+  "tags": {
+    "amenity": "waste_disposal"
+  }
+},
+{
+  "type": "node",
+  "id": 4988741236,
+  "lat": 49.5735032,
+  "lon": 7.0794560,
+  "tags": {
+    "amenity": "waste_disposal"
+  }
+},
+{
+  "type": "node",
+  "id": 4991207894,
+  "lat": 49.5731492,
+  "lon": 7.0712337,
+  "tags": {
+    "amenity": "waste_disposal",
+    "name": "Müllstation"
+  }
+},
+{
+  "type": "node",
+  "id": 4991207895,
+  "lat": 49.5727518,
+  "lon": 7.0698255,
+  "tags": {
+    "amenity": "waste_disposal",
+    "name": "Müllstation"
+  }
+},
+{
+  "type": "node",
+  "id": 4991207896,
+  "lat": 49.5732014,
+  "lon": 7.0699435,
+  "tags": {
+    "amenity": "waste_disposal",
+    "name": "Müllstation"
+  }
+},
+{
+  "type": "node",
+  "id": 4991207897,
+  "lat": 49.5746859,
+  "lon": 7.0722221,
+  "tags": {
+    "amenity": "waste_disposal",
+    "name": "Müllstation"
+  }
+},
+{
+  "type": "node",
+  "id": 4991207898,
+  "lat": 49.5740432,
+  "lon": 7.0717192,
+  "tags": {
+    "amenity": "waste_disposal",
+    "name": "Müllstation"
+  }
+},
+{
+  "type": "node",
+  "id": 4991207899,
+  "lat": 49.5747372,
+  "lon": 7.0742029,
+  "tags": {
+    "amenity": "waste_disposal",
+    "name": "Müllstation"
+  }
+},
+{
+  "type": "node",
+  "id": 4991207900,
+  "lat": 49.5753060,
+  "lon": 7.0727652,
+  "tags": {
+    "amenity": "waste_disposal",
+    "name": "Müllstation"
+  }
+},
+{
+  "type": "node",
+  "id": 4991207901,
+  "lat": 49.5756730,
+  "lon": 7.0716427,
+  "tags": {
+    "amenity": "waste_disposal",
+    "name": "Müllstation"
+  }
+},
+{
+  "type": "node",
+  "id": 6043139293,
+  "lat": 49.2394994,
+  "lon": 6.9769666,
+  "tags": {
+    "amenity": "waste_disposal",
+    "waste": "trash"
+  }
+},
+{
+  "type": "node",
+  "id": 6045392238,
+  "lat": 49.2332599,
+  "lon": 6.9988461,
+  "tags": {
+    "amenity": "waste_disposal",
+    "colour": "black",
+    "material": "plastic",
+    "waste": "trash"
+  }
+},
+{
+  "type": "node",
+  "id": 6407900134,
+  "lat": 49.2383846,
+  "lon": 6.9737355,
+  "tags": {
+    "amenity": "waste_disposal",
+    "waste": "trash"
+  }
+},
+{
+  "type": "node",
+  "id": 6519049007,
+  "lat": 49.2431379,
+  "lon": 6.9916685,
+  "tags": {
+    "amenity": "waste_disposal",
+    "description": "Müllcontainer Einfriedung",
+    "ref": "Europaallee 22",
+    "waste": "trash"
+  }
+},
+{
+  "type": "node",
+  "id": 6519049037,
+  "lat": 49.2433935,
+  "lon": 6.9906374,
+  "tags": {
+    "amenity": "waste_disposal",
+    "description": "Müllcontainer Einfriedung",
+    "ref": "Europaallee 25",
+    "waste": "trash"
+  }
+},
+{
+  "type": "node",
+  "id": 6519049048,
+  "lat": 49.2426498,
+  "lon": 6.9914441,
+  "tags": {
+    "amenity": "waste_disposal",
+    "covered": "yes",
+    "description": "Müllcontainer Einfriedung",
+    "ref": "Europaallee 20",
+    "waste": "trash"
+  }
+},
+{
+  "type": "node",
+  "id": 6549366083,
+  "lat": 49.2306781,
+  "lon": 7.0077378,
+  "tags": {
+    "access": "private",
+    "amenity": "waste_disposal",
+    "waste": "trash"
+  }
+},
+{
+  "type": "node",
+  "id": 6565038856,
+  "lat": 49.2334328,
+  "lon": 6.9839114,
+  "tags": {
+    "amenity": "waste_disposal"
+  }
+},
+{
+  "type": "node",
+  "id": 7061911748,
+  "lat": 49.2346160,
+  "lon": 7.0014688,
+  "tags": {
+    "access": "private",
+    "amenity": "waste_disposal"
+  }
+},
+{
+  "type": "node",
+  "id": 7159425934,
+  "lat": 49.2214109,
+  "lon": 6.9934261,
+  "tags": {
+    "amenity": "waste_disposal"
+  }
+},
+{
+  "type": "node",
+  "id": 7256442804,
+  "lat": 49.2713753,
+  "lon": 7.0411319,
+  "tags": {
+    "amenity": "waste_disposal",
+    "waste": "trash"
+  }
+},
+{
+  "type": "node",
+  "id": 7395636184,
+  "lat": 49.2316186,
+  "lon": 6.9810012,
+  "tags": {
+    "amenity": "waste_disposal",
+    "colour": "black"
+  }
+},
+{
+  "type": "node",
+  "id": 7411733352,
+  "lat": 49.2307685,
+  "lon": 6.9805775,
+  "tags": {
+    "amenity": "waste_disposal",
+    "colour": "black;green",
+    "material": "plastic",
+    "waste": "organic;trash"
+  }
+},
+{
+  "type": "node",
+  "id": 7430723684,
+  "lat": 49.2342561,
+  "lon": 6.9773705,
+  "tags": {
+    "amenity": "waste_disposal",
+    "colour": "black;yellow;blue",
+    "material": "plastic",
+    "waste": "cardboard;paper;plastic;trash"
+  }
+},
+{
+  "type": "node",
+  "id": 7526520432,
+  "lat": 49.2246786,
+  "lon": 7.0013716,
+  "tags": {
+    "amenity": "waste_disposal",
+    "noname": "yes",
+    "operator": "WUD Entsorgung & Recycling GmbH",
+    "waste": "plastic"
+  }
+},
+{
+  "type": "node",
+  "id": 7563101141,
+  "lat": 49.2334775,
+  "lon": 7.0044749,
+  "tags": {
+    "amenity": "waste_disposal",
+    "waste": "trash"
+  }
+},
+{
+  "type": "node",
+  "id": 7613224730,
+  "lat": 49.2286891,
+  "lon": 6.9930325,
+  "tags": {
+    "amenity": "waste_disposal",
+    "noname": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7613466374,
+  "lat": 49.2287434,
+  "lon": 6.9946578,
+  "tags": {
+    "amenity": "waste_disposal",
+    "colour": "black;yellow",
+    "material": "plastic",
+    "noname": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7618458766,
+  "lat": 49.2329827,
+  "lon": 6.9781000,
+  "tags": {
+    "amenity": "waste_disposal",
+    "noname": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7737472055,
+  "lat": 49.2354243,
+  "lon": 6.9946660,
+  "tags": {
+    "amenity": "waste_disposal",
+    "noname": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7741784776,
+  "lat": 49.2349105,
+  "lon": 7.0079113,
+  "tags": {
+    "amenity": "waste_disposal",
+    "covered": "yes",
+    "noname": "yes",
+    "waste": "trash"
+  }
+},
+{
+  "type": "node",
+  "id": 7741784780,
+  "lat": 49.2324941,
+  "lon": 7.0110136,
+  "tags": {
+    "amenity": "waste_disposal",
+    "colour": "yellow;black;blue",
+    "material": "plastic",
+    "noname": "yes",
+    "waste": "plastic;trash;paper;cardboard"
+  }
+},
+{
+  "type": "node",
+  "id": 7766402598,
+  "lat": 49.2434471,
+  "lon": 6.9878038,
+  "tags": {
+    "amenity": "waste_disposal",
+    "noname": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7833950573,
+  "lat": 49.1589299,
+  "lon": 7.2426195,
+  "tags": {
+    "amenity": "waste_disposal",
+    "waste": "trash"
+  }
+},
+{
+  "type": "node",
+  "id": 7903331144,
+  "lat": 49.2372723,
+  "lon": 6.9869228,
+  "tags": {
+    "amenity": "waste_disposal"
+  }
+},
+{
+  "type": "node",
+  "id": 8017257472,
+  "lat": 49.2153845,
+  "lon": 7.0308778,
+  "tags": {
+    "amenity": "waste_disposal",
+    "noname": "yes",
+    "waste": "trash"
+  }
+},
+{
+  "type": "node",
+  "id": 8082068100,
+  "lat": 49.2319589,
+  "lon": 6.9841292,
+  "tags": {
+    "amenity": "waste_disposal",
+    "waste": "trash"
+  }
+},
+{
+  "type": "node",
+  "id": 8104084982,
+  "lat": 49.2207177,
+  "lon": 6.9936981,
+  "tags": {
+    "access": "private",
+    "amenity": "waste_disposal",
+    "colour": "black;blue;yellow",
+    "material": "plastic",
+    "waste": "cardboard;paper;plastic;trash"
+  }
+},
+{
+  "type": "node",
+  "id": 8116457601,
+  "lat": 49.2239364,
+  "lon": 7.0266574,
+  "tags": {
+    "amenity": "waste_disposal"
+  }
+},
+{
+  "type": "node",
+  "id": 8116457615,
+  "lat": 49.2234623,
+  "lon": 7.0266064,
+  "tags": {
+    "amenity": "waste_disposal"
+  }
+},
+{
+  "type": "node",
+  "id": 8118750123,
+  "lat": 49.2323065,
+  "lon": 6.9622668,
+  "tags": {
+    "amenity": "waste_disposal",
+    "colour": "yellow;black;blue",
+    "material": "plastic"
+  }
+},
+{
+  "type": "node",
+  "id": 8164576085,
+  "lat": 49.2217957,
+  "lon": 6.9804537,
+  "tags": {
+    "access": "private",
+    "amenity": "waste_disposal",
+    "colour": "black;blue;yellow",
+    "material": "plastic",
+    "waste": "cardboard;paper;plastic;trash"
+  }
+},
+{
+  "type": "node",
+  "id": 8187900350,
+  "lat": 49.2229355,
+  "lon": 6.9634060,
+  "tags": {
+    "amenity": "waste_disposal",
+    "waste": "trash"
+  }
+},
+{
+  "type": "node",
+  "id": 8204046260,
+  "lat": 49.2209288,
+  "lon": 6.9628101,
+  "tags": {
+    "access": "private",
+    "amenity": "waste_disposal",
+    "colour": "black;blue;yellow",
+    "covered": "yes",
+    "material": "plastic",
+    "waste": "cardboard;paper;plastic;trash"
+  }
+},
+{
+  "type": "node",
+  "id": 8713612520,
+  "lat": 49.2400546,
+  "lon": 6.9928674,
+  "tags": {
+    "access": "private",
+    "amenity": "waste_disposal",
+    "colour": "blue;gray"
+  }
+},
+{
+  "type": "node",
+  "id": 8731705347,
+  "lat": 49.2277312,
+  "lon": 7.0387812,
+  "tags": {
+    "amenity": "waste_disposal"
+  }
+},
+{
+  "type": "node",
+  "id": 8882656241,
+  "lat": 49.2327613,
+  "lon": 6.9993520,
+  "tags": {
+    "amenity": "waste_disposal"
+  }
+},
+{
+  "type": "node",
+  "id": 8994102085,
+  "lat": 49.2386869,
+  "lon": 6.9783894,
+  "tags": {
+    "amenity": "waste_disposal"
+  }
+},
+{
+  "type": "node",
+  "id": 9064644073,
+  "lat": 49.2771213,
+  "lon": 6.9509024,
+  "tags": {
+    "amenity": "waste_disposal",
+    "recycling_type": "container",
+    "waste": "trash"
+  }
+},
+{
+  "type": "node",
+  "id": 9294806910,
+  "lat": 49.2219796,
+  "lon": 6.9651424,
+  "tags": {
+    "access": "private",
+    "amenity": "waste_disposal",
+    "colour": "black;blue;yellow",
+    "material": "plastic",
+    "waste": "trash"
+  }
+},
+{
+  "type": "node",
+  "id": 9498400824,
+  "lat": 49.2337362,
+  "lon": 7.0069347,
+  "tags": {
+    "amenity": "waste_disposal",
+    "covered": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9545425853,
+  "lat": 49.2335089,
+  "lon": 6.9898904,
+  "tags": {
+    "amenity": "waste_disposal"
+  }
+},
+{
+  "type": "node",
+  "id": 9666897526,
+  "lat": 49.2423985,
+  "lon": 6.9875296,
+  "tags": {
+    "amenity": "waste_disposal"
+  }
+},
+{
+  "type": "node",
+  "id": 9705805846,
+  "lat": 49.2344711,
+  "lon": 7.0292564,
+  "tags": {
+    "access": "private",
+    "amenity": "waste_disposal",
+    "waste": "trash"
+  }
+},
+{
+  "type": "node",
+  "id": 9727757687,
+  "lat": 49.2329328,
+  "lon": 7.0110433,
+  "tags": {
+    "amenity": "waste_disposal",
+    "colour": "yellow;black;blue",
+    "material": "plastic",
+    "noname": "yes",
+    "waste": "plastic;trash;paper;cardboard"
+  }
+},
+{
+  "type": "node",
+  "id": 9735840195,
+  "lat": 49.2322094,
+  "lon": 7.0113297,
+  "tags": {
+    "amenity": "waste_disposal",
+    "colour": "yellow;black;blue",
+    "material": "plastic",
+    "noname": "yes",
+    "waste": "plastic;trash;paper;cardboard"
+  }
+},
+{
+  "type": "node",
+  "id": 9735840201,
+  "lat": 49.2331290,
+  "lon": 7.0114218,
+  "tags": {
+    "amenity": "waste_disposal",
+    "colour": "black;blue;yellow",
+    "material": "plastic",
+    "waste": "cardboard;paper;plastic;trash"
+  }
+},
+{
+  "type": "node",
+  "id": 9875500075,
+  "lat": 49.2590390,
+  "lon": 7.0488081,
+  "tags": {
+    "access": "private",
+    "amenity": "waste_disposal",
+    "waste": "trash"
+  }
+},
+{
+  "type": "node",
+  "id": 9934659798,
+  "lat": 49.2334693,
+  "lon": 7.0273581,
+  "tags": {
+    "amenity": "waste_disposal",
+    "waste": "trash"
+  }
+},
+{
+  "type": "node",
+  "id": 9934684048,
+  "lat": 49.2343853,
+  "lon": 7.0290599,
+  "tags": {
+    "access": "private",
+    "amenity": "waste_disposal",
+    "waste": "trash"
+  }
+},
+{
+  "type": "node",
+  "id": 9945821675,
+  "lat": 49.2383401,
+  "lon": 6.9747689,
+  "tags": {
+    "amenity": "waste_disposal",
+    "colour": "green;black;yellow"
+  }
+},
+{
+  "type": "node",
+  "id": 9947892835,
+  "lat": 49.2070694,
+  "lon": 6.9554891,
+  "tags": {
+    "amenity": "waste_disposal",
+    "colour": "green",
+    "material": "plastic",
+    "waste": "organic"
+  }
+},
+{
+  "type": "node",
+  "id": 9947892850,
+  "lat": 49.2060445,
+  "lon": 6.9592422,
+  "tags": {
+    "amenity": "waste_disposal",
+    "colour": "green",
+    "material": "plastic",
+    "waste": "organic"
+  }
+},
+{
+  "type": "node",
+  "id": 9947892852,
+  "lat": 49.2061396,
+  "lon": 6.9547884,
+  "tags": {
+    "amenity": "waste_disposal",
+    "colour": "green",
+    "material": "plastic",
+    "waste": "organic"
+  }
+},
+{
+  "type": "node",
+  "id": 9947892855,
+  "lat": 49.2064754,
+  "lon": 6.9542429,
+  "tags": {
+    "amenity": "waste_disposal",
+    "colour": "green",
+    "material": "plastic",
+    "waste": "organic"
+  }
+},
+{
+  "type": "node",
+  "id": 9978601023,
+  "lat": 49.2271841,
+  "lon": 6.9766778,
+  "tags": {
+    "amenity": "waste_disposal",
+    "colour": "black;blue;yellow",
+    "material": "plastic",
+    "waste": "plastic;trash;paper;cardboard"
+  }
+},
+{
+  "type": "node",
+  "id": 9999795927,
+  "lat": 49.2538743,
+  "lon": 6.9464750,
+  "tags": {
+    "amenity": "waste_disposal",
+    "colour": "green",
+    "material": "plastic",
+    "waste": "organic"
+  }
+},
+{
+  "type": "node",
+  "id": 10004968508,
+  "lat": 49.2936049,
+  "lon": 6.7580229,
+  "tags": {
+    "amenity": "waste_disposal",
+    "colour": "yellow",
+    "material": "plastic",
+    "waste": "plastic"
+  }
+},
+{
+  "type": "node",
+  "id": 10008448472,
+  "lat": 49.2768287,
+  "lon": 7.0333797,
+  "tags": {
+    "access": "private",
+    "amenity": "waste_disposal",
+    "waste": "trash"
+  }
+},
+{
+  "type": "node",
+  "id": 10015793446,
+  "lat": 49.2287091,
+  "lon": 6.9905865,
+  "tags": {
+    "amenity": "waste_disposal"
+  }
+},
+{
+  "type": "node",
+  "id": 10053318153,
+  "lat": 49.2481336,
+  "lon": 7.0274600,
+  "tags": {
+    "access": "private",
+    "amenity": "waste_disposal",
+    "waste": "trash"
+  }
+},
+{
+  "type": "node",
+  "id": 10077768843,
+  "lat": 49.2081273,
+  "lon": 6.9594931,
+  "tags": {
+    "amenity": "waste_disposal",
+    "colour": "green",
+    "material": "plastic",
+    "waste": "organic"
+  }
+},
+{
+  "type": "node",
+  "id": 10090224953,
+  "lat": 49.2337909,
+  "lon": 7.0110875,
+  "tags": {
+    "amenity": "waste_disposal",
+    "colour": "yellow;black;blue",
+    "material": "plastic",
+    "noname": "yes",
+    "waste": "plastic;trash;paper;cardboard"
+  }
+},
+{
+  "type": "node",
+  "id": 10125058485,
+  "lat": 49.2322551,
+  "lon": 6.9757931,
+  "tags": {
+    "amenity": "waste_disposal",
+    "colour": "black",
+    "covered": "yes",
+    "material": "plastic",
+    "waste": "trash"
+  }
+},
+{
+  "type": "node",
+  "id": 10200930800,
+  "lat": 49.3439258,
+  "lon": 7.0341627,
+  "tags": {
+    "amenity": "waste_disposal"
+  }
+},
+{
+  "type": "node",
+  "id": 10200930801,
+  "lat": 49.3439818,
+  "lon": 7.0349561,
+  "tags": {
+    "amenity": "waste_disposal"
+  }
+},
+{
+  "type": "node",
+  "id": 10222504203,
+  "lat": 49.2256925,
+  "lon": 6.9857675,
+  "tags": {
+    "amenity": "waste_disposal",
+    "colour": "black;blue;yellow",
+    "material": "plastic",
+    "waste": "cardboard;paper;plastic;trash"
+  }
+},
+{
+  "type": "node",
+  "id": 10233574998,
+  "lat": 49.2331275,
+  "lon": 6.9780826,
+  "tags": {
+    "amenity": "waste_disposal",
+    "noname": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 10233616869,
+  "lat": 49.2314299,
+  "lon": 6.9800295,
+  "tags": {
+    "amenity": "waste_disposal",
+    "colour": "black;blue;yellow",
+    "material": "plastic"
+  }
+},
+{
+  "type": "node",
+  "id": 10247551589,
+  "lat": 49.3160063,
+  "lon": 6.7466902,
+  "tags": {
+    "amenity": "waste_disposal"
+  }
+},
+{
+  "type": "node",
+  "id": 10250924010,
+  "lat": 49.2137709,
+  "lon": 6.9500870,
+  "tags": {
+    "amenity": "waste_disposal",
+    "colour": "green",
+    "material": "plastic",
+    "waste": "organic"
+  }
+},
+{
+  "type": "node",
+  "id": 10276640401,
+  "lat": 49.2343470,
+  "lon": 7.0498068,
+  "tags": {
+    "amenity": "waste_disposal"
+  }
+},
+{
+  "type": "node",
+  "id": 10299222135,
+  "lat": 49.2374473,
+  "lon": 7.0437524,
+  "tags": {
+    "amenity": "waste_disposal"
+  }
+},
+{
+  "type": "node",
+  "id": 10313692190,
+  "lat": 49.2372218,
+  "lon": 7.0400056,
+  "tags": {
+    "amenity": "waste_disposal",
+    "colour": "black;blue;yellow",
+    "material": "plastic"
+  }
+},
+{
+  "type": "node",
+  "id": 10313696233,
+  "lat": 49.2375893,
+  "lon": 7.0429555,
+  "tags": {
+    "amenity": "waste_disposal",
+    "colour": "black;blue;yellow",
+    "material": "plastic"
+  }
+},
+{
+  "type": "node",
+  "id": 10313696271,
+  "lat": 49.2375965,
+  "lon": 7.0416481,
+  "tags": {
+    "amenity": "waste_disposal",
+    "colour": "black;blue;yellow",
+    "material": "plastic"
+  }
+},
+{
+  "type": "node",
+  "id": 10313696396,
+  "lat": 49.2373478,
+  "lon": 7.0408048,
+  "tags": {
+    "amenity": "waste_disposal",
+    "colour": "black;blue;yellow",
+    "material": "plastic"
+  }
+},
+{
+  "type": "node",
+  "id": 10316875443,
+  "lat": 49.2312901,
+  "lon": 6.9896647,
+  "tags": {
+    "amenity": "waste_disposal"
+  }
+},
+{
+  "type": "node",
+  "id": 10543774704,
+  "lat": 49.2398973,
+  "lon": 6.9845105,
+  "tags": {
+    "amenity": "waste_disposal",
+    "colour": "black;blue;yellow",
+    "material": "plastic",
+    "waste": "cardboard;paper;plastic;trash"
+  }
+},
+{
+  "type": "node",
+  "id": 10575026909,
+  "lat": 49.2391750,
+  "lon": 7.0478452,
+  "tags": {
+    "amenity": "waste_disposal",
+    "colour": "black;blue;yellow",
+    "material": "plastic",
+    "waste": "cardboard;paper;plastic;trash"
+  }
+},
+{
+  "type": "node",
+  "id": 10577309300,
+  "lat": 49.2336038,
+  "lon": 7.0114110,
+  "tags": {
+    "amenity": "waste_disposal",
+    "colour": "black;blue;yellow",
+    "material": "plastic",
+    "waste": "cardboard;paper;plastic;trash"
+  }
+},
+{
+  "type": "node",
+  "id": 10671668404,
+  "lat": 49.2540543,
+  "lon": 7.0643769,
+  "tags": {
+    "amenity": "waste_disposal",
+    "colour": "green",
+    "material": "plastic",
+    "waste": "organic"
+  }
+},
+{
+  "type": "node",
+  "id": 10671677484,
+  "lat": 49.2540958,
+  "lon": 7.0637964,
+  "tags": {
+    "amenity": "waste_disposal",
+    "colour": "green",
+    "material": "plastic",
+    "waste": "organic"
+  }
+},
+{
+  "type": "node",
+  "id": 10671677516,
+  "lat": 49.2536586,
+  "lon": 7.0642460,
+  "tags": {
+    "amenity": "waste_disposal",
+    "colour": "green",
+    "material": "plastic",
+    "waste": "organic"
+  }
+},
+{
+  "type": "node",
+  "id": 10783306647,
+  "lat": 49.2505970,
+  "lon": 6.9498344,
+  "tags": {
+    "amenity": "waste_disposal",
+    "colour": "green",
+    "material": "plastic",
+    "waste": "organic"
+  }
+},
+{
+  "type": "node",
+  "id": 10783306648,
+  "lat": 49.2504680,
+  "lon": 6.9505547,
+  "tags": {
+    "amenity": "waste_disposal",
+    "colour": "green",
+    "material": "plastic",
+    "waste": "organic"
+  }
+},
+{
+  "type": "node",
+  "id": 10873951100,
+  "lat": 49.2203671,
+  "lon": 6.9647990,
+  "tags": {
+    "access": "private",
+    "amenity": "waste_disposal",
+    "colour": "black;blue;yellow",
+    "covered": "yes",
+    "material": "plastic",
+    "waste": "cardboard;paper;plastic;trash"
+  }
+},
+{
+  "type": "node",
+  "id": 10873951101,
+  "lat": 49.2213188,
+  "lon": 6.9642161,
+  "tags": {
+    "access": "private",
+    "amenity": "waste_disposal",
+    "colour": "black;blue;yellow",
+    "covered": "yes",
+    "material": "plastic",
+    "waste": "cardboard;paper;plastic;trash"
+  }
+},
+{
+  "type": "node",
+  "id": 10873975215,
+  "lat": 49.2197154,
+  "lon": 6.9657374,
+  "tags": {
+    "access": "private",
+    "amenity": "waste_disposal",
+    "colour": "black;blue;yellow",
+    "covered": "yes",
+    "material": "plastic",
+    "waste": "cardboard;paper;plastic;trash"
+  }
+},
+{
+  "type": "node",
+  "id": 10873975216,
+  "lat": 49.2223461,
+  "lon": 6.9642912,
+  "tags": {
+    "access": "private",
+    "amenity": "waste_disposal",
+    "colour": "black;blue;yellow",
+    "covered": "yes",
+    "material": "plastic",
+    "waste": "cardboard;paper;plastic;trash"
+  }
+},
+{
+  "type": "node",
+  "id": 10873975220,
+  "lat": 49.2217197,
+  "lon": 6.9633700,
+  "tags": {
+    "access": "private",
+    "amenity": "waste_disposal",
+    "colour": "black;blue;yellow",
+    "covered": "yes",
+    "material": "plastic",
+    "waste": "cardboard;paper;plastic;trash"
+  }
+},
+{
+  "type": "node",
+  "id": 10873975221,
+  "lat": 49.2218206,
+  "lon": 6.9643478,
+  "tags": {
+    "access": "private",
+    "amenity": "waste_disposal",
+    "colour": "black;blue;yellow",
+    "covered": "yes",
+    "material": "plastic",
+    "waste": "cardboard;paper;plastic;trash"
+  }
+},
+{
+  "type": "node",
+  "id": 10873975224,
+  "lat": 49.2223467,
+  "lon": 6.9642466,
+  "tags": {
+    "access": "private",
+    "amenity": "waste_disposal",
+    "colour": "black;blue;yellow",
+    "covered": "yes",
+    "material": "plastic",
+    "waste": "cardboard;paper;plastic;trash"
+  }
+},
+{
+  "type": "node",
+  "id": 10873975230,
+  "lat": 49.2194893,
+  "lon": 6.9647541,
+  "tags": {
+    "access": "private",
+    "amenity": "waste_disposal",
+    "colour": "black;blue;yellow",
+    "covered": "yes",
+    "material": "plastic",
+    "waste": "cardboard;paper;plastic;trash"
+  }
+},
+{
+  "type": "node",
+  "id": 10873975240,
+  "lat": 49.2219508,
+  "lon": 6.9633796,
+  "tags": {
+    "access": "private",
+    "amenity": "waste_disposal",
+    "colour": "black;blue;yellow",
+    "covered": "yes",
+    "material": "plastic",
+    "waste": "cardboard;paper;plastic;trash"
+  }
+},
+{
+  "type": "node",
+  "id": 10873975245,
+  "lat": 49.2199452,
+  "lon": 6.9647749,
+  "tags": {
+    "access": "private",
+    "amenity": "waste_disposal",
+    "colour": "black;blue;yellow",
+    "covered": "yes",
+    "material": "plastic",
+    "waste": "cardboard;paper;plastic;trash"
+  }
+},
+{
+  "type": "node",
+  "id": 10873975246,
+  "lat": 49.2213192,
+  "lon": 6.9643164,
+  "tags": {
+    "access": "private",
+    "amenity": "waste_disposal",
+    "colour": "black;blue;yellow",
+    "covered": "yes",
+    "material": "plastic",
+    "waste": "cardboard;paper;plastic;trash"
+  }
+},
+{
+  "type": "node",
+  "id": 10873975247,
+  "lat": 49.2218222,
+  "lon": 6.9642406,
+  "tags": {
+    "access": "private",
+    "amenity": "waste_disposal",
+    "colour": "black;blue;yellow",
+    "covered": "yes",
+    "material": "plastic",
+    "waste": "cardboard;paper;plastic;trash"
+  }
+},
+{
+  "type": "node",
+  "id": 10873975249,
+  "lat": 49.2202256,
+  "lon": 6.9656677,
+  "tags": {
+    "access": "private",
+    "amenity": "waste_disposal",
+    "colour": "black;blue;yellow",
+    "covered": "yes",
+    "material": "plastic",
+    "waste": "cardboard;paper;plastic;trash"
+  }
+},
+{
+  "type": "node",
+  "id": 10873975250,
+  "lat": 49.2197165,
+  "lon": 6.9656360,
+  "tags": {
+    "access": "private",
+    "amenity": "waste_disposal",
+    "colour": "black;blue;yellow",
+    "covered": "yes",
+    "material": "plastic",
+    "waste": "cardboard;paper;plastic;trash"
+  }
+},
+{
+  "type": "node",
+  "id": 10873975258,
+  "lat": 49.2212004,
+  "lon": 6.9633394,
+  "tags": {
+    "access": "private",
+    "amenity": "waste_disposal",
+    "colour": "black;blue;yellow",
+    "covered": "yes",
+    "material": "plastic",
+    "waste": "cardboard;paper;plastic;trash"
+  }
+},
+{
+  "type": "node",
+  "id": 10873975260,
+  "lat": 49.2205558,
+  "lon": 6.9649678,
+  "tags": {
+    "access": "private",
+    "amenity": "waste_disposal",
+    "colour": "black;blue;yellow",
+    "covered": "yes",
+    "material": "plastic",
+    "waste": "cardboard;paper;plastic;trash"
+  }
+},
+{
+  "type": "node",
+  "id": 10873975264,
+  "lat": 49.2202233,
+  "lon": 6.9657707,
+  "tags": {
+    "access": "private",
+    "amenity": "waste_disposal",
+    "colour": "black;blue;yellow",
+    "covered": "yes",
+    "material": "plastic",
+    "waste": "cardboard;paper;plastic;trash"
+  }
+},
+{
+  "type": "node",
+  "id": 10927831031,
+  "lat": 49.2272579,
+  "lon": 6.9236711,
+  "tags": {
+    "amenity": "waste_disposal",
+    "colour": "green",
+    "material": "plastic",
+    "waste": "organic"
+  }
+},
+{
+  "type": "node",
+  "id": 10927831060,
+  "lat": 49.2268643,
+  "lon": 6.9255095,
+  "tags": {
+    "amenity": "waste_disposal",
+    "colour": "green",
+    "material": "plastic",
+    "waste": "organic"
+  }
+},
+{
+  "type": "node",
+  "id": 10927831086,
+  "lat": 49.2270366,
+  "lon": 6.9245804,
+  "tags": {
+    "amenity": "waste_disposal",
+    "colour": "green",
+    "material": "plastic",
+    "waste": "organic"
+  }
+},
+{
+  "type": "node",
+  "id": 10927831135,
+  "lat": 49.2275797,
+  "lon": 6.9238357,
+  "tags": {
+    "amenity": "waste_disposal",
+    "colour": "green",
+    "material": "plastic",
+    "waste": "organic"
+  }
+},
+{
+  "type": "node",
+  "id": 10927831194,
+  "lat": 49.2263893,
+  "lon": 6.9257165,
+  "tags": {
+    "amenity": "waste_disposal",
+    "colour": "green",
+    "material": "plastic",
+    "waste": "organic"
+  }
+},
+{
+  "type": "node",
+  "id": 10935310258,
+  "lat": 49.2321999,
+  "lon": 7.0283465,
+  "tags": {
+    "access": "private",
+    "amenity": "waste_disposal",
+    "waste": "trash"
+  }
+},
+{
+  "type": "node",
+  "id": 10977347799,
+  "lat": 49.2066819,
+  "lon": 6.9596226,
+  "tags": {
+    "amenity": "waste_disposal",
+    "colour": "green",
+    "material": "plastic",
+    "waste": "organic"
+  }
+},
+{
+  "type": "node",
+  "id": 11042979165,
+  "lat": 49.2322266,
+  "lon": 7.0193312,
+  "tags": {
+    "access": "private",
+    "amenity": "waste_disposal",
+    "colour": "black;blue;green;yellow",
+    "material": "plastic",
+    "waste": "cardboard;paper;plastic;trash"
+  }
+},
+{
+  "type": "node",
+  "id": 11132933113,
+  "lat": 49.5664549,
+  "lon": 7.0646663,
+  "tags": {
+    "access": "customers",
+    "amenity": "waste_disposal",
+    "waste": "trash"
+  }
+},
+{
+  "type": "node",
+  "id": 11132933170,
+  "lat": 49.5684736,
+  "lon": 7.0653409,
+  "tags": {
+    "access": "customers",
+    "amenity": "waste_disposal",
+    "waste": "trash"
+  }
+},
+{
+  "type": "node",
+  "id": 11132933171,
+  "lat": 49.5678430,
+  "lon": 7.0651478,
+  "tags": {
+    "access": "customers",
+    "amenity": "waste_disposal",
+    "waste": "trash"
+  }
+},
+{
+  "type": "node",
+  "id": 11132933172,
+  "lat": 49.5671846,
+  "lon": 7.0649204,
+  "tags": {
+    "access": "customers",
+    "amenity": "waste_disposal",
+    "waste": "trash"
+  }
+},
+{
+  "type": "node",
+  "id": 11137279900,
+  "lat": 49.2198599,
+  "lon": 7.0094001,
+  "tags": {
+    "access": "private",
+    "amenity": "waste_disposal",
+    "colour": "black;blue;green",
+    "material": "plastic",
+    "waste": "cardboard;paper;plastic;trash"
+  }
+},
+{
+  "type": "way",
+  "id": 816291370,
+  "nodes": [
+    7623733668,
+    7623733671,
+    7623733670,
+    7623733669,
+    7623733668
+  ],
+  "tags": {
+    "amenity": "waste_disposal",
+    "building": "shed",
+    "noname": "yes",
+    "waste": "trash"
+  }
+},
+{
+  "type": "area",
+  "id": 3600062372,
+  "tags": {
+    "ISO3166-2": "DE-SL",
+    "TMC:cid_58:tabcd_1:Class": "Area",
+    "TMC:cid_58:tabcd_1:LCLversion": "12.0",
+    "TMC:cid_58:tabcd_1:LocationCode": "265",
+    "admin_level": "4",
+    "alt_name:ca": "Sarre",
+    "alt_name:cs": "Sársko",
+    "border_type": "state",
+    "boundary": "administrative",
+    "de:amtlicher_gemeindeschluessel": "10",
+    "de:regionalschluessel": "10",
+    "name": "Saarland",
+    "name:ar": "سارلاند",
+    "name:ca": "Saarland",
+    "name:cs": "Země Sársko",
+    "name:en": "Saarland",
+    "name:eo": "Sarlando",
+    "name:es": "Sarre",
+    "name:fa": "زارلند",
+    "name:fr": "Sarre",
+    "name:hsb": "Posaarska",
+    "name:hu": "Saar-vidék",
+    "name:lt": "Saro kraštas",
+    "name:mk": "Сар",
+    "name:pl": "Saara",
+    "name:prefix": "Bundesland",
+    "name:pt": "Sarre",
+    "name:ru": "Саар",
+    "name:sk": "Sársko",
+    "name:sl": "Posarje",
+    "name:sr": "Сарланд",
+    "name:th": "รัฐซาร์ลันท์",
+    "name:uk": "Саарланд",
+    "name:ur": "سارلینڈ",
+    "name:vo": "Saarlän",
+    "name:zh": "萨尔",
+    "ref": "SL",
+    "ref:nuts:1": "DEC",
+    "ref:nuts:2": "DEC0",
+    "source": "http://wiki.openstreetmap.org/wiki/Import/Catalogue/Kreisgrenzen_Deutschland_2005",
+    "type": "boundary",
+    "wikidata": "Q1201",
+    "wikipedia": "de:Saarland"
+  }
+},
+{
+  "type": "node",
+  "id": 7623733668,
+  "lat": 49.2303372,
+  "lon": 7.0057269
+},
+{
+  "type": "node",
+  "id": 7623733670,
+  "lat": 49.2302821,
+  "lon": 7.0057957
+},
+{
+  "type": "node",
+  "id": 7623733671,
+  "lat": 49.2302995,
+  "lon": 7.0057092
+},
+{
+  "type": "node",
+  "id": 7623733669,
+  "lat": 49.2303198,
+  "lon": 7.0058135
+}
+
+  ]
+}

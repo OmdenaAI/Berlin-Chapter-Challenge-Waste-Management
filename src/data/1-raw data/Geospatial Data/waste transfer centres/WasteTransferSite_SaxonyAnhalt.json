@@ -1,0 +1,437 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.61.5 4133829e",
+  "osm3s": {
+    "timestamp_osm_base": "2023-09-08T04:12:46Z",
+    "timestamp_areas_base": "2023-09-08T02:44:08Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "way",
+  "id": 724666576,
+  "nodes": [
+    9686338667,
+    6796333078,
+    9686338672,
+    9686338665,
+    9686338673,
+    9686338674,
+    9686338675,
+    9686338676,
+    9686338666,
+    9686338667
+  ],
+  "tags": {
+    "amenity": "waste_transfer_station"
+  }
+},
+{
+  "type": "way",
+  "id": 839558358,
+  "nodes": [
+    1384004880,
+    7834283702,
+    7834283703,
+    7834283704,
+    7834283705,
+    1384004882,
+    1384010486,
+    1384004880
+  ],
+  "tags": {
+    "addr:city": "Köthen (Anhalt)",
+    "addr:housenumber": "60",
+    "addr:postcode": "06366",
+    "addr:street": "Maxdorfer Straße",
+    "amenity": "waste_transfer_station",
+    "name": "PreZero Umladestation & Schadstofflager Köthen",
+    "opening_hours": "Mo, Tu, We, Fr 08:00 - 12:00, 12:30 - 17:00; Th 08:00 - 12:00, 12:30 - 16:00; Sa 08:00 - 12:00",
+    "phone": "+493496212694",
+    "waste": "pollutant",
+    "website": "https://prezero.com/koethen/"
+  }
+},
+{
+  "type": "way",
+  "id": 981177092,
+  "nodes": [
+    10749073447,
+    10749073446,
+    10749073445,
+    10749073444,
+    10749073443,
+    10749073442,
+    10749073441,
+    10749073440,
+    10749073439,
+    10749073438,
+    10749073437,
+    10749073436,
+    10749073435,
+    10749073434,
+    10749073433,
+    10749073462,
+    10749073461,
+    10749073448,
+    10749073460,
+    10749073459,
+    10749073458,
+    10749073457,
+    10749073456,
+    10749073455,
+    10749073454,
+    10749073453,
+    10749073452,
+    10749073449,
+    10749073451,
+    10749073450,
+    10749073447
+  ],
+  "tags": {
+    "amenity": "waste_transfer_station",
+    "barrier": "fence",
+    "landuse": "commercial",
+    "name": "ESG Saalkreis",
+    "operator": "Entsorgungsgesellschaft Saalekreis mbH"
+  }
+},
+{
+  "type": "area",
+  "id": 3600062607,
+  "tags": {
+    "ISO3166-2": "DE-ST",
+    "TMC:cid_58:tabcd_1:Class": "Area",
+    "TMC:cid_58:tabcd_1:LCLversion": "12.0",
+    "TMC:cid_58:tabcd_1:LocationCode": "270",
+    "admin_level": "4",
+    "alt_name:eo": "Saksujo-Anhalto",
+    "alt_name:pt": "Alta Saxónia;Alto Saxe",
+    "border_type": "state",
+    "boundary": "administrative",
+    "de:amtlicher_gemeindeschluessel": "15",
+    "de:regionalschluessel": "15",
+    "name": "Sachsen-Anhalt",
+    "name:ar": "سكسونيا أنهالت",
+    "name:ca": "Saxònia-Anhalt",
+    "name:cs": "Sasko-Anhaltsko",
+    "name:de": "Sachsen-Anhalt",
+    "name:en": "Saxony-Anhalt",
+    "name:eo": "Saksio-Anhalto",
+    "name:es": "Sajonia-Anhalt",
+    "name:fa": "زاکسن-آنهالت",
+    "name:fr": "Saxe-Anhalt",
+    "name:hr": "Saska-Anhalt",
+    "name:hsb": "Saksko-Anhaltska",
+    "name:hu": "Szász-Anhalt",
+    "name:ia": "Saxonia-Anhaltinia",
+    "name:io": "Saxonia-Anhalt",
+    "name:is": "Saxland-Anhalt",
+    "name:it": "Sassonia-Anhalt",
+    "name:lt": "Saksonija-Anhaltas",
+    "name:mk": "Саксонија-Анхалт",
+    "name:nl": "Saksen-Anhalt",
+    "name:pl": "Saksonia-Anhalt",
+    "name:prefix": "Bundesland",
+    "name:pt": "Alta Saxônia",
+    "name:ru": "Саксония-Анхальт",
+    "name:sk": "Sasko-Anhaltsko",
+    "name:sl": "Saška-Anhalt",
+    "name:sr": "Саксонија-Анхалт",
+    "name:sv": "Sachsen-Anhalt",
+    "name:th": "รัฐซัคเซิน-อันฮัลท์",
+    "name:uk": "Саксонія-Ангальт",
+    "name:ur": "زاکسن-آنہالت",
+    "name:vo": "Saxän-Lanhaltän",
+    "name:zh": "萨克森－安哈尔特",
+    "name:zh-Hans": "萨克森－安哈尔特",
+    "name:zh-Hant": "薩克森－安哈爾特",
+    "ref": "ST",
+    "ref:nuts:1": "DEE",
+    "ref:nuts:2": "DEE0",
+    "source": "http://wiki.openstreetmap.org/wiki/Import/Catalogue/Kreisgrenzen_Deutschland_2005",
+    "type": "boundary",
+    "wikidata": "Q1206",
+    "wikipedia": "de:Sachsen-Anhalt"
+  }
+},
+{
+  "type": "node",
+  "id": 10749073433,
+  "lat": 51.5485813,
+  "lon": 12.0494620
+},
+{
+  "type": "node",
+  "id": 10749073434,
+  "lat": 51.5485444,
+  "lon": 12.0496774
+},
+{
+  "type": "node",
+  "id": 10749073435,
+  "lat": 51.5484513,
+  "lon": 12.0496307
+},
+{
+  "type": "node",
+  "id": 10749073436,
+  "lat": 51.5481686,
+  "lon": 12.0513381
+},
+{
+  "type": "node",
+  "id": 10749073437,
+  "lat": 51.5482792,
+  "lon": 12.0513819
+},
+{
+  "type": "node",
+  "id": 10749073438,
+  "lat": 51.5482603,
+  "lon": 12.0515167
+},
+{
+  "type": "node",
+  "id": 10749073439,
+  "lat": 51.5481572,
+  "lon": 12.0514758
+},
+{
+  "type": "node",
+  "id": 10749073440,
+  "lat": 51.5481392,
+  "lon": 12.0516015
+},
+{
+  "type": "node",
+  "id": 10749073441,
+  "lat": 51.5491082,
+  "lon": 12.0519510
+},
+{
+  "type": "node",
+  "id": 10749073442,
+  "lat": 51.5491390,
+  "lon": 12.0517293
+},
+{
+  "type": "node",
+  "id": 10749073443,
+  "lat": 51.5491021,
+  "lon": 12.0517017
+},
+{
+  "type": "node",
+  "id": 10749073444,
+  "lat": 51.5490871,
+  "lon": 12.0516841
+},
+{
+  "type": "node",
+  "id": 10749073445,
+  "lat": 51.5490608,
+  "lon": 12.0516325
+},
+{
+  "type": "node",
+  "id": 10749073446,
+  "lat": 51.5490503,
+  "lon": 12.0515972
+},
+{
+  "type": "node",
+  "id": 10749073447,
+  "lat": 51.5490419,
+  "lon": 12.0515464
+},
+{
+  "type": "node",
+  "id": 10749073448,
+  "lat": 51.5490577,
+  "lon": 12.0497330
+},
+{
+  "type": "node",
+  "id": 10749073449,
+  "lat": 51.5490515,
+  "lon": 12.0513215
+},
+{
+  "type": "node",
+  "id": 10749073450,
+  "lat": 51.5490606,
+  "lon": 12.0514165
+},
+{
+  "type": "node",
+  "id": 10749073451,
+  "lat": 51.5490417,
+  "lon": 12.0513762
+},
+{
+  "type": "node",
+  "id": 10749073452,
+  "lat": 51.5490608,
+  "lon": 12.0512700
+},
+{
+  "type": "node",
+  "id": 10749073453,
+  "lat": 51.5490865,
+  "lon": 12.0512512
+},
+{
+  "type": "node",
+  "id": 10749073454,
+  "lat": 51.5492992,
+  "lon": 12.0498736
+},
+{
+  "type": "node",
+  "id": 10749073455,
+  "lat": 51.5493003,
+  "lon": 12.0498179
+},
+{
+  "type": "node",
+  "id": 10749073456,
+  "lat": 51.5492945,
+  "lon": 12.0497863
+},
+{
+  "type": "node",
+  "id": 10749073457,
+  "lat": 51.5492818,
+  "lon": 12.0497623
+},
+{
+  "type": "node",
+  "id": 10749073458,
+  "lat": 51.5492668,
+  "lon": 12.0497416
+},
+{
+  "type": "node",
+  "id": 10749073459,
+  "lat": 51.5491403,
+  "lon": 12.0496908
+},
+{
+  "type": "node",
+  "id": 10749073460,
+  "lat": 51.5490981,
+  "lon": 12.0497476
+},
+{
+  "type": "node",
+  "id": 10749073461,
+  "lat": 51.5490173,
+  "lon": 12.0497183
+},
+{
+  "type": "node",
+  "id": 10749073462,
+  "lat": 51.5490026,
+  "lon": 12.0496353
+},
+{
+  "type": "node",
+  "id": 1384004880,
+  "lat": 51.7619722,
+  "lon": 11.9595026
+},
+{
+  "type": "node",
+  "id": 1384010486,
+  "lat": 51.7620605,
+  "lon": 11.9595499
+},
+{
+  "type": "node",
+  "id": 7834283702,
+  "lat": 51.7621901,
+  "lon": 11.9588531
+},
+{
+  "type": "node",
+  "id": 7834283703,
+  "lat": 51.7631379,
+  "lon": 11.9593683
+},
+{
+  "type": "node",
+  "id": 1384004882,
+  "lat": 51.7635326,
+  "lon": 11.9603380
+},
+{
+  "type": "node",
+  "id": 7834283704,
+  "lat": 51.7638136,
+  "lon": 11.9586484
+},
+{
+  "type": "node",
+  "id": 7834283705,
+  "lat": 51.7639963,
+  "lon": 11.9592130
+},
+{
+  "type": "node",
+  "id": 6796333078,
+  "lat": 51.8416782,
+  "lon": 12.2399173
+},
+{
+  "type": "node",
+  "id": 9686338665,
+  "lat": 51.8415011,
+  "lon": 12.2397306
+},
+{
+  "type": "node",
+  "id": 9686338666,
+  "lat": 51.8415380,
+  "lon": 12.2397125
+},
+{
+  "type": "node",
+  "id": 9686338667,
+  "lat": 51.8416016,
+  "lon": 12.2398106
+},
+{
+  "type": "node",
+  "id": 9686338672,
+  "lat": 51.8415433,
+  "lon": 12.2399831
+},
+{
+  "type": "node",
+  "id": 9686338673,
+  "lat": 51.8415015,
+  "lon": 12.2397152
+},
+{
+  "type": "node",
+  "id": 9686338674,
+  "lat": 51.8415061,
+  "lon": 12.2397058
+},
+{
+  "type": "node",
+  "id": 9686338675,
+  "lat": 51.8415154,
+  "lon": 12.2397008
+},
+{
+  "type": "node",
+  "id": 9686338676,
+  "lat": 51.8415275,
+  "lon": 12.2397033
+}
+
+  ]
+}

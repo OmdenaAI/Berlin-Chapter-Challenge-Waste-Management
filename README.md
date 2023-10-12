@@ -1,9 +1,16 @@
-# chapter-project-repository-template
-Use this Repository as a template for creating Local Chapter Repositories
+# Berlin-Chapter-Challenge-Developing a Data-Driven Model for Waste Management Optimization
 
+The local problem we are trying to solve is the suboptimal waste management practices and the lack of data-driven decision-making in our community. We aim to tackle issues such as inefficient waste treatment, limited recycling rates, and environmental impact caused by improper waste disposal. By harnessing the potential of data science, we can identify opportunities for improvement, optimize waste treatment methods, and ultimately enhance the sustainability of our local waste management system.
 
-# [Chapter Challenge Name]
+## Problem Statements
+### 1. Optimize waste composition analysis:
+ Develop data-driven models to categorize waste types and identify dominant categories, enabling targeted recycling and reduction strategies.
+### 2. Forecast future waste generation: 
+Develop predictive models using time series analysis or machine learning algorithms to forecast future waste generation trends, aiding in capacity planning and resource allocation.
+### 3. Geospatial Analysis: 
+Use geographic data to create maps that display waste collection points, disposal sites, and processing facilities. This can help in route optimization and site selection.
 
+![Alt text](%E2%80%8Eproject_architecure.%E2%80%8E001.jpeg)
 
 ## Contribution Guidelines
 - Have a Look at the [project structure](#project-structure) and [folder overview](#folder-overview) below to understand where to store/upload your contribution
@@ -56,3 +63,14 @@ Use this Repository as a template for creating Local Chapter Repositories
 - Results           - Folder to store final analysis modelling results for the project.
 
 
+
+## Resources used
+The waste management data is collected from the following resources:
+- [Genesis website:](https://www-genesis.destatis.de/genesis//online?operation=table&code=32121-0003&bypass=true&levelindex=0&levelid=1692960011357#abreadcrumb) 
+    - collection of waste disposal
+    - survey of public waste disposal
+    - survey of returned sales packaging
+    - collection from Transport and outer packaging
+- [population data:](https://www.destatis.de/EN/Themes/Society-Environment/Population/Current-Population/Tables/population-by-laender.html)
+- [Geospatial data:](http://overpass-turbo.eu)
+   - collected data for waste transfer stations , recycling centres , landfills and waste disposal centres in all the states. 

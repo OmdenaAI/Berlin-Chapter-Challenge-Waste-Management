@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_cc6e9cc1e6f4933aa8561fe248f5c157 {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+        
+</head>
+<body>
+    
+    
+            <div class="folium-map" id="map_cc6e9cc1e6f4933aa8561fe248f5c157" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_cc6e9cc1e6f4933aa8561fe248f5c157 = L.map(
+                "map_cc6e9cc1e6f4933aa8561fe248f5c157",
+                {
+                    center: [49.41461, 8.681495],
+                    crs: L.CRS.EPSG3857,
+                    zoom: 15,
+                    zoomControl: true,
+                    preferCanvas: false,
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_6167d6db0c85a04c7ed5d1b869f5b4fc = L.tileLayer(
+                "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {"attribution": "Data by \u0026copy; \u003ca target=\"_blank\" href=\"http://openstreetmap.org\"\u003eOpenStreetMap\u003c/a\u003e, under \u003ca target=\"_blank\" href=\"http://www.openstreetmap.org/copyright\"\u003eODbL\u003c/a\u003e.", "detectRetina": false, "maxNativeZoom": 18, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            ).addTo(map_cc6e9cc1e6f4933aa8561fe248f5c157);
+        
+    
+
+        function geo_json_cef211fb833052a0dee4f4dadab6e880_onEachFeature(feature, layer) {
+            layer.on({
+            });
+        };
+        var geo_json_cef211fb833052a0dee4f4dadab6e880 = L.geoJson(null, {
+                onEachFeature: geo_json_cef211fb833052a0dee4f4dadab6e880_onEachFeature,
+            
+        });
+
+        function geo_json_cef211fb833052a0dee4f4dadab6e880_add (data) {
+            geo_json_cef211fb833052a0dee4f4dadab6e880
+                .addData(data)
+                .addTo(map_cc6e9cc1e6f4933aa8561fe248f5c157);
+        }
+            geo_json_cef211fb833052a0dee4f4dadab6e880_add({"bbox": [8.681423, 49.414599, 8.69198, 49.420514], "features": [{"bbox": [8.681423, 49.414599, 8.69198, 49.420514], "geometry": {"coordinates": [[8.681495, 49.414599], [8.68147, 49.414599], [8.681488, 49.41465], [8.681423, 49.415746], [8.681656, 49.41659], [8.681826, 49.417081], [8.681881, 49.417392], [8.682461, 49.417389], [8.682676, 49.417387], [8.683595, 49.417372], [8.68536, 49.417365], [8.686407, 49.417365], [8.68703, 49.41736], [8.687467, 49.417351], [8.688212, 49.417358], [8.688802, 49.417381], [8.690345, 49.417424], [8.690434, 49.417418], [8.691467, 49.417155], [8.691735, 49.417102], [8.691805, 49.417098], [8.69198, 49.417121], [8.691931, 49.417235], [8.691817, 49.417369], [8.691428, 49.417726], [8.691073, 49.418051], [8.690936, 49.418188], [8.690946, 49.41825], [8.69092, 49.418378], [8.690912, 49.418411], [8.690667, 49.418993], [8.690621, 49.419095], [8.690391, 49.419368], [8.690275, 49.419577], [8.690123, 49.419833], [8.689854, 49.420217], [8.689653, 49.420514], [8.687871, 49.420322]], "type": "LineString"}, "properties": {"fare": 0, "segments": [{"distance": 1601.9, "duration": 284.4, "steps": [{"distance": 1.8, "duration": 0.4, "instruction": "Head west on Gerhart-Hauptmann-Stra\u00dfe", "name": "Gerhart-Hauptmann-Stra\u00dfe", "type": 11, "way_points": [0, 1]}, {"distance": 313.8, "duration": 75.3, "instruction": "Turn right onto Wielandtstra\u00dfe", "name": "Wielandtstra\u00dfe", "type": 1, "way_points": [1, 6]}, {"distance": 737.5, "duration": 110.5, "instruction": "Turn right onto M\u00f6nchhofstra\u00dfe", "name": "M\u00f6nchhofstra\u00dfe", "type": 1, "way_points": [6, 21]}, {"distance": 418.1, "duration": 66.8, "instruction": "Turn left onto Handschuhsheimer Landstra\u00dfe, B 3", "name": "Handschuhsheimer Landstra\u00dfe, B 3", "type": 0, "way_points": [21, 36]}, {"distance": 130.6, "duration": 31.4, "instruction": "Turn left onto Roonstra\u00dfe", "name": "Roonstra\u00dfe", "type": 0, "way_points": [36, 37]}, {"distance": 0.0, "duration": 0.0, "instruction": "Arrive at Roonstra\u00dfe, straight ahead", "name": "-", "type": 10, "way_points": [37, 37]}]}], "summary": {"distance": 1601.9, "duration": 284.4}, "transfers": 0, "way_points": [0, 37]}, "type": "Feature"}], "metadata": {"attribution": "openrouteservice.org | OpenStreetMap contributors", "engine": {"build_date": "2023-07-09T01:31:50Z", "graph_date": "2023-10-01T08:23:22Z", "version": "7.1.0"}, "query": {"coordinates": [[8.681495, 49.41461], [8.687872, 49.420318]], "format": "json", "profile": "driving-hgv"}, "service": "routing", "timestamp": 1696221963165}, "type": "FeatureCollection"});
+
+        
+</script>
+</html>

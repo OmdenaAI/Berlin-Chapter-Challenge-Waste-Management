@@ -1,0 +1,86 @@
+Statistics_Code,Statistics_Label,time_code,time_label,Time,1_feature_code,1_feature_label,1_expression_code,1_expression_label,2_feature_code,2_Feature_Label,2_expression_code,2_expression_label,Amount_of_household_waste,Generation_of_household_waste_per_inhabitant
+32121,Survey of the public Waste disposal,JAHR,Jahr,2021,DLAND,Federal states,8.0,Baden-Wuerttemberg,ABFAT1,Types of waste,EAV-20030101-01,Household and bulky waste,1601.4,144
+32121,Survey of the public Waste disposal,JAHR,Jahr,2021,DLAND,Federal states,8.0,Baden-Wuerttemberg,ABFAT1,Types of waste,ABF-ORG-01,Separately collected organic waste,1679.1,151
+32121,Survey of the public Waste disposal,JAHR,Jahr,2021,DLAND,Federal states,8.0,Baden-Wuerttemberg,ABFAT1,Types of waste,ABF-WERT-01,Recyclable materials collected separately,1799.1,162
+32121,Survey of the public Waste disposal,JAHR,Jahr,2021,DLAND,Federal states,8.0,Baden-Wuerttemberg,ABFAT1,Types of waste,EAV-200123-01,Waste electrical appliances,.,.
+32121,Survey of the public Waste disposal,JAHR,Jahr,2021,DLAND,Federal states,8.0,Baden-Wuerttemberg,ABFAT1,Types of waste,EAV-SONST,Other waste,9.7,1
+32121,Survey of the public Waste disposal,JAHR,Jahr,2021,DLAND,Federal states,9.0,Bayern,ABFAT1,Types of waste,EAV-20030101-01,Household and bulky waste,2264.6,172
+32121,Survey of the public Waste disposal,JAHR,Jahr,2021,DLAND,Federal states,9.0,Bayern,ABFAT1,Types of waste,ABF-ORG-01,Separately collected organic waste,2109.0,160
+32121,Survey of the public Waste disposal,JAHR,Jahr,2021,DLAND,Federal states,9.0,Bayern,ABFAT1,Types of waste,ABF-WERT-01,Separately collected recyclables,2118.9,161
+32121,Survey of the public Waste disposal,JAHR,Jahr,2021,DLAND,Federal states,9.0,Bayern,ABFAT1,Types of waste,EAV-200123-01,Waste electrical appliances,.,.
+32121,Survey of the public Waste disposal,JAHR,Jahr,2021,DLAND,Federal states,9.0,Bayern,ABFAT1,Types of waste,EAV-SONST,Other waste,68.1,5
+32121,Survey of the public Waste disposal,JAHR,Jahr,2021,DLAND,Federal states,11.0,Berlin,ABFAT1,Types of waste,EAV-20030101-01,Household and bulky waste,878.8,239
+32121,Survey of the public Waste disposal,JAHR,Jahr,2021,DLAND,Federal states,11.0,Berlin,ABFAT1,Types of waste,ABF-ORG-01,Separately collected organic waste,139.4,38
+32121,Survey of the public Waste disposal,JAHR,Jahr,2021,DLAND,Federal states,11.0,Berlin,ABFAT1,Types of waste,ABF-WERT-01,Separately collected recyclables,387.5,105
+32121,Survey of the public Waste disposal,JAHR,Jahr,2021,DLAND,Federal states,11.0,Berlin,ABFAT1,Types of waste,EAV-200123-01,Waste electrical appliances,.,.
+32121,Survey of the public Waste disposal,JAHR,Jahr,2021,DLAND,Federal states,11.0,Berlin,ABFAT1,Types of waste,EAV-SONST,Other waste,1.2,0
+32121,Survey of the public Waste disposal,JAHR,Jahr,2021,DLAND,Federal states,12.0,Brandenburg,ABFAT1,Types of waste,EAV-20030101-01,Household and bulky waste,555.7,219
+32121,Survey of the public Waste disposal,JAHR,Jahr,2021,DLAND,Federal states,12.0,Brandenburg,ABFAT1,Types of waste,ABF-ORG-01,Separately collected organic waste,242.8,96
+32121,Survey of the public Waste disposal,JAHR,Jahr,2021,DLAND,Federal states,12.0,Brandenburg,ABFAT1,Types of waste,ABF-WERT-01,Recyclable materials collected separately,364.8,144
+32121,Survey of the public Waste disposal,JAHR,Jahr,2021,DLAND,Federal states,12.0,Brandenburg,ABFAT1,Types of waste,EAV-200123-01,Waste electrical appliances,.,.
+32121,Survey of the public Waste disposal,JAHR,Jahr,2021,DLAND,Federal states,12.0,Brandenburg,ABFAT1,Types of waste,EAV-SONST,Other waste,10.0,4
+32121,Survey of the public Waste disposal,JAHR,Jahr,2021,DLAND,Federal states,4.0,Bremen,ABFAT1,Types of waste,EAV-20030101-01,Household and bulky waste,158.7,235
+32121,Survey of the public Waste disposal,JAHR,Jahr,2021,DLAND,Federal states,4.0,Bremen,ABFAT1,Types of waste,ABF-ORG-01,Separately collected organic waste,59.4,88
+32121,Survey of the public Waste disposal,JAHR,Jahr,2021,DLAND,Federal states,4.0,Bremen,ABFAT1,Types of waste,ABF-WERT-01,Recyclable materials collected separately,80.8,119
+32121,Survey of the public Waste disposal,JAHR,Jahr,2021,DLAND,Federal states,4.0,Bremen,ABFAT1,Types of waste,EAV-200123-01,Waste electrical appliances,.,.
+32121,Survey of the public Waste disposal,JAHR,Jahr,2021,DLAND,Federal states,4.0,Bremen,ABFAT1,Types of waste,EAV-SONST,Other waste,0.2,0
+32121,Survey of the public Waste disposal,JAHR,Jahr,2021,DLAND,Federal states,2.0,Hamburg,ABFAT1,Types of waste,EAV-20030101-01,Household and bulky waste,473.5,255
+32121,Survey of the public Waste disposal,JAHR,Jahr,2021,DLAND,Federal states,2.0,Hamburg,ABFAT1,Types of waste,ABF-ORG-01,Separately collected organic waste,103.6,56
+32121,Survey of the public Waste disposal,JAHR,Jahr,2021,DLAND,Federal states,2.0,Hamburg,ABFAT1,Types of waste,ABF-WERT-01,Recyclable materials collected separately,215.2,116
+32121,Survey of the public Waste disposal,JAHR,Jahr,2021,DLAND,Federal states,2.0,Hamburg,ABFAT1,Types of waste,EAV-200123-01,Waste electrical appliances,.,.
+32121,Survey of the public Waste disposal,JAHR,Jahr,2021,DLAND,Federal states,2.0,Hamburg,ABFAT1,Types of waste,EAV-SONST,Other waste,5.1,3
+32121,Survey of the public Waste disposal,JAHR,Jahr,2021,DLAND,Federal states,6.0,Hesse,ABFAT1,Types of waste,EAV-20030101-01,Household and bulky waste,1094.7,174
+32121,Survey of the public Waste disposal,JAHR,Jahr,2021,DLAND,Federal states,6.0,Hesse,ABFAT1,Types of waste,ABF-ORG-01,Separately collected organic waste,909.3,144
+32121,Survey of the public Waste disposal,JAHR,Jahr,2021,DLAND,Federal states,6.0,Hesse,ABFAT1,Types of waste,ABF-WERT-01,Separately collected recyclables,853.8,136
+32121,Survey of the public Waste disposal,JAHR,Jahr,2021,DLAND,Federal states,6.0,Hesse,ABFAT1,Types of waste,EAV-200123-01,Waste electrical appliances,.,.
+32121,Survey of the public Waste disposal,JAHR,Jahr,2021,DLAND,Federal states,6.0,Hesse,ABFAT1,Types of waste,EAV-SONST,Other waste,15.1,2
+32121,Survey of the public Waste disposal,JAHR,Jahr,2021,DLAND,Federal states,13.0,Mecklenburg-Vorpommern,ABFAT1,Types of waste,EAV-20030101-01,Household and bulky waste,370.5,230
+32121,Survey of the public Waste disposal,JAHR,Jahr,2021,DLAND,Federal states,13.0,Mecklenburg-Vorpommern,ABFAT1,Types of waste,ABF-ORG-01,Separately collected organic waste,155.7,97
+32121,Survey of the public Waste disposal,JAHR,Jahr,2021,DLAND,Federal states,13.0,Mecklenburg-Vorpommern,ABFAT1,Types of waste,ABF-WERT-01,Recyclable materials collected separately,221.4,137
+32121,Survey of the public Waste disposal,JAHR,Jahr,2021,DLAND,Federal states,13.0,Mecklenburg-Vorpommern,ABFAT1,Types of waste,EAV-200123-01,Waste electrical appliances,.,.
+32121,Survey of the public Waste disposal,JAHR,Jahr,2021,DLAND,Federal states,13.0,Mecklenburg-Vorpommern,ABFAT1,Types of waste,EAV-SONST,Other waste,1.1,1
+32121,Survey of the public Waste disposal,JAHR,Jahr,2021,DLAND,Federal states,3.0,Lower Saxony,ABFAT1,Types of waste,EAV-20030101-01,Household and bulky waste,1526.1,190
+32121,Survey of the public Waste disposal,JAHR,Jahr,2021,DLAND,Federal states,3.0,Lower Saxony,ABFAT1,Types of waste,ABF-ORG-01,Separately collected organic waste,1391.2,173
+32121,Survey of the public Waste disposal,JAHR,Jahr,2021,DLAND,Federal states,3.0,Lower Saxony,ABFAT1,Types of waste,ABF-WERT-01,Recyclable materials collected separately,1337.2,167
+32121,Survey of the public Waste disposal,JAHR,Jahr,2021,DLAND,Federal states,3.0,Lower Saxony,ABFAT1,Types of waste,EAV-200123-01,Waste electrical appliances,.,.
+32121,Survey of the public Waste disposal,JAHR,Jahr,2021,DLAND,Federal states,3.0,Lower Saxony,ABFAT1,Types of waste,EAV-SONST,Other waste,21.6,3
+32121,Survey of the public Waste disposal,JAHR,Jahr,2021,DLAND,Federal states,5.0,North Rhine-Westphalia,ABFAT1,Types of waste,EAV-20030101-01,Household and bulky waste,4138.6,231
+32121,Survey of the public Waste disposal,JAHR,Jahr,2021,DLAND,Federal states,5.0,North Rhine-Westphalia,ABFAT1,Types of waste,ABF-ORG-01,Separately collected organic waste,2194.2,122
+32121,Survey of the public Waste disposal,JAHR,Jahr,2021,DLAND,Federal states,5.0,North Rhine-Westphalia,ABFAT1,Types of waste,ABF-WERT-01,Recyclable materials collected separately,2448.4,137
+32121,Survey of the public Waste disposal,JAHR,Jahr,2021,DLAND,Federal states,5.0,North Rhine-Westphalia,ABFAT1,Types of waste,EAV-200123-01,Waste electrical appliances,.,.
+32121,Survey of the public Waste disposal,JAHR,Jahr,2021,DLAND,Federal states,5.0,North Rhine-Westphalia,ABFAT1,Types of waste,EAV-SONST,Other waste,31.5,2
+32121,Survey of the public Waste disposal,JAHR,Jahr,2021,DLAND,Federal states,7.0,Rhineland-Palatinate,ABFAT1,Types of waste,EAV-20030101-01,Household and bulky waste,925.9,225
+32121,Survey of the public Waste disposal,JAHR,Jahr,2021,DLAND,Federal states,7.0,Rhineland-Palatinate,ABFAT1,Types of waste,ABF-ORG-01,Separately collected organic waste,786.6,192
+32121,Survey of the public Waste disposal,JAHR,Jahr,2021,DLAND,Federal states,7.0,Rhineland-Palatinate,ABFAT1,Types of waste,ABF-WERT-01,Recyclable materials collected separately,682.3,166
+32121,Survey of the public Waste disposal,JAHR,Jahr,2021,DLAND,Federal states,7.0,Rhineland-Palatinate,ABFAT1,Types of waste,EAV-200123-01,Waste electrical appliances,.,.
+32121,Survey of the public Waste disposal,JAHR,Jahr,2021,DLAND,Federal states,7.0,Rhineland-Palatinate,ABFAT1,Types of waste,EAV-SONST,Other waste,99.0,24
+32121,Survey of the public Waste disposal,JAHR,Jahr,2021,DLAND,Federal states,10.0,Saarland,ABFAT1,Types of waste,EAV-20030101-01,Household and bulky waste,189.2,193
+32121,Survey of the public Waste disposal,JAHR,Jahr,2021,DLAND,Federal states,10.0,Saarland,ABFAT1,Types of waste,ABF-ORG-01,Separately collected organic waste,134.7,137
+32121,Survey of the public Waste disposal,JAHR,Jahr,2021,DLAND,Federal states,10.0,Saarland,ABFAT1,Types of waste,ABF-WERT-01,Recyclable materials collected separately,158.4,161
+32121,Survey of the public Waste disposal,JAHR,Jahr,2021,DLAND,Federal states,10.0,Saarland,ABFAT1,Types of waste,EAV-200123-01,Waste electrical appliances,.,.
+32121,Survey of the public Waste disposal,JAHR,Jahr,2021,DLAND,Federal states,10.0,Saarland,ABFAT1,Types of waste,EAV-SONST,Other waste,0.8,1
+32121,Survey of the public Waste disposal,JAHR,Jahr,2021,DLAND,Federal states,14.0,Saxony,ABFAT1,Types of waste,EAV-20030101-01,Household and bulky waste,645.0,160
+32121,Survey of the public Waste disposal,JAHR,Jahr,2021,DLAND,Federal states,14.0,Saxony,ABFAT1,Types of waste,ABF-ORG-01,Separately collected organic waste,349.1,86
+32121,Survey of the public Waste disposal,JAHR,Jahr,2021,DLAND,Federal states,14.0,Saxony,ABFAT1,Types of waste,ABF-WERT-01,Recyclable materials collected separately,751.6,186
+32121,Survey of the public Waste disposal,JAHR,Jahr,2021,DLAND,Federal states,14.0,Saxony,ABFAT1,Types of waste,EAV-200123-01,Waste electrical appliances,.,.
+32121,Survey of the public Waste disposal,JAHR,Jahr,2021,DLAND,Federal states,14.0,Saxony,ABFAT1,Types of waste,EAV-SONST,Other waste,4.2,1
+32121,Survey of the public Waste disposal,JAHR,Jahr,2021,DLAND,Federal states,15.0,Saxony-Anhalt,ABFAT1,Types of waste,EAV-20030101-01,Household and bulky waste,438.8,202
+32121,Survey of the public Waste disposal,JAHR,Jahr,2021,DLAND,Federal states,15.0,Saxony-Anhalt,ABFAT1,Types of waste,ABF-ORG-01,Separately collected organic waste,275.1,127
+32121,Survey of the public Waste disposal,JAHR,Jahr,2021,DLAND,Federal states,15.0,Saxony-Anhalt,ABFAT1,Types of waste,ABF-WERT-01,Recyclable materials collected separately,319.4,147
+32121,Survey of the public Waste disposal,JAHR,Jahr,2021,DLAND,Federal states,15.0,Saxony-Anhalt,ABFAT1,Types of waste,EAV-200123-01,Waste electrical appliances,.,.
+32121,Survey of the public Waste disposal,JAHR,Jahr,2021,DLAND,Federal states,15.0,Saxony-Anhalt,ABFAT1,Types of waste,EAV-SONST,Other waste,2.2,1
+32121,Survey of the public Waste disposal,JAHR,Jahr,2021,DLAND,Federal states,1.0,Schleswig-Holstein,ABFAT1,Types of waste,EAV-20030101-01,Household and bulky waste,681.1,233
+32121,Survey of the public Waste disposal,JAHR,Jahr,2021,DLAND,Federal states,1.0,Schleswig-Holstein,ABFAT1,Types of waste,ABF-ORG-01,Separately collected organic waste,370.0,127
+32121,Survey of the public Waste disposal,JAHR,Jahr,2021,DLAND,Federal states,1.0,Schleswig-Holstein,ABFAT1,Types of waste,ABF-WERT-01,Recyclable materials collected separately,433.6,148
+32121,Survey of the public Waste disposal,JAHR,Jahr,2021,DLAND,Federal states,1.0,Schleswig-Holstein,ABFAT1,Types of waste,EAV-200123-01,Waste electrical appliances,.,.
+32121,Survey of the public Waste disposal,JAHR,Jahr,2021,DLAND,Federal states,1.0,Schleswig-Holstein,ABFAT1,Types of waste,EAV-SONST,Other waste,3.6,1
+32121,Survey of the public Waste disposal,JAHR,Jahr,2021,DLAND,Federal states,16.0,Thuringia,ABFAT1,Types of waste,EAV-20030101-01,Household and bulky waste,400.8,190
+32121,Survey of the public Waste disposal,JAHR,Jahr,2021,DLAND,Federal states,16.0,Thuringia,ABFAT1,Types of waste,ABF-ORG-01,Separately collected organic waste,271.2,129
+32121,Survey of the public Waste disposal,JAHR,Jahr,2021,DLAND,Federal states,16.0,Thuringia,ABFAT1,Types of waste,ABF-WERT-01,Recyclable materials collected separately,295.0,140
+32121,Survey of the public Waste disposal,JAHR,Jahr,2021,DLAND,Federal states,16.0,Thuringia,ABFAT1,Types of waste,EAV-200123-01,Waste electrical appliances,.,.
+32121,Survey of the public Waste disposal,JAHR,Jahr,2021,DLAND,Federal states,16.0,Thuringia,ABFAT1,Types of waste,EAV-SONST,Other waste,1.4,1
+32121,Survey of the public Waste disposal,JAHR,Jahr,2021,DLAND,Federal states,,In total,ABFAT1,Types of waste,EAV-20030101-01,Household and bulky waste,16343.4,196
+32121,Survey of the public Waste disposal,JAHR,Jahr,2021,DLAND,Federal states,,In total,ABFAT1,Types of waste,ABF-ORG-01,Separately collected organic waste,11170.4,134
+32121,Survey of the public Waste disposal,JAHR,Jahr,2021,DLAND,Federal states,,In total,ABFAT1,Types of waste,ABF-WERT-01,Recyclable materials collected separately,12467.4,150
+32121,Survey of the public Waste disposal,JAHR,Jahr,2021,DLAND,Federal states,,In total,ABFAT1,Types of waste,EAV-200123-01,Waste electrical appliances,.,.
+32121,Survey of the public Waste disposal,JAHR,Jahr,2021,DLAND,Federal states,,In total,ABFAT1,Types of waste,EAV-SONST,Other waste,274.8,3

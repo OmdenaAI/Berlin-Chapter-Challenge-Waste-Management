@@ -1,0 +1,63 @@
+{
+    "version": 0.6,
+    "generator": "Overpass API 0.7.61.5 4133829e",
+    "osm3s": {
+      "timestamp_osm_base": "2023-09-05T10:11:06Z",
+      "timestamp_areas_base": "2023-09-05T07:12:05Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+  
+  {
+    "type": "area",
+    "id": 3600062372,
+    "tags": {
+      "ISO3166-2": "DE-SL",
+      "TMC:cid_58:tabcd_1:Class": "Area",
+      "TMC:cid_58:tabcd_1:LCLversion": "12.0",
+      "TMC:cid_58:tabcd_1:LocationCode": "265",
+      "admin_level": "4",
+      "alt_name:ca": "Sarre",
+      "alt_name:cs": "Sársko",
+      "border_type": "state",
+      "boundary": "administrative",
+      "de:amtlicher_gemeindeschluessel": "10",
+      "de:regionalschluessel": "10",
+      "name": "Saarland",
+      "name:ar": "سارلاند",
+      "name:ca": "Saarland",
+      "name:cs": "Země Sársko",
+      "name:en": "Saarland",
+      "name:eo": "Sarlando",
+      "name:es": "Sarre",
+      "name:fa": "زارلند",
+      "name:fr": "Sarre",
+      "name:hsb": "Posaarska",
+      "name:hu": "Saar-vidék",
+      "name:lt": "Saro kraštas",
+      "name:mk": "Сар",
+      "name:pl": "Saara",
+      "name:prefix": "Bundesland",
+      "name:pt": "Sarre",
+      "name:ru": "Саар",
+      "name:sk": "Sársko",
+      "name:sl": "Posarje",
+      "name:sr": "Сарланд",
+      "name:th": "รัฐซาร์ลันท์",
+      "name:uk": "Саарланд",
+      "name:ur": "سارلینڈ",
+      "name:vo": "Saarlän",
+      "name:zh": "萨尔",
+      "ref": "SL",
+      "ref:nuts:1": "DEC",
+      "ref:nuts:2": "DEC0",
+      "source": "http://wiki.openstreetmap.org/wiki/Import/Catalogue/Kreisgrenzen_Deutschland_2005",
+      "type": "boundary",
+      "wikidata": "Q1201",
+      "wikipedia": "de:Saarland"
+    }
+  }
+  
+    ]
+  }
+  

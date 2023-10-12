@@ -1,0 +1,53 @@
+GENESIS table: 32161-0003
+Companies, amount of waste generated, employees, level of collection;;;;;;;
+of companies, coverage of employees: Germany,;;;;;;;
+years, economic sectors;;;;;;;
+Waste generation survey;;;;;;;
+Germany;;;;;;;
+;;;Establishments;Amount of waste generated;Employees;Degree of coverage of establishments;Degree of coverage of employees
+;;;number;1000 t;1000;percent;percent
+2010;WZ08-01-03;Agriculture and forestry, fisheries;55;39.6;8.3;0.1;4.4
+2010;WZ08-05-02;Mining and quarrying;64;1569.7;51.1;2.1;62.0
+2010;WZ08-10-01;Food industry and tobacco processing;1439;6963.2;367.4;4.2;54.4
+2010;WZ08-13-03;Textile and clothing industry, leather industry;645;232.8;95.3;7.0;69.1
+2010;WZ08-16;H.v. Wooden, wicker, wicker and cork goods (excluding furniture);401;3635.4;56.2;2.9;47.4
+2010;WZ08-17-03;paper and printing industry;1267;7998.0;204.1;8.5;70.5
+2010;WZ08-19;Coking plant and mineral oil processing;48;263.0;17.6;25.9;88.2
+2010;WZ08-20-03;Chem. and pharma. Articles, rubber, plastic goods;2963;7594.2;694.6;23.3;86.8
+2010;WZ08-23;H.v.Glass goods, ceramics, processing. of stones and earth; 956; 2026.3; 142.1; 7.9; 66.6
+2010;WZ08-24-03;Metal production and processing, manuf. v.Metal ore.;1877;11457.7;559.8;4.3;58.0
+2010;WZ08-26-03;DV devices, electr. and optical products, vehicle construction, etc.; 5399; 7291.3; 2256.1; 10.6; 81.7
+2010;WZ08-31-02;Manufacture of furniture and other goods;1082;573.6;195.3;4.1;60.6
+2010;WZ08-35-01;Energy supply, water supply;306;8566.5;131.4;1.0;49.5
+2010;WZ08-45-04;Services;3080;7117.4;3156.9;0.1;16.6
+2014;WZ08-01-03;Agriculture and forestry, fisheries;300;237.2;27.1;0.1;12.8
+2014;WZ08-05-02;Mining and quarrying;64;1115.2;41.9;1.9;67.5
+2014;WZ08-10-01;Food industry and tobacco processing;1481;6123.7;380.3;3.8;55.4
+2014;WZ08-13-03;Textile and clothing industry, leather industry;556;261.3;88.8;4.9;71.8
+2014;WZ08-16;H.v. Wood, wicker, wicker and cork goods (without furniture);364;3269.3;53.4;2.3;49.4
+2014;WZ08-17-03;paper and printing industry;1124;7138.5;185.3;6.0;71.1
+2014;WZ08-19;coking plant and mineral oil processing;47;311.6;15.7;25.1;94.2
+2014;WZ08-20-03;Chem. and pharma. Articles, rubber, plastic goods;2947;8036.2;727.0;19.0;86.6
+2014;WZ08-23;H.v.Glass goods, ceramics, processing. of stones and earth; 944; 2142.2; 141.8; 6.4; 66.5
+2014;WZ08-24-03;Metal production and processing, manuf. v.Metal ore.;1922;12219.9;588.4;3.3;56.6
+2014;WZ08-26-03;DV devices, electr. and optical products, vehicle construction, etc.; 5387; 8160.2; 2401.8; 8.2; 80.9
+2014;WZ08-31-02;Manufacture of furniture and other goods;1059;685.1;195.5;2.9;58.0
+2014;WZ08-35-01;Energy supply, water supply;460;13733.3;156.4;0.6;55.9
+2014;WZ08-45-04;Services;3222;4437.5;3585.2;0.1;17.6
+2018;WZ08-01-03;Agriculture and forestry, fisheries;366;423.9;32.9;0.4;14.2
+2018;WZ08-05-02;Mining and quarrying;49;463.3;22.5;2.3;46.0
+2018;WZ08-10-01;Food industry and tobacco processing;1451;6318.3;404.4;4.7;55.7
+2018;WZ08-13-03;Textile and clothing industry, leather industry;503;229.7;86.7;6.9;70.1
+2018;WZ08-16;H.v. Wood, wicker, wicker and cork goods (without furniture);348;3582.6;57.9;3.6;51.1
+2018;WZ08-17-03;paper and printing industry;1039;6552.3;178.0;8.9;71.5
+2018;WZ08-19;Coking plant and petroleum processing;50;486.5;18.5;37.6;89.4
+2018;WZ08-20-03;Chem. and pharma. Articles, rubber, plastic goods;2987;7729.4;752.5;23.7;84.6
+2018;WZ08-23;H.v.Glass goods, ceramics, processing. of stones and earth; 940; 3768.9; 149.8; 9.1; 69.3
+2018;WZ08-24-03;Metal production and processing, manuf. v.Metal ore.;1912;12270.4;609.0;4.4;55.3
+2018;WZ08-26-03;DV devices, electr. and optical products, vehicle construction, etc.; 5402; 8375.5; 2531.1; 10.4; 79.2
+2018;WZ08-31-02;Manufacture of furniture and other goods;995;547.5;201.0;3.8;57.7
+2018;WZ08-35-01;Energy supply, water supply;526;13554.5;179.4;2.5;64.2
+2018;WZ08-45-04;Services;3377;3613.5;3844.6;0.1;17.5
+__________
+© Federal Statistical Office (Destatis), 2023
+Status: 08/30/2023 / 20:10:59
