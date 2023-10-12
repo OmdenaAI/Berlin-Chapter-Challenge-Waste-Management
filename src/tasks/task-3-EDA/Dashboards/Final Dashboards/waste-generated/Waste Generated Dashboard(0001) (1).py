@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[3]:
-
-
 import pygwalker as pyg
 import pandas as pd
 # pip install sumy
