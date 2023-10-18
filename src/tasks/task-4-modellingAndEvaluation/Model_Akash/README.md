@@ -23,7 +23,7 @@ Collected And Cleaned Dataset:
 ## Conclusion
 Model Performance: Two models were trained on the data – the Linear Regression Model and the Random Forest Regression Model. Their performance scores were as follows:
 
-   - Regression Model Score: 19 %
+   - Regression Model Score: 79 %
    - Random Forest Model Score: 99 %
 Cross-Validation: The Random Forest Model underwent cross-validation, assessing its consistency across different data subsets. Average Cross-Validation Score is 0.987. This underscores the model's robustness and its capacity to generalize effectively to new data.
 
