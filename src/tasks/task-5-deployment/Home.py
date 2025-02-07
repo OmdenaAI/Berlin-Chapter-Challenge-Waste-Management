@@ -1,5 +1,4 @@
 import streamlit as st
-import webbrowser
 primaryColor="#395144"
 backgroundColor="#f7f5ed"
 secondaryBackgroundColor="#f0ebce"

@@ -19,108 +19,118 @@ with tab1:
         f'<h1 style="text-align: center;">Waste Generated Nationally</h1>',
         unsafe_allow_html=True
     )
-    # import pygwalker as pyg
-    # import pandas as pd
-    # from gensim import corpora, models
-    # import gensim
-    # from sklearn.feature_extraction.text import CountVectorizer
-    # import nltk
-    # nltk.download('punkt')
-    # from sumy.parsers.plaintext import PlaintextParser
-    # from sumy.nlp.tokenizers import Tokenizer
-    # from sumy.summarizers.lex_rank import LexRankSummarizer
+    import pandas as pd
+    import plotly.express as px
+    import nltk
+    nltk.download('punkt')
+    from wordcloud import WordCloud
 
-    # df = pd.read_csv("data/waste_generated_32161-0001.csv", encoding='ISO-8859-1')
-    # df.dropna(inplace = True)
+    # Load and preprocess data
+    df = pd.read_csv("src/tasks/task-5-deployment/data/waste_generated_32161-0001.csv", encoding='ISO-8859-1')
+    df.dropna(inplace=True)
 
-    # vectorizer = CountVectorizer()
-    # X = vectorizer.fit_transform(df['types_of_waste'].values)
+    # Time series plot of total waste generated
+    fig1 = px.line(df.groupby('year')['generated_waste_quantity'].sum().reset_index(),
+                   x='year',
+                   y='generated_waste_quantity',
+                   title='Total Waste Generated Over Time',
+                   labels={'generated_waste_quantity': 'Waste Quantity',
+                          'year': 'Year'},
+                   template='plotly_white')
+    st.plotly_chart(fig1, use_container_width=True)
 
-    # corpus = gensim.matutils.Sparse2Corpus(X, documents_columns=False)
+    # Bar chart of waste by category
+    fig2 = px.bar(df.groupby('types_of_waste')['generated_waste_quantity']
+                  .sum()
+                  .sort_values(ascending=False)
+                  .head(10)
+                  .reset_index(),
+                  x='types_of_waste',
+                  y='generated_waste_quantity',
+                  title='Top 10 Types of Waste Generated',
+                  labels={'generated_waste_quantity': 'Waste Quantity',
+                         'types_of_waste': 'Waste Type'},
+                  template='plotly_white')
+    fig2.update_xaxes(tickangle=45)
+    st.plotly_chart(fig2, use_container_width=True)
 
-    # id2word = dict((v, k) for k, v in vectorizer.vocabulary_.items())
-    # lda = models.LdaModel(corpus, num_topics=30, id2word=id2word, passes=15)
-
-    # df['Topic_Label'] = [max(lda.get_document_topics(item), key=lambda x: x[1])[0] for item in corpus]
-    # df['Topic_Label'].unique()
-
-    # num_topics = 30
-    # for topic_id in range(num_topics):
-    #     sample_waste_types = df[df['Topic_Label'] == topic_id]  
-    #     ['types_of_waste'].sample(5)  
-    #     print(f"Topic {topic_id}:")
-    #     for waste_type in sample_waste_types:
-    #         print(waste_type)
-    #     print("\n")
-
-    # summarizer = LexRankSummarizer()
-
-    # category_names = {}
-
-    # Iterate over each unique topic label
-    # for topic_id in df['Topic_Label'].unique():
-        # Get all waste types for the current topic
-        # topic_text = ' '.join(df[df['Topic_Label'] == topic_id] ['types_of_waste'])
-
-        # Create a plaintext parser
-        # parser = PlaintextParser.from_string(topic_text,Tokenizer  ("english"))
-
-        # Summarize the text to generate a category name
-        # summary = summarizer(parser.document, sentences_count=1)  
-
-        # Store the generated category name in the dictionary
-        # category_names[topic_id] = str(summary[0])
+    # Add year filter
+    selected_year = st.selectbox('Select Year for Detailed Analysis', 
+                                sorted(df['year'].unique()))
     
-    # df['Category_Name'] = df['Topic_Label'].map(category_names)
+    # Pie chart for selected year
+    year_data = df[df['year'] == selected_year]
+    fig3 = px.pie(year_data,
+                  values='generated_waste_quantity',
+                  names='types_of_waste',
+                  title=f'Waste Distribution by Type ({selected_year})')
+    st.plotly_chart(fig3, use_container_width=True)
 
-    # walker4 = pyg.walk(
-        # df,
-        # spec="data/gw0.json",       
-        # use_kernel_calc=True,    
-        # use_preview=True,        
-    # )
+    # Box plot of waste quantities by type
+    fig4 = px.box(df,
+                  x='types_of_waste',
+                  y='generated_waste_quantity',
+                  title='Distribution of Waste Quantities by Type',
+                  template='plotly_white')
+    fig4.update_xaxes(tickangle=45)
+    st.plotly_chart(fig4, use_container_width=True)
 
-    # data = df.loc[:, ['year', 'Topic_Label', 'generated_waste_quantity']]
-
-    # df1 = pd.DataFrame(df)
-    # topic_label_totals = df.groupby('Category_Name')['generated_waste_quantity'].sum().reset_index()
+    # Word cloud of waste types
+    st.subheader('Common Waste Types')
+    text = ' '.join(df['types_of_waste'])
+    wordcloud = WordCloud(width=800, height=400, background_color='white').generate(text)
+    st.image(wordcloud.to_array())
 
 with tab2:
     st.markdown(
-            f'<h1 style="text-align: center;">Waste Generated by State</h1>',
-            unsafe_allow_html=True
-        )
-        # st.header("Waste Generated by State")
+        f'<h1 style="text-align: center;">Waste Generated by State</h1>',
+        unsafe_allow_html=True
+    )
     
     import streamlit as st
     import pandas as pd
-    import pygwalker as  pyg
+    import plotly.express as px
 
-
-    # Set page Configurations
-    # st.set_page_config(
-    #   page_title='PyGWalker Demo',
-    #   page_icon=':snake:',
-    #   layout='wide',
-    #   initial_sidebar_state='expanded'
-    # )
-
-    # Load data
     @st.cache_data
     def load_data(url):
-      df = pd.read_csv(url,sep=',',encoding='latin1')
-      return df
+        df = pd.read_csv(url, sep=',', encoding='latin1')
+        return df
 
-    df = load_data('data/Amount-of Waste-Generated-By-State 32121-0003.csv',)
+    df = load_data('src/tasks/task-5-deployment/data/Amount-of Waste-Generated-By-State 32121-0003.csv')
 
-    # Dispay PygWalker 
-    def load_config(file_path):
-      with open(file_path,'r') as config_file:
-        config_str = config_file.read()
-      return config_str
+    # Create visualizations using Plotly Express
+    # Bar chart showing waste by state
+    fig1 = px.bar(df, 
+                  x='States', 
+                  y='Amount of Household Wastes Generated (1000 t)',
+                  title='Waste Generated by State',
+                  labels={'waste_quantity': 'Amount of Household Wastes Generated (1000 t)', 
+                         'state': 'States'},
+                  template='plotly_white')
+    st.plotly_chart(fig1, use_container_width=True)
 
-    config = load_config('data/config.json')
-    pyg.walk(df,env ='Streamlit',dark='dark',spec=config)
+    # Line chart showing waste trends over time
+    fig2 = px.line(df, 
+                   x='Year', 
+                   y='Amount of Household Wastes Generated (1000 t)',
+                   color='States',
+                   title='Waste Generation Trends by State',
+                   labels={'waste_quantity': 'Waste Quantity (tons)', 
+                          'year': 'Year'},
+                   template='plotly_white')
+    st.plotly_chart(fig2, use_container_width=True)
+
+    # Add filtering options
+    selected_year = st.selectbox('Select Year', sorted(df['Year'].unique()))
+    
+    # Filter data and create filtered visualization
+    filtered_df = df[df['Year'] == selected_year]
+    fig3 = px.pie(filtered_df, 
+                  values='Amount of Household Wastes Generated (1000 t)', 
+                  names='States',
+                  title=f'Waste Distribution by State ({selected_year})',
+                  template='plotly_white')
+    st.plotly_chart(fig3, use_container_width=True)
 
 with tab3:
     st.markdown(
@@ -156,8 +166,8 @@ with tab3:
     def main():
         st.markdown('<style>div.block-container{text-align: center}{border:1px solid red}{padding-top:0.5rem;}</style>',
                     unsafe_allow_html=True)
-        overall_waste_qty = pd.read_csv('data/hazardous_EAV2-6_32151-0002.csv')
-        statewise_waste_qty = pd.read_csv('data/hazardous_EAV2-6_32151-0003.csv')
+        overall_waste_qty = pd.read_csv('src/tasks/task-5-deployment/data/hazardous_EAV2-6_32151-0002.csv')
+        statewise_waste_qty = pd.read_csv('src/tasks/task-5-deployment/data/hazardous_EAV2-6_32151-0003.csv')
         column1, column2 = st.columns((2))
         # Preprocessing on overall_waste_qty dataframe
         overall_waste_qty = overall_waste_qty.rename(
@@ -269,7 +279,7 @@ with tab4:
 
     #main Dataset
     def load_data():
-        data = pd.read_csv("data/GeoData.csv")
+        data = pd.read_csv("src/tasks/task-5-deployment/data/GeoData.csv")
         return data
     data = load_data()
 
@@ -367,16 +377,16 @@ with tab4:
 
     with tab41:
         # st.subheader("Landfills")
-        st.image("images/LFS.png", width=700)
+        st.image("src/tasks/task-5-deployment/images/LFS.png", width=700)
     with tab42:
         # st.subheader("Waste Disposal Centres")
-        st.image("images/WDC.png", width=700)
+        st.image("src/tasks/task-5-deployment/images/WDC.png", width=700)
     with tab43:
         # st.subheader("Waste Transfer Centres")
-        st.image("images/WTC.png", width=700)
+        st.image("src/tasks/task-5-deployment/images/WTC.png", width=700)
     with tab44:
         # st.subheader("Recycling Centres")
-        st.image("images/RC.png", width=700)
+        st.image("src/tasks/task-5-deployment/images/RC.png", width=700)
     
 
 
@@ -391,10 +401,9 @@ with tab4:
         colorbar=dict(title='Station Count'),
     ))
 
-    #x-axis stratching
     fig.update_layout(
         autosize=False,
-        width=500,  # Adjust the width as needed
-        height=500,  # Adjust the height as needed
+        width=500, 
+        height=500, 
     )
     st.plotly_chart(fig, use_container_width=True)
